@@ -1,0 +1,111 @@
+{
+ "results": [
+  {
+   "file": "卷013_异姓诸侯王表第一.txt",
+   "rows": 93,
+   "chars": 4186,
+   "missing_templates": 3
+  },
+  {
+   "file": "卷014_诸侯王表第二.txt",
+   "rows": 80,
+   "chars": 6341,
+   "missing_templates": 2
+  },
+  {
+   "file": "卷015_王子侯表第三上.txt",
+   "rows": 233,
+   "chars": 10082,
+   "missing_templates": 4
+  },
+  {
+   "file": "卷015b_王子侯表第三下.txt",
+   "rows": 235,
+   "chars": 8155,
+   "missing_templates": 0
+  },
+  {
+   "file": "卷016_高惠高后文功臣表第四.txt",
+   "rows": 255,
+   "chars": 22505,
+   "missing_templates": 1
+  },
+  {
+   "file": "卷017_景武昭宣元成功臣表第五.txt",
+   "rows": 128,
+   "chars": 8864,
+   "missing_templates": 1
+  },
+  {
+   "file": "卷018_外戚恩泽侯表第六.txt",
+   "rows": 135,
+   "chars": 9172,
+   "missing_templates": 0
+  },
+  {
+   "file": "卷019_百官公卿表第七上.txt",
+   "rows": 0,
+   "chars": 5029,
+   "missing_templates": 1
+  },
+  {
+   "file": "卷019b_百官公卿表第七下.txt",
+   "rows": 230,
+   "chars": 15580,
+   "missing_templates": 0
+  },
+  {
+   "file": "卷020_古今人表第八.txt",
+   "rows": 644,
+   "chars": 10917,
+   "missing_templates": 2
+  }
+ ],
+ "missing": [
+  {
+   "char": "𥷄",
+   "desc": "⿳𥫗人爾。",
+   "context": "卷013_异姓诸侯王表第一.txt"
+  },
+  {
+   "char": "𩠜",
+   "desc": "〔⿰𩠐旨〕，jī，同「稽」",
+   "context": "卷014_诸侯王表第二.txt"
+  },
+  {
+   "char": "𤊱",
+   "desc": "⿳⺈𠔿⿹勹灬。",
+   "context": "卷015_王子侯表第三上.txt"
+  },
+  {
+   "char": "𥛜",
+   "desc": "⿰示⿸虍且。",
+   "context": "卷015_王子侯表第三上.txt"
+  },
+  {
+   "char": "𨜓",
+   "desc": "⿰貞阝。",
+   "context": "卷016_高惠高后文功臣表第四.txt"
+  },
+  {
+   "char": "𨜐",
+   "desc": "〔⿰思阝〕，xǐ。",
+   "context": "卷017_景武昭宣元成功臣表第五.txt"
+  },
+  {
+   "char": "𠍳",
+   "desc": "〔⿱龷⿰⿱𠆢个⿱𠆢个〕，同「益」。",
+   "context": "卷019_百官公卿表第七上.txt"
+  },
+  {
+   "char": "𤟭",
+   "desc": "〔⿱㲋犬〕",
+   "context": "卷020_古今人表第八.txt"
+  },
+  {
+   "char": "𨟎",
+   "desc": "〔雋阝〕",
+   "context": "卷020_古今人表第八.txt"
+  }
+ ]
+}

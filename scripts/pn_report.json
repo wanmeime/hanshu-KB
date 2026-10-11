@@ -1,0 +1,722 @@
+[
+ {
+  "file": "卷001_高帝纪第一上.txt",
+  "paras": 70,
+  "rows": 0,
+  "chars": 10116
+ },
+ {
+  "file": "卷001b_高帝纪第一下.txt",
+  "paras": 69,
+  "rows": 0,
+  "chars": 7782
+ },
+ {
+  "file": "卷002_惠帝纪第二.txt",
+  "paras": 30,
+  "rows": 0,
+  "chars": 1204
+ },
+ {
+  "file": "卷003_高后纪第三.txt",
+  "paras": 17,
+  "rows": 0,
+  "chars": 2131
+ },
+ {
+  "file": "卷004_文帝纪第四.txt",
+  "paras": 78,
+  "rows": 0,
+  "chars": 6894
+ },
+ {
+  "file": "卷005_景帝纪第五.txt",
+  "paras": 82,
+  "rows": 0,
+  "chars": 3672
+ },
+ {
+  "file": "卷006_武帝纪第六.txt",
+  "paras": 20,
+  "rows": 0,
+  "chars": 10312
+ },
+ {
+  "file": "卷007_昭帝纪第七.txt",
+  "paras": 50,
+  "rows": 0,
+  "chars": 3556
+ },
+ {
+  "file": "卷008_宣帝纪第八.txt",
+  "paras": 146,
+  "rows": 0,
+  "chars": 9341
+ },
+ {
+  "file": "卷009_元帝纪第九.txt",
+  "paras": 81,
+  "rows": 0,
+  "chars": 5420
+ },
+ {
+  "file": "卷010_成帝纪第十.txt",
+  "paras": 101,
+  "rows": 0,
+  "chars": 6525
+ },
+ {
+  "file": "卷011_哀帝纪第十一.txt",
+  "paras": 15,
+  "rows": 0,
+  "chars": 3015
+ },
+ {
+  "file": "卷012_平帝纪第十二.txt",
+  "paras": 48,
+  "rows": 0,
+  "chars": 3274
+ },
+ {
+  "file": "卷013_异姓诸侯王表第一.txt",
+  "paras": 2,
+  "rows": 93,
+  "chars": 4946
+ },
+ {
+  "file": "卷014_诸侯王表第二.txt",
+  "paras": 11,
+  "rows": 80,
+  "chars": 7051
+ },
+ {
+  "file": "卷015_王子侯表第三上.txt",
+  "paras": 6,
+  "rows": 233,
+  "chars": 12119
+ },
+ {
+  "file": "卷015b_王子侯表第三下.txt",
+  "paras": 7,
+  "rows": 235,
+  "chars": 10216
+ },
+ {
+  "file": "卷016_高惠高后文功臣表第四.txt",
+  "paras": 14,
+  "rows": 255,
+  "chars": 24796
+ },
+ {
+  "file": "卷017_景武昭宣元成功臣表第五.txt",
+  "paras": 6,
+  "rows": 128,
+  "chars": 9960
+ },
+ {
+  "file": "卷018_外戚恩泽侯表第六.txt",
+  "paras": 13,
+  "rows": 135,
+  "chars": 10374
+ },
+ {
+  "file": "卷019_百官公卿表第七上.txt",
+  "paras": 41,
+  "rows": 0,
+  "chars": 5359
+ },
+ {
+  "file": "卷019b_百官公卿表第七下.txt",
+  "paras": 12,
+  "rows": 218,
+  "chars": 17522
+ },
+ {
+  "file": "卷020_古今人表第八.txt",
+  "paras": 1,
+  "rows": 644,
+  "chars": 16622
+ },
+ {
+  "file": "卷021_律历志第一上.txt",
+  "paras": 25,
+  "rows": 0,
+  "chars": 10146
+ },
+ {
+  "file": "卷021b_律历志第一下.txt",
+  "paras": 465,
+  "rows": 0,
+  "chars": 16252
+ },
+ {
+  "file": "卷022_礼乐志第二.txt",
+  "paras": 94,
+  "rows": 0,
+  "chars": 10110
+ },
+ {
+  "file": "卷023_刑法志第三.txt",
+  "paras": 31,
+  "rows": 0,
+  "chars": 8844
+ },
+ {
+  "file": "卷024_食货志第四上.txt",
+  "paras": 30,
+  "rows": 0,
+  "chars": 7404
+ },
+ {
+  "file": "卷024b_食货志第四下.txt",
+  "paras": 69,
+  "rows": 0,
+  "chars": 9542
+ },
+ {
+  "file": "卷025_郊祀志第五上.txt",
+  "paras": 78,
+  "rows": 0,
+  "chars": 11877
+ },
+ {
+  "file": "卷025b_郊祀志第五下.txt",
+  "paras": 6,
+  "rows": 0,
+  "chars": 9880
+ },
+ {
+  "file": "卷026_天文志第六.txt",
+  "paras": 81,
+  "rows": 0,
+  "chars": 16459
+ },
+ {
+  "file": "卷027_五行志第七上.txt",
+  "paras": 34,
+  "rows": 0,
+  "chars": 10172
+ },
+ {
+  "file": "卷027b_五行志第七中之上.txt",
+  "paras": 98,
+  "rows": 0,
+  "chars": 13665
+ },
+ {
+  "file": "卷027c_五行志第七中之下.txt",
+  "paras": 77,
+  "rows": 0,
+  "chars": 10402
+ },
+ {
+  "file": "卷027d_五行志第七下之上.txt",
+  "paras": 63,
+  "rows": 0,
+  "chars": 11039
+ },
+ {
+  "file": "卷027e_五行志第七下之下.txt",
+  "paras": 9,
+  "rows": 0,
+  "chars": 12582
+ },
+ {
+  "file": "卷028_地理志第八上.txt",
+  "paras": 37,
+  "rows": 0,
+  "chars": 19738
+ },
+ {
+  "file": "卷028b_地理志第八下.txt",
+  "paras": 32,
+  "rows": 0,
+  "chars": 18281
+ },
+ {
+  "file": "卷029_沟洫志第九.txt",
+  "paras": 7,
+  "rows": 0,
+  "chars": 6930
+ },
+ {
+  "file": "卷030_艺文志第十.txt",
+  "paras": 543,
+  "rows": 0,
+  "chars": 20339
+ },
+ {
+  "file": "卷031_陈胜项籍传第一.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 11986
+ },
+ {
+  "file": "卷032_张耳陈馀传第二.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 4263
+ },
+ {
+  "file": "卷033_魏豹田儋韩王信传第三.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 4161
+ },
+ {
+  "file": "卷034_韩彭英卢吴传第四.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 11678
+ },
+ {
+  "file": "卷035_荆燕吴传第五.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6378
+ },
+ {
+  "file": "卷036_楚元王传第六.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 14545
+ },
+ {
+  "file": "卷037_季布栾布田叔传第七.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 2805
+ },
+ {
+  "file": "卷038_高五王传第八.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5241
+ },
+ {
+  "file": "卷039_萧何曹参传第九.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5272
+ },
+ {
+  "file": "卷040_张陈王周传第十.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 13405
+ },
+ {
+  "file": "卷041_樊郦滕灌傅靳周传第十一.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6909
+ },
+ {
+  "file": "卷042_张周赵任申屠传第十二.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 3136
+ },
+ {
+  "file": "卷043_郦陆朱刘叔孙传第十三.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7612
+ },
+ {
+  "file": "卷044_淮南衡山济北王传第十四.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7246
+ },
+ {
+  "file": "卷045_蒯伍江息夫传第十五.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 9155
+ },
+ {
+  "file": "卷046_万石卫直周张传第十六.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 3149
+ },
+ {
+  "file": "卷047_文三王传第十七.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 3902
+ },
+ {
+  "file": "卷048_贾谊传第十八.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 10858
+ },
+ {
+  "file": "卷049_爰盎晁错传第十九.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 10583
+ },
+ {
+  "file": "卷050_张冯汲郑传第二十.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5588
+ },
+ {
+  "file": "卷051_贾邹枚路传第二十一.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 10968
+ },
+ {
+  "file": "卷052_窦田灌韩传第二十二.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8496
+ },
+ {
+  "file": "卷053_景十三王传第二十三.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7827
+ },
+ {
+  "file": "卷054_李广苏建传第二十四.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 9693
+ },
+ {
+  "file": "卷055_卫青霍去病传第二十五.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6767
+ },
+ {
+  "file": "卷056_董仲舒传第二十六.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 9600
+ },
+ {
+  "file": "卷057_司马相如传第二十七上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5862
+ },
+ {
+  "file": "卷057b_司马相如传第二十七下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6005
+ },
+ {
+  "file": "卷058_公孙弘卜式儿宽传第二十八.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6170
+ },
+ {
+  "file": "卷059_张汤传第二十九.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5928
+ },
+ {
+  "file": "卷060_杜周传第三十.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7109
+ },
+ {
+  "file": "卷061_张骞李广利传第三十一.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5041
+ },
+ {
+  "file": "卷062_司马迁传第三十二.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 9194
+ },
+ {
+  "file": "卷063_武五子传第三十三.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8836
+ },
+ {
+  "file": "卷064_严朱吾丘主父徐严终王贾传第三十四上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 9235
+ },
+ {
+  "file": "卷064b_严朱吾丘主父徐严终王贾传第三十四下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7758
+ },
+ {
+  "file": "卷065_东方朔传第三十五.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8494
+ },
+ {
+  "file": "卷066_公孙刘田王杨蔡陈郑传第三十六.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8362
+ },
+ {
+  "file": "卷067_杨胡朱梅云传第三十七.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6384
+ },
+ {
+  "file": "卷068_霍光金日磾传第三十八.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 11155
+ },
+ {
+  "file": "卷069_赵充国辛庆忌传第三十九.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8999
+ },
+ {
+  "file": "卷070_傅常郑甘陈段传第四十.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 10236
+ },
+ {
+  "file": "卷071_隽疏于薛平彭传第四十一.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5642
+ },
+ {
+  "file": "卷072_王贡两龚鲍传第四十二.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 13028
+ },
+ {
+  "file": "卷073_韦贤传第四十三.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8889
+ },
+ {
+  "file": "卷074_魏相丙吉传第四十四.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6208
+ },
+ {
+  "file": "卷075_眭两夏侯京翼李传第四十五.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 13328
+ },
+ {
+  "file": "卷076_赵尹韩张两王传第四十六.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 13216
+ },
+ {
+  "file": "卷077_盖诸葛刘郑孙毋将何传第四十七.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7903
+ },
+ {
+  "file": "卷078_萧望之传第四十八.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6986
+ },
+ {
+  "file": "卷079_冯奉世传第四十九.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5063
+ },
+ {
+  "file": "卷080_宣元六王传第五十.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 5139
+ },
+ {
+  "file": "卷081_匡张孔马传第五十一.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 11692
+ },
+ {
+  "file": "卷082_王商史丹傅喜传第五十二.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 4722
+ },
+ {
+  "file": "卷083_薛宣朱博传第五十三.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8334
+ },
+ {
+  "file": "卷084_翟方进传第五十四.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8909
+ },
+ {
+  "file": "卷085_谷永杜邺传第五十五.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 9821
+ },
+ {
+  "file": "卷086_何武王嘉师丹传第五十六.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 10283
+ },
+ {
+  "file": "卷087_扬雄传第五十七上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6442
+ },
+ {
+  "file": "卷087b_扬雄传第五十七下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6117
+ },
+ {
+  "file": "卷088_儒林传第五十八.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 11405
+ },
+ {
+  "file": "卷089_循吏传第五十九.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6271
+ },
+ {
+  "file": "卷090_酷吏传第六十.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8618
+ },
+ {
+  "file": "卷091_货殖传第六十一.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 3504
+ },
+ {
+  "file": "卷092_游侠传第六十二.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6901
+ },
+ {
+  "file": "卷093_佞幸传第六十三.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 6564
+ },
+ {
+  "file": "卷094_匈奴传第六十四上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 16689
+ },
+ {
+  "file": "卷094b_匈奴传第六十四下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 13982
+ },
+ {
+  "file": "卷095_西南夷两粤朝鲜传第六十五.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 9895
+ },
+ {
+  "file": "卷096_西域传第六十六上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8585
+ },
+ {
+  "file": "卷096b_西域传第六十六下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 10793
+ },
+ {
+  "file": "卷097_外戚传第六十七上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 11750
+ },
+ {
+  "file": "卷097b_外戚传第六十七下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 12294
+ },
+ {
+  "file": "卷098_元后传第六十八.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 8405
+ },
+ {
+  "file": "卷099_王莽传第六十九上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 19100
+ },
+ {
+  "file": "卷099b_王莽传第六十九中.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 15276
+ },
+ {
+  "file": "卷099c_王莽传第六十九下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 15535
+ },
+ {
+  "file": "卷100_叙传第七十上.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7396
+ },
+ {
+  "file": "卷100b_叙传第七十下.txt",
+  "paras": 1,
+  "rows": 0,
+  "chars": 7135
+ }
+]
