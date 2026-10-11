@@ -1,23 +1,22 @@
 # hanshu-KB 项目看板
 
-> 《汉书》历史知识库 · 结构化汉代纪传体史书
-> 复刻通鉴开源项目（JY0284/zizhitongjian）的数据管线，覆盖西汉 230 年
+> 《汉书》历史知识库 · 复刻《史记》KB 的知识库结构
+> 对标标杆：`/home/jiaoduan/shared/project/shiji-map/raw/shiji-kb/kg/`（《史记》KB 知识库核心）
 
 ## 项目目标
 
-以《汉书》为源，抽取四类结构化数据，构建可检索、可生成"人物一生足迹"的历史知识库：
-- **人物（Roles）**：姓名、字号、籍贯、生卒、身份、官职、朝代
-- **地点（Locations）**：古今地名映射 + 经纬度坐标（CBDB / CHGIS）
-- **事件（Events）**：时间、类型、参与者、地点
-- **关系（Relations）**：人物之间的亲属、君臣、同僚、敌对等
+把《汉书》做成和《史记》KB **同样的结构化知识库**。直接复用 shiji-kb 已验证的 schema、11 大模块结构、词表、脚本，把数据源从《史记》换成《汉书》（西汉纪传体，230 年）。
 
-核心差异化：**纪传体人物足迹**——一人一传天然完整，是"输入人名→生成一生轨迹"的最佳数据源（通鉴编年体做不到这点）。
+《史记》KB 核心（`shiji-kb/kg/`）含 11 大模块：
+ontology（本体/sku）· entities（实体/人物/官职/身份/别名/消歧/词表）· events（事件）· facts（事实/人物轨迹）· relations（关系）· genealogy（世系）· chronology（年表/在位期）· structure（段落结构）· vocabularies · taxonomy · quantity
+
+史记与汉书同为**纪传体**，抽取/消歧/世系/足迹生成逻辑可直接迁移，汉书是同构复刻。
 
 ## 数据源
 
-- 《汉书》原文：维基文库（中文维基百科 Wikisource）
-- 地名库：CBDB（中国历代人物传记资料库）、CHGIS（中国历史地理信息系统）
-- 参考管线：github.com/JY0284/zizhitongjian（GPL-3.0，Grok-4.7 时代用 deepseek-v4-flash 抽取）
+- 《汉书》原文（维基文库 或 你已有来源）
+- 对标标杆：shiji-map/raw/shiji-kb/kg（schema、词表、脚本可复用）
+- 生成足迹：一人一传天然完整，最适合"输入人名→生成一生轨迹"
 
 ## 工作分工（工具链）
 
