@@ -1,0 +1,23 @@
+# 敏感配置 - 绝不提交
+.claude/
+.hermes/
+*.bak
+*.bak-*
+*.env
+.env
+secrets.json
+auth.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 数据文件（按需放开）
+data/raw/
+data/tmp/
+
+# 系统文件
+.DS_Store
+Thumbs.db
