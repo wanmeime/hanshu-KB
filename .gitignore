@@ -22,3 +22,5 @@ data/tmp/
 .DS_Store
 Thumbs.db
 shiji-kb-reference/
+
+*.lock
