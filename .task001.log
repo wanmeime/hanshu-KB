@@ -1,0 +1,19 @@
+[claude-code:unrecognized_model] {"model":"z-ai/glm-5.3-flash","query_source":"sdk"}
+We're changing auto mode to no longer charge for classifier requests in Claude Code. However, this session isn't eligible because your requests go through openrouter.ai, which isn't compatible with this update. Nothing breaks: auto mode keeps working, and its classifier requests are billed as before. To fix it and access the new version of auto mode, ask your gateway to implement: https://code.claude.com/docs/en/auto-mode-classifier-billing
+## 任务完成报告
+
+**产出**：`docs/项目执行计划.md`（v1.0）— 未 commit/push，遵守约束。
+
+**执行情况**：
+
+1. **精读 SKILL**：全文精读 3 份核心文档（SKILL_00 管线总览、00-META-13 技能迁移、00-META-03 冷启动），子代理另逐份精读 12 份（02a/02g/03a/03g/03i/04a/04b/05c/08e/01b/01e/INDEX），全部基于真实内容。
+2. **计划要点**：
+   - 九步管线 SKILL 逐条分级：L1 直接复用约 55-60%、L2 适配 30%、L3 重设计 10-15%（集中在人名消歧、汉代年号纪年、八表结构三处）
+   - 汉书特有调整：三公九卿/二十等爵/外戚/西域都护/匈奴职官/年号纪年等，均有 SKILL 依据
+   - 成本：约 40 亿 Token（SKILL_00 §6.2 原表）、迁移工作量约 230 小时 ≈ 6 周（META-13 公式）
+   - 里程碑 M0-M6，试点 5 篇（META-13 原定候选）
+3. **重要发现**（本地实证）：参考项目 `corpus/other/` 已有一份 74 万字《汉书》全文，可直接作纪/志/传底本；但**表 8 篇的表格主体缺失**（“表略”），需补源。另发现官职白名单脚本（extract_hanshu_baiguan.py）和《班马异同》对照文献都是现成资产。
+4. **网络调研受阻**（已按“记录并继续”处理）：联网检索被本机权限拦截（用户已禁用 WebSearch 类操作），数据源方案基于本地实证给出，维基文库等候选标注“待验证”——如需补验请授予相应权限。
+
+**下一步建议**：确认试点 5 篇后，按冷启动 Phase 0 复制 03a 起草汉书版标注规范。
+EXIT=0

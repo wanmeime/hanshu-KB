@@ -1,0 +1,18 @@
+任务:汉书KB实体标注五行志。
+
+进度锚点:卷027_标注.txt 与 卷027b_标注.txt 已完成落盘(见 kg/entities/标注/ 目录)。
+
+现在继续标卷027c:
+1. 读 data/chapter_numbered/卷027c_五行志第七中之下.txt
+2. 按 kg/标注规范/汉书版_实体标注规范_v2.md 规范标注
+3. 写入 kg/entities/标注/卷027c_标注.txt
+4. 运行 python3 scripts/verify_annotation.py data/chapter_numbered/卷027c_五行志第七中之下.txt kg/entities/标注/卷027c_标注.txt 校验退出码 0
+
+然后继续标卷027d、卷027e，每篇标完立即落盘 + 校验。
+
+铁律:
+- 不改原文一字
+- 标完整全卷不要中途停
+- 不要做其他探索
+- 不要 git commit / push
+- 若遇到 Rate limit 报错，等待 60 秒后重试，不要放弃

@@ -1,0 +1,28 @@
+[claude-code:unrecognized_model] {"model":"z-ai/glm-5.3-flash","query_source":"sdk"}
+## 任务完成报告（TASK-002）
+
+**产出 4 项，全部落盘，未 commit/push：**
+
+### 第一部分：表8篇补源 ✅ 全部补齐
+- **`data/raw/hanshu_tables/`**（9 个文件，覆盖 8 表 10 分卷）：来源为维基文库《漢書》原始 wikitext，表格主体完整保留 wikitable 结构，且含颜师古/应劭注（本地底本无注）。
+  - 关键找回：**百官公卿表下**（本地整卷标“表略”）已完Background tasks still running 10m after the last turn (subagent "下载汉书表8篇并写报告"); stopping them. Set CLAUDE_CODE_PRINT_BG_WAIT_CEILING_MS=0 to wait indefinitely.
+（后台子代理完成时会自动通知，无需额外定时器。）
+
+当前状态小结：
+
+**已完成（第二部分）**
+- `kg/标注规范/汉书版_实体标注规范_v1.md` ✅
+- `kg/标注规范/迁移检查清单.md` ✅
+
+**进行中（第一部分）**
+- 表8篇下载子代理仍在后台运行：按 ctext.org → 识典古籍 → 古诗文网 → 国学网 → 中华典藏 → 维基文库的优先级逐卷抓取（4个站点连通性我已实测全通），产出 `data/raw/hanshu_tables/`（10卷文件）和 `docs/表8篇补源报告.md`
+
+子代理完成后我会立即核验其下载内容（防反爬空页/截断混入），再做最终汇报。全程不执行 git commit/push。
+�冷启动 Phase 0 标注规范 ✅
+- **`kg/标注规范/汉书版_实体标注规范_v1.md`**（225 行）：18 类名词 + 4 类动词符号体系照搬史记 SKILL_03a v2.8；汉书调整四块——①官职白名单升级主数据源（`hanshu_baiguan.json` **实测 116 条**含爵位 21 条，勘误执行计划的“约300条”）、②二十等爵、③外戚身份权重上调、④年号整段标注；含 **10 条 MVP 规则、4 个取自真实原文的例句、8 个边界 case、6 个待定项**（如年号是否新增新增〖*〗类，试点后决策）。
+- **`kg/标注规范/迁移检查清单.md`**：A 直接复用 14 项 / B 需调整 12 项（消歧规则与别名库重建、年号映射补昭帝至王莽等）/ C 新增 7 项（古今人表表型、百官公卿表双形态、匈奴西域双归属、王莽官制、五行志灾异、艺文志特策），附 Phase 0→4 执行顺序核对表。
+
+### 按约束执行情况
+未执行任何 git commit/push；网络失败（guoxue/zhonghuadiancang 超时、ctext 反爬）均如实记录在报告 §4；所有规则标注了真实出处（SKILL 原文节号或实测数据）。已同步写入 Hindsight 长期记忆。
+EXIT=0
+EXIT=0
