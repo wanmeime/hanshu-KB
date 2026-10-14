@@ -26,7 +26,7 @@ def chapter_file(juan):
 
 def parse_paras(text):
     """按 [x] / [x.y] 段落边界切分，返回 [(标号, 段落文本)]"""
-    marks = [(m.start(), m.group().strip()) for m in re.finditer(r'\[\d+(\.\d+)?\]', text)]
+    marks = [(m.start(), m.group().strip()) for m in re.finditer(r'\[(?:r\d+|\d+(?:\.\d+)?)\]', text)]
     if not marks:
         return [("[0]", text)]
     out = []
