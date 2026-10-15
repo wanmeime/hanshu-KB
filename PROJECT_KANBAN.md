@@ -40,7 +40,7 @@ codebuddy -p --model custom-local:Deepseek-v4-flash --permission-mode bypassPerm
 
 ## 任务看板（实际进度）
 
-### ✅ 已完成（119/120 卷）
+### ✅ 已完成（120/120 卷）🎉
 - [x] 下载 shiji-kb 参考项目（161 SKILL）+ 剥 .git 作参考目录
 - [x] 项目规划（docs/项目执行计划.md，Claude Code）
 - [x] 表8篇补齐（维基文库，含颜师古注）
