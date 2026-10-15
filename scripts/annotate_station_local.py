@@ -3,7 +3,7 @@
 import sys, json, re, subprocess, os, fcntl, time
 from pathlib import Path
 
-BASE = Path("/workspace/hanshu-KB")
+BASE = Path(os.environ.get("HSKB_BASE", "/home/jiaoduan/shared/project/hanshu-KB"))
 CH = BASE / "data/chapter_numbered"
 ANN = BASE / "kg/entities/标注"
 VERIFY = BASE / "scripts/verify_annotation.py"
