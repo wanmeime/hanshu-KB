@@ -1,0 +1,3406 @@
+[
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "淮南王 与自己有封赏关系",
+    "chapter": "淮南衡山济北王传第十四",
+    "para": "1.28"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "高祖 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "10"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "沛公 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "12"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "沛公 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "章邯 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "20"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "歇 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "21"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "杨熊 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "27"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "沛公 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "29"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "田都 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "39"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "越 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "39"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "越 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "39"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "羽 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "48"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "咎 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "69"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "咎 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "69"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "羽 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "70.2"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "张良 与自己有敌对关系",
+    "chapter": "高帝纪第一上",
+    "para": "70.6"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "羽 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "3"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "横 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "12"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "利几 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "利几 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "54"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "56"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "56"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "56"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "郦商 与自己有敌对关系",
+    "chapter": "高帝纪第一下",
+    "para": "66"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "勃 与自己有敌对关系",
+    "chapter": "高后纪第三",
+    "para": "14"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "产 与自己有敌对关系",
+    "chapter": "高后纪第三",
+    "para": "14"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "毋波 与自己有敌对关系",
+    "chapter": "昭帝纪第七",
+    "para": "48"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "毋波 与自己有敌对关系",
+    "chapter": "昭帝纪第七",
+    "para": "48"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "宇 与自己有敌对关系",
+    "chapter": "平帝纪第十二",
+    "para": "28"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "昭公 与自己有敌对关系",
+    "chapter": "五行志第七上",
+    "para": "20"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "赵王 与自己有敌对关系",
+    "chapter": "五行志第七上",
+    "para": "23"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "阅 与自己有敌对关系",
+    "chapter": "五行志第七中之上",
+    "para": "87"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "始皇 与自己有敌对关系",
+    "chapter": "五行志第七中之下",
+    "para": "30.4"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "始皇 与自己有敌对关系",
+    "chapter": "五行志第七中之下",
+    "para": "30.4"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "桓 与自己有敌对关系",
+    "chapter": "五行志第七中之下",
+    "para": "31"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "襄 与自己有敌对关系",
+    "chapter": "五行志第七中之下",
+    "para": "74"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "武臣 与自己有敌对关系",
+    "chapter": "张耳陈馀传第二",
+    "para": "1.9"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "王离 与自己有敌对关系",
+    "chapter": "张耳陈馀传第二",
+    "para": "1.17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "豹 与自己有敌对关系",
+    "chapter": "魏豹田儋韩王信传第三",
+    "para": "1.3"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "荣 与自己有敌对关系",
+    "chapter": "魏豹田儋韩王信传第三",
+    "para": "1.12"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "魏豹田儋韩王信传第三",
+    "para": "1.27"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "嫣 与自己有敌对关系",
+    "chapter": "魏豹田儋韩王信传第三",
+    "para": "1.32"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "信 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.3"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "信 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.3"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "豹 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.14"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "信 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.21"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "信 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.32"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "项王 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.38"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "+末 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.43"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "越 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.51"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "越 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.55"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.62"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.63"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.73"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "赫 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.79"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.85"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "布 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.86"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "豨 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.92"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "豨 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.92"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "豨 与自己有敌对关系",
+    "chapter": "韩彭英卢吴传第四",
+    "para": "1.93"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "定国 与自己有敌对关系",
+    "chapter": "荆燕吴传第五",
+    "para": "1.10"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "盎 与自己有敌对关系",
+    "chapter": "荆燕吴传第五",
+    "para": "1.37"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "卬 与自己有敌对关系",
+    "chapter": "荆燕吴传第五",
+    "para": "1.54"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "丁公 与自己有敌对关系",
+    "chapter": "季布栾布田叔传第七",
+    "para": "1.10"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "仁 与自己有敌对关系",
+    "chapter": "季布栾布田叔传第七",
+    "para": "1.22"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "路中大夫 与自己有敌对关系",
+    "chapter": "高五王传第八",
+    "para": "1.34"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "路中大夫 与自己有敌对关系",
+    "chapter": "高五王传第八",
+    "para": "1.35"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "路中大夫 与自己有敌对关系",
+    "chapter": "高五王传第八",
+    "para": "1.35"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "偃 与自己有敌对关系",
+    "chapter": "高五王传第八",
+    "para": "1.42"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "李由 与自己有敌对关系",
+    "chapter": "萧何曹参传第九",
+    "para": "1.26"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "李由 与自己有敌对关系",
+    "chapter": "萧何曹参传第九",
+    "para": "1.26"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "李由 与自己有敌对关系",
+    "chapter": "萧何曹参传第九",
+    "para": "1.26"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "赵贲 与自己有敌对关系",
+    "chapter": "萧何曹参传第九",
+    "para": "1.27"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "赵贲 与自己有敌对关系",
+    "chapter": "萧何曹参传第九",
+    "para": "1.27"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "赵贲 与自己有敌对关系",
+    "chapter": "萧何曹参传第九",
+    "para": "1.27"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "戚公 与自己有敌对关系",
+    "chapter": "萧何曹参传第九",
+    "para": "1.32"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "项王 与自己有敌对关系",
+    "chapter": "张陈王周传第十",
+    "para": "1.45"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "韩信 与自己有敌对关系",
+    "chapter": "张陈王周传第十",
+    "para": "1.83"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "韩信 与自己有敌对关系",
+    "chapter": "张陈王周传第十",
+    "para": "1.83"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "韩信 与自己有敌对关系",
+    "chapter": "张陈王周传第十",
+    "para": "1.83"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "豨 与自己有敌对关系",
+    "chapter": "张陈王周传第十",
+    "para": "1.85"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "豨 与自己有敌对关系",
+    "chapter": "张陈王周传第十",
+    "para": "1.85"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "吴王 与自己有敌对关系",
+    "chapter": "张陈王周传第十",
+    "para": "1.104"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "项籍 与自己有敌对关系",
+    "chapter": "樊郦滕灌傅靳周传第十一",
+    "para": "1.9"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "高后 与自己有敌对关系",
+    "chapter": "樊郦滕灌傅靳周传第十一",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "高后 与自己有敌对关系",
+    "chapter": "樊郦滕灌傅靳周传第十一",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "苛 与自己有敌对关系",
+    "chapter": "张周赵任申屠传第十二",
+    "para": "1.5"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "嘉 与自己有敌对关系",
+    "chapter": "张周赵任申屠传第十二",
+    "para": "1.25"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "贾 与自己有敌对关系",
+    "chapter": "郦陆朱刘叔孙传第十三",
+    "para": "1.28"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "建 与自己有敌对关系",
+    "chapter": "郦陆朱刘叔孙传第十三",
+    "para": "1.32"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "犴反 与自己有敌对关系",
+    "chapter": "文三王传第十七",
+    "para": "1.19"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "胡亥 与自己有敌对关系",
+    "chapter": "贾谊传第十八",
+    "para": "1.62"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "盎 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "盎 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "盎 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.18"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "错 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.81"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "错 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.83"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "错 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.86"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "错 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.87"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "错 与自己有敌对关系",
+    "chapter": "爰盎晁错传第十九",
+    "para": "1.88"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "章邯 与自己有敌对关系",
+    "chapter": "贾邹枚路传第二十一",
+    "para": "1.35"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "孝王 与自己有敌对关系",
+    "chapter": "贾邹枚路传第二十一",
+    "para": "1.36"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "错 与自己有敌对关系",
+    "chapter": "贾邹枚路传第二十一",
+    "para": "1.73"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "错 与自己有敌对关系",
+    "chapter": "贾邹枚路传第二十一",
+    "para": "1.73"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "甫 与自己有敌对关系",
+    "chapter": "窦田灌韩传第二十二",
+    "para": "1.18"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "恢 与自己有敌对关系",
+    "chapter": "窦田灌韩传第二十二",
+    "para": "1.68"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "恢 与自己有敌对关系",
+    "chapter": "窦田灌韩传第二十二",
+    "para": "1.69"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "恢 与自己有敌对关系",
+    "chapter": "窦田灌韩传第二十二",
+    "para": "1.69"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "元 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.6"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "非 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.11"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "建 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "建 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.21"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "端 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.22"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "端 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.22"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "端 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.22"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "勃 与自己有敌对关系",
+    "chapter": "景十三王传第二十三",
+    "para": "1.62"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.3"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.4"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.9"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.9"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.10"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.12"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.14"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.15"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "陵 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.35"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "陵 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.36"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "陵 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.38"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "陵 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.38"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "陵 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.43"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "陵 与自己有敌对关系",
+    "chapter": "李广苏建传第二十四",
+    "para": "1.73"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "卫青霍去病传第二十五",
+    "para": "1.25"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "破奴 与自己有敌对关系",
+    "chapter": "卫青霍去病传第二十五",
+    "para": "1.57"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "弘 与自己有敌对关系",
+    "chapter": "公孙弘卜式儿宽传第二十八",
+    "para": "1.34"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "山 与自己有敌对关系",
+    "chapter": "张汤传第二十九",
+    "para": "1.12"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "放 与自己有敌对关系",
+    "chapter": "张汤传第二十九",
+    "para": "1.46"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "骞 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.9"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "骞 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.11"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "难兜靡 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.11"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "昆莫 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.13"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "昆莫 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.13"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "毋寡 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.34"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "毋寡 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.36"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "申生 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.38"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "申生 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.38"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "申生 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.38"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "桀 与自己有敌对关系",
+    "chapter": "张骞李广利传第三十一",
+    "para": "1.38"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "太子 与自己有敌对关系",
+    "chapter": "武五子传第三十三",
+    "para": "1.3"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "太子 与自己有敌对关系",
+    "chapter": "武五子传第三十三",
+    "para": "1.14"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "太子 与自己有敌对关系",
+    "chapter": "武五子传第三十三",
+    "para": "1.15"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "延寿 与自己有敌对关系",
+    "chapter": "武五子传第三十三",
+    "para": "1.51"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "胥 与自己有敌对关系",
+    "chapter": "武五子传第三十三",
+    "para": "1.53"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "胥 与自己有敌对关系",
+    "chapter": "武五子传第三十三",
+    "para": "1.53"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "如侯 与自己有敌对关系",
+    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
+    "para": "1.12"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "䜣 与自己有敌对关系",
+    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
+    "para": "1.29"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "君侯 与自己有敌对关系",
+    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
+    "para": "1.33"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "恽 与自己有敌对关系",
+    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
+    "para": "1.35"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "恽 与自己有敌对关系",
+    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
+    "para": "1.43"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "显 与自己有敌对关系",
+    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
+    "para": "1.62"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "光 与自己有敌对关系",
+    "chapter": "霍光金日磾传第三十八",
+    "para": "1.71"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "日磾 与自己有敌对关系",
+    "chapter": "霍光金日磾传第三十八",
+    "para": "1.76"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "日磾 与自己有敌对关系",
+    "chapter": "霍光金日磾传第三十八",
+    "para": "1.76"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "介子 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.2"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "介子 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.2"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "吉 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.15"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "汤 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.61"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "会宗 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.63"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "末振将 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.87"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "番丘 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.88"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "会宗 与自己有敌对关系",
+    "chapter": "傅常郑甘陈段传第四十",
+    "para": "1.89"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广汉 与自己有敌对关系",
+    "chapter": "赵尹韩张两王传第四十六",
+    "para": "1.5"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "尊 与自己有敌对关系",
+    "chapter": "赵尹韩张两王传第四十六",
+    "para": "1.83"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "解 与自己有敌对关系",
+    "chapter": "游侠传第六十二",
+    "para": "1.13"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "解 与自己有敌对关系",
+    "chapter": "游侠传第六十二",
+    "para": "1.18"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "解 与自己有敌对关系",
+    "chapter": "游侠传第六十二",
+    "para": "1.19"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "涉 与自己有敌对关系",
+    "chapter": "游侠传第六十二",
+    "para": "1.45"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "涉 与自己有敌对关系",
+    "chapter": "游侠传第六十二",
+    "para": "1.52"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "涉 与自己有敌对关系",
+    "chapter": "游侠传第六十二",
+    "para": "1.54"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "建 与自己有敌对关系",
+    "chapter": "游侠传第六十二",
+    "para": "1.59"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "酺 与自己有敌对关系",
+    "chapter": "佞幸传第六十三",
+    "para": "1.31"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "头曼 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.18"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.19"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.20"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.20"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "冒顿 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.29"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "恢 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.64"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "安国 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.67"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.75"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "广 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.75"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "路充国 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.90"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "陵 与自己有敌对关系",
+    "chapter": "匈奴传第六十四上",
+    "para": "1.100"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "郅支 与自己有敌对关系",
+    "chapter": "匈奴传第六十四下",
+    "para": "1.7"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "郅支 与自己有敌对关系",
+    "chapter": "匈奴传第六十四下",
+    "para": "1.7"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "郅支 与自己有敌对关系",
+    "chapter": "匈奴传第六十四下",
+    "para": "1.17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "郅支 与自己有敌对关系",
+    "chapter": "匈奴传第六十四下",
+    "para": "1.17"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "郅支 与自己有敌对关系",
+    "chapter": "匈奴传第六十四下",
+    "para": "1.25"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "辟胡 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "亡波 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "亡波 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.16"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "兴 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.21"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "立 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.22"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "立 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.24"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "立 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.24"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "邯 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.25"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "嘉 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.51"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "嘉 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.52"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "嘉 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.52"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "馀善 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.68"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "何 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.76"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "何 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.76"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "何 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.76"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "右渠 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.78"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "山 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.79"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "山 与自己有敌对关系",
+    "chapter": "西南夷两粤朝鲜传第六十五",
+    "para": "1.79"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "破奴 与自己有敌对关系",
+    "chapter": "西域传第六十六上",
+    "para": "1.14"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "介子 与自己有敌对关系",
+    "chapter": "西域传第六十六上",
+    "para": "1.20"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "乌头劳 与自己有敌对关系",
+    "chapter": "西域传第六十六上",
+    "para": "1.39"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "阴末赴 与自己有敌对关系",
+    "chapter": "西域传第六十六上",
+    "para": "1.40"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "阴末赴 与自己有敌对关系",
+    "chapter": "西域传第六十六上",
+    "para": "1.40"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "昧蔡 与自己有敌对关系",
+    "chapter": "西域传第六十六上",
+    "para": "1.65"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "赖丹 与自己有敌对关系",
+    "chapter": "西域传第六十六下",
+    "para": "1.49"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "苏犹 与自己有敌对关系",
+    "chapter": "西域传第六十六下",
+    "para": "1.70"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "苏犹 与自己有敌对关系",
+    "chapter": "西域传第六十六下",
+    "para": "1.70"
+  },
+  {
+    "type": "自环关系",
+    "severity": "warning",
+    "description": "尤 与自己有敌对关系",
+    "chapter": "王莽传第六十九中",
+    "para": "1.90"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00025: 沛公 攻 沛公（主宾相同）",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00054: 章邯 破 章邯（主宾相同）",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00088: 杨熊 破 杨熊（主宾相同）",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00095: 沛公 击 沛公（主宾相同）",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00173: 羽 击 羽（主宾相同）",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00221: 咎 击 咎（主宾相同）",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00258: 羽 围 羽（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00284: 横 赦 横（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00285: 横 诛 横（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00290: 利几 击 利几（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00291: 利几 破 利几（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00350: 布 破 布（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00351: 布 走 布（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00352: 布 追 布（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00354: 布 击 布（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00355: 布 破 布（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00356: 布 追 布（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00357: 布 斩 布（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00367: 郦商 族 郦商（主宾相同）",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00394: 产 击 产（主宾相同）",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00395: 产 走 产（主宾相同）",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00396: 产 斗 产（主宾相同）",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00397: 产 逐 产（主宾相同）",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00467: 濞 赦 濞（主宾相同）",
+    "chapter": "卷005_景帝纪第五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00666: 宣帝 立 宣帝（主宾相同）",
+    "chapter": "卷009_元帝纪第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00760: 宇 诛 宇（主宾相同）",
+    "chapter": "卷012_平帝纪第十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00777: 武王 克 武王（主宾相同）",
+    "chapter": "卷021b_律历志第一下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00781: 平 诛夷 平（主宾相同）",
+    "chapter": "卷025_郊祀志第五上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00802: 昭公 诛 昭公（主宾相同）",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00803: 赵王 杀 赵王（主宾相同）",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00831: 凤 徙 凤（主宾相同）",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00889: 子赤 赂 子赤（主宾相同）",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00946: 石显 伏辜 石显（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00957: 凤 颛 凤（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00971: 贤 赏赐 贤（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00977: 文侯 立 文侯（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00978: 文侯 封 文侯（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00990: 鱼石 伐 鱼石（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00991: 鱼石 取 鱼石（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f00992: 鱼石 封 鱼石（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01094: 良 格击 良（主宾相同）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01228: 始皇 毒惧诛作乱 始皇（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01229: 始皇 诛 始皇（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01230: 始皇 斩 始皇（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01240: 桓 杀 桓（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01314: 昭公 大雨雹 昭公（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01315: 昭公 胁君之象见 昭公（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01331: 博 凶恶亟疾之怒 博（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01358: 襄 杀 襄（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01359: 襄 伤足丧屦 襄（主宾相同）",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01504: 蔡侯 出 蔡侯（主宾相同）",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01505: 蔡侯 奔 蔡侯（主宾相同）",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01545: 京房 出 京房（主宾相同）",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01647: 馀 走 馀（主宾相同）",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01651: 王离 攻 王离（主宾相同）",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01693: 咎 自杀 咎（主宾相同）",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01736: 荣 杀 荣（主宾相同）",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01737: 荣 烧 荣（主宾相同）",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01738: 荣 夷 荣（主宾相同）",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01767: 高帝 自刭 高帝（主宾相同）",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01778: 信 徙 信（主宾相同）",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01780: 信 救 信（主宾相同）",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01832: 信 拔 信（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01873: +末 击 +末（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01874: 信 刭 信（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01890: 越 斩 越（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01925: 布 破 布（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01950: 赫 族 赫（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01961: 布 破 布（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01962: 布 杀 布（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01977: 豨 破 豨（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f01980: 豨 灭 豨（主宾相同）",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02018: 定国 自杀 定国（主宾相同）",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02019: 定国 立 定国（主宾相同）",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02031: 盎 杀 盎（主宾相同）",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02081: 更生 立 更生（主宾相同）",
+    "chapter": "卷036_楚元王传第六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02107: 丁公 灭 丁公（主宾相同）",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02205: 路中大夫 围 路中大夫（主宾相同）",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02217: 偃 诛 偃（主宾相同）",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02235: 何 封 何（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02236: 何 封 何（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02265: 李由 救 李由（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02266: 李由 击 李由（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02267: 李由 破 李由（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02268: 李由 杀 李由（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02274: 赵贲 击 赵贲（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02275: 赵贲 围 赵贲（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02276: 赵贲 击 赵贲（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02278: 齮 虏 齮（主宾相同）",
+    "chapter": "卷039_萧何曹参传第九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02321: 秦皇帝 狙击 秦皇帝（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02350: 雍齿 封 雍齿（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02360: 项王 诛 项王（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02416: 韩信 攻 韩信（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02417: 韩信 击 韩信（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02418: 韩信 击 韩信（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02424: 豨 击 豨（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02445: 吴王 斩 吴王（主宾相同）",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02472: 陈平 执 陈平（主宾相同）",
+    "chapter": "卷041_樊郦滕灌傅靳周传第十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02493: 高祖 掠笞 高祖（主宾相同）",
+    "chapter": "卷041_樊郦滕灌傅靳周传第十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02530: 苛 破 苛（主宾相同）",
+    "chapter": "卷042_张周赵任申屠传第十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02556: 嘉 诛 嘉（主宾相同）",
+    "chapter": "卷042_张周赵任申屠传第十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02572: 贾 诛 贾（主宾相同）",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02585: 高帝 赦 高帝（主宾相同）",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02626: 徐来 刑 徐来（主宾相同）",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02629: 孝 告 孝（主宾相同）",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02643: 蒯通 亨 蒯通（主宾相同）",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02729: 管子 灭亡 管子（主宾相同）",
+    "chapter": "卷048_贾谊传第十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02733: 胡亥 杀 胡亥（主宾相同）",
+    "chapter": "卷048_贾谊传第十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02741: 丝 刺 丝（主宾相同）",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02744: 盎 斩 盎（主宾相同）",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02760: 错 诛 错（主宾相同）",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02762: 错 斩 错（主宾相同）",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02763: 错 赦 错（主宾相同）",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02766: 错 要 错（主宾相同）",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02767: 错 斩 错（主宾相同）",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02797: 章邯 攻 章邯（主宾相同）",
+    "chapter": "卷051_贾邹枚路传第二十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02799: 孝王 杀 孝王（主宾相同）",
+    "chapter": "卷051_贾邹枚路传第二十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02809: 孝王 立 孝王（主宾相同）",
+    "chapter": "卷051_贾邹枚路传第二十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02864: 恢 诛 恢（主宾相同）",
+    "chapter": "卷052_窦田灌韩传第二十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02865: 恢 自杀 恢（主宾相同）",
+    "chapter": "卷052_窦田灌韩传第二十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02874: 元 诛 元（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02885: 非 击 非（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02886: 建 嗣 建（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02891: 建 杀 建（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02902: 端 诛 端（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02939: 距 禽 距（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02953: 望卿 灼 望卿（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02954: 望卿 椓杙 望卿（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02961: 爱 笞 爱（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f02997: 棁 立 棁（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03001: 勃 掠 勃（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03002: 勃 诛 勃（主宾相同）",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03024: 广 射 广（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03025: 广 杀 广（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03026: 广 射 广（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03027: 广 杀 广（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03036: 广 射 广（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03037: 广 杀 广（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03038: 广 赎 广（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03061: 禹 刺 禹（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03080: 陵 伤 陵（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03084: 陵 斩 陵（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03104: 陵 族 陵（主宾相同）",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03141: 青 封 青（主宾相同）",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03144: 青 封 青（主宾相同）",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03175: 去病 封 去病（主宾相同）",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03179: 广 战 广（主宾相同）",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03180: 广 杀 广（主宾相同）",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03197: 去病 渡 去病（主宾相同）",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03291: 山 斩 山（主宾相同）",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03294: 汤 自杀 汤（主宾相同）",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03311: 放 射 放（主宾相同）",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03315: 放 杀 放（主宾相同）",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03347: 难兜靡 攻 难兜靡（主宾相同）",
+    "chapter": "卷061_张骞李广利传第三十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03372: 毋寡 诛 毋寡（主宾相同）",
+    "chapter": "卷061_张骞李广利传第三十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03375: 申生 攻 申生（主宾相同）",
+    "chapter": "卷061_张骞李广利传第三十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03400: 卬 伐 卬（主宾相同）",
+    "chapter": "卷062_司马迁传第三十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03413: 太子 诛 太子（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03422: 太子 围 太子（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03423: 太子 捕 太子（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03424: 太子 经 太子（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03449: 刘泽 侵陵 刘泽（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03468: 延寿 诛 延寿（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03469: 胥 立 胥（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03471: 胥 杀 胥（主宾相同）",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03497: 朔 榜 朔（主宾相同）",
+    "chapter": "卷065_东方朔传第三十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03502: 主 伏诛 主（主宾相同）",
+    "chapter": "卷065_东方朔传第三十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03512: 贺 拜 贺（主宾相同）",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03549: 䜣 斩 䜣（主宾相同）",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03564: 恽 诛 恽（主宾相同）",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03572: 恽 籴 恽（主宾相同）",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03605: 忽 封 忽（主宾相同）",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03655: 福 诛灭 福（主宾相同）",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03656: 光 诛 光（主宾相同）",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03661: 日磾 杀 日磾（主宾相同）",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03662: 日磾 杀 日磾（主宾相同）",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03747: 介子 诛 介子（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03748: 介子 斩 介子（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03814: 郅支单于 臣 郅支单于（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03850: 汤 盗 汤（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03853: 郅支 兴师 郅支（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03860: 汤 击 汤（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03861: 会宗 围 会宗（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03882: 番丘 诛 番丘（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03883: 番丘 击杀 番丘（主宾相同）",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03898: 广 卖 广（主宾相同）",
+    "chapter": "卷071_隽疏于薛平彭传第四十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03899: 广 买 广（主宾相同）",
+    "chapter": "卷071_隽疏于薛平彭传第四十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03911: 永 嗣 永（主宾相同）",
+    "chapter": "卷071_隽疏于薛平彭传第四十一"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f03949: 莽 封侯 莽（主宾相同）",
+    "chapter": "卷072_王贡两龚鲍传第四十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04011: 延寿 弃市 延寿（主宾相同）",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04027: 尊 收捕 尊（主宾相同）",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04284: 贤 赐 贤（主宾相同）",
+    "chapter": "卷086_何武王嘉师丹传第五十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04307: 丹 免 丹（主宾相同）",
+    "chapter": "卷086_何武王嘉师丹传第五十六"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04333: 戊 立 戊（主宾相同）",
+    "chapter": "卷088_儒林传第五十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04369: 邑 赐 邑（主宾相同）",
+    "chapter": "卷089_循吏传第五十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04376: 王 废 王（主宾相同）",
+    "chapter": "卷089_循吏传第五十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04386: 信臣 罢 信臣（主宾相同）",
+    "chapter": "卷089_循吏传第五十九"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04476: 延年 废 延年（主宾相同）",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04486: 解 报仇 解（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04487: 解 刺杀 解（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04488: 解 杀 解（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04489: 解 徙 解（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04494: 解 杀 解（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04495: 解 族 解（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04520: 涉 杀 涉（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04525: 涉 杀 涉（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04535: 建 诛 建（主宾相同）",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04539: 嫣 即位 嫣（主宾相同）",
+    "chapter": "卷093_佞幸传第六十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04556: 显 徙 显（主宾相同）",
+    "chapter": "卷093_佞幸传第六十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04571: 酺 杀 酺（主宾相同）",
+    "chapter": "卷093_佞幸传第六十三"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04596: 襄王 伐 襄王（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04605: 惠王 拔 惠王（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04606: 惠王 伐 惠王（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04614: 头曼 畔 头曼（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04619: 冒顿 斩 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04620: 冒顿 斩 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04621: 冒顿 斩 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04623: 头曼 射杀 头曼（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04624: 头曼 诛 头曼（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04626: 冒顿 杀 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04627: 冒顿 自立 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04629: 冒顿 斩 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04630: 冒顿 斩 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04631: 冒顿 袭击 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04641: 冒顿 击 冒顿（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04664: 恢 诛 恢（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04670: 安国 败 安国（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04671: 安国 围 安国（主宾相同）",
+    "chapter": "卷094_匈奴传第六十四上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04742: 郅支 击 郅支（主宾相同）",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04743: 郅支 破 郅支（主宾相同）",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04754: 郅支 击 郅支（主宾相同）",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04798: 咸 拜 咸（主宾相同）",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04848: 立 攻 立（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04849: 立 斩 立（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04855: 邯 击 邯（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04883: 兴 立 兴（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04886: 嘉 诛 嘉（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04887: 嘉 诛 嘉（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04888: 嘉 诛 嘉（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04933: 何 杀 何（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04939: 右渠 杀 右渠（主宾相同）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04961: 破奴 破 破奴（主宾相同）",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04966: 介子 刺杀 介子（主宾相同）",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04968: 介子 斩 介子（主宾相同）",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04970: 乌头劳 杀 乌头劳（主宾相同）",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04975: 阴末赴 杀 阴末赴（主宾相同）",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04986: 昧蔡 杀 昧蔡（主宾相同）",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f04987: 昧蔡 立 昧蔡（主宾相同）",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05020: 赖丹 杀 赖丹（主宾相同）",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05032: 苏犹 降 苏犹（主宾相同）",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05033: 苏犹 击 苏犹（主宾相同）",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05159: 奉光 死 奉光（主宾相同）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05225: 丁姬 焚 丁姬（主宾相同）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05270: 凤 死 凤（主宾相同）",
+    "chapter": "卷098_元后传第六十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05288: 莽 立 莽（主宾相同）",
+    "chapter": "卷098_元后传第六十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05291: 莽 即位 莽（主宾相同）",
+    "chapter": "卷098_元后传第六十八"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05337: 寻 自杀 寻（主宾相同）",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05363: 元帝 立庙 元帝（主宾相同）",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "自指事实",
+    "severity": "info",
+    "description": "事实 f05408: 莽 铸作 莽（主宾相同）",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 京房 用'崩'（通常帝王专用）",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 周景王 用'崩'（通常帝王专用）",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 赵昭仪 用'崩'（通常帝王专用）",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 吕公 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 周勃 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 惠帝 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 吕禄 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 戚夫人 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 薄昭 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 吕后 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 太后 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 王夫人 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 孝武陈皇后 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 卫思后 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 霍光 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 王贺 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 卫太子 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 衍 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 衍 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 共侯 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 邛成太后 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 孝成赵皇后 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 赵皇后 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 莽 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 业 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 赵昭仪 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 王太后 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 孝元傅皇后 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 丁太后 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 明 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 王莽 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 冯婕妤 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 史立 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 孝王 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 莽 用'崩'（通常帝王专用）",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 骜 用'崩'（通常帝王专用）",
+    "chapter": "卷098_元后传第六十八"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 元帝 用'崩'（通常帝王专用）",
+    "chapter": "卷098_元后传第六十八"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 成帝 用'崩'（通常帝王专用）",
+    "chapter": "卷098_元后传第六十八"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 根 用'崩'（通常帝王专用）",
+    "chapter": "卷098_元后传第六十八"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 平帝 用'崩'（通常帝王专用）",
+    "chapter": "卷098_元后传第六十八"
+  }
+]

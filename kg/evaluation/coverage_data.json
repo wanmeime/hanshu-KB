@@ -1,0 +1,12 @@
+{
+  "entities": {
+    "total": 31698,
+    "persons": 8944,
+    "places": 5387,
+    "officials": 3307
+  },
+  "events": 11107,
+  "relations": 24787,
+  "facts": 5482,
+  "chapters": 120
+}

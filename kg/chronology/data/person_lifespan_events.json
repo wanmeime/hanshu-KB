@@ -1,0 +1,3062 @@
+{
+  "metadata": {
+    "known_count": 43,
+    "inferred_count": 399,
+    "method": "已知历史事实 + 标注文本薨/崩/死事件提取"
+  },
+  "known_lifespans": {
+    "汉高祖": {
+      "birth": -256,
+      "death": -195,
+      "confidence": "high",
+      "source": "史记/汉书本纪"
+    },
+    "刘邦": {
+      "birth": -256,
+      "death": -195,
+      "confidence": "high",
+      "source": "史记/汉书本纪"
+    },
+    "汉惠帝": {
+      "birth": -210,
+      "death": -188,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘盈": {
+      "birth": -210,
+      "death": -188,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "吕后": {
+      "birth": -241,
+      "death": -180,
+      "confidence": "high",
+      "source": "史记/汉书本纪"
+    },
+    "汉文帝": {
+      "birth": -203,
+      "death": -157,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘恒": {
+      "birth": -203,
+      "death": -157,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉景帝": {
+      "birth": -188,
+      "death": -141,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘启": {
+      "birth": -188,
+      "death": -141,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉武帝": {
+      "birth": -156,
+      "death": -87,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘彻": {
+      "birth": -156,
+      "death": -87,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉昭帝": {
+      "birth": -94,
+      "death": -74,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘弗陵": {
+      "birth": -94,
+      "death": -74,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉宣帝": {
+      "birth": -91,
+      "death": -49,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘询": {
+      "birth": -91,
+      "death": -49,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉元帝": {
+      "birth": -75,
+      "death": -33,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘奭": {
+      "birth": -75,
+      "death": -33,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉成帝": {
+      "birth": -51,
+      "death": -7,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘骜": {
+      "birth": -51,
+      "death": -7,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉哀帝": {
+      "birth": -25,
+      "death": -1,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘欣": {
+      "birth": -25,
+      "death": -1,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "汉平帝": {
+      "birth": -9,
+      "death": 5,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "刘衎": {
+      "birth": -9,
+      "death": 5,
+      "confidence": "high",
+      "source": "汉书本纪"
+    },
+    "王莽": {
+      "birth": -45,
+      "death": 23,
+      "confidence": "high",
+      "source": "汉书王莽传"
+    },
+    "萧何": {
+      "birth": null,
+      "death": -193,
+      "confidence": "medium",
+      "source": "汉书萧何传"
+    },
+    "曹参": {
+      "birth": null,
+      "death": -190,
+      "confidence": "medium",
+      "source": "汉书曹参传"
+    },
+    "张良": {
+      "birth": null,
+      "death": -186,
+      "confidence": "medium",
+      "source": "史记/汉书"
+    },
+    "韩信": {
+      "birth": -231,
+      "death": -196,
+      "confidence": "medium",
+      "source": "汉书韩信传"
+    },
+    "陈平": {
+      "birth": null,
+      "death": -178,
+      "confidence": "medium",
+      "source": "汉书陈平传"
+    },
+    "周勃": {
+      "birth": null,
+      "death": -169,
+      "confidence": "medium",
+      "source": "汉书周勃传"
+    },
+    "卫青": {
+      "birth": null,
+      "death": -106,
+      "confidence": "medium",
+      "source": "汉书卫青传"
+    },
+    "霍去病": {
+      "birth": -140,
+      "death": -117,
+      "confidence": "high",
+      "source": "汉书霍去病传"
+    },
+    "霍光": {
+      "birth": null,
+      "death": -68,
+      "confidence": "medium",
+      "source": "汉书霍光传"
+    },
+    "董仲舒": {
+      "birth": -179,
+      "death": -104,
+      "confidence": "medium",
+      "source": "汉书董仲舒传"
+    },
+    "司马相如": {
+      "birth": -817,
+      "death": null,
+      "confidence": "low",
+      "source": "汉书司马相如传"
+    },
+    "司马迁": {
+      "birth": -145,
+      "death": -86,
+      "confidence": "medium",
+      "source": "汉书司马迁传"
+    },
+    "扬雄": {
+      "birth": -53,
+      "death": 18,
+      "confidence": "medium",
+      "source": "汉书扬雄传"
+    },
+    "班固": {
+      "birth": 32,
+      "death": 92,
+      "confidence": "high",
+      "source": "后汉书班固传"
+    },
+    "张骞": {
+      "birth": null,
+      "death": -114,
+      "confidence": "medium",
+      "source": "汉书张骞传"
+    },
+    "李广": {
+      "birth": null,
+      "death": -119,
+      "confidence": "medium",
+      "source": "汉书李广传"
+    },
+    "苏武": {
+      "birth": null,
+      "death": -60,
+      "confidence": "low",
+      "source": "汉书苏武传"
+    },
+    "赵充国": {
+      "birth": -137,
+      "death": -52,
+      "confidence": "medium",
+      "source": "汉书赵充国传"
+    },
+    "刘秀": {
+      "birth": -5,
+      "death": 57,
+      "confidence": "high",
+      "source": "后汉书"
+    }
+  },
+  "inferred_events": [
+    {
+      "person": "梁",
+      "event": "死",
+      "time": "九月",
+      "source": "卷001_标注",
+      "para": "20"
+    },
+    {
+      "person": "卬",
+      "event": "死",
+      "time": null,
+      "source": "卷001_标注",
+      "para": "48"
+    },
+    {
+      "person": "豹",
+      "event": "死",
+      "time": "五年",
+      "source": "卷001b_标注",
+      "para": "1"
+    },
+    {
+      "person": "太上皇后",
+      "event": "崩",
+      "time": "五月",
+      "source": "卷001b_标注",
+      "para": "42"
+    },
+    {
+      "person": "太上皇",
+      "event": "崩",
+      "time": "五月",
+      "source": "卷001b_标注",
+      "para": "42"
+    },
+    {
+      "person": "高祖",
+      "event": "崩",
+      "time": "二年",
+      "source": "卷002_标注",
+      "para": "1"
+    },
+    {
+      "person": "赵隐王如意",
+      "event": "薨",
+      "time": "元年",
+      "source": "卷002_标注",
+      "para": "3"
+    },
+    {
+      "person": "仲",
+      "event": "薨",
+      "time": null,
+      "source": "卷002_标注",
+      "para": "7"
+    },
+    {
+      "person": "何",
+      "event": "薨",
+      "time": "七月辛未",
+      "source": "卷002_标注",
+      "para": "8"
+    },
+    {
+      "person": "参",
+      "event": "薨",
+      "time": "八月己丑",
+      "source": "卷002_标注",
+      "para": "21"
+    },
+    {
+      "person": "肥",
+      "event": "薨",
+      "time": "六年",
+      "source": "卷002_标注",
+      "para": "23"
+    },
+    {
+      "person": "哙",
+      "event": "薨",
+      "time": "六月",
+      "source": "卷002_标注",
+      "para": "25"
+    },
+    {
+      "person": "惠帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷003_标注",
+      "para": "1"
+    },
+    {
+      "person": "不疑",
+      "event": "薨",
+      "time": "二年",
+      "source": "卷003_标注",
+      "para": "4"
+    },
+    {
+      "person": "强",
+      "event": "薨",
+      "time": "五年",
+      "source": "卷003_标注",
+      "para": "7"
+    },
+    {
+      "person": "建",
+      "event": "薨",
+      "time": "七年",
+      "source": "卷003_标注",
+      "para": "9"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "十一年",
+      "source": "卷004_标注",
+      "para": "1"
+    },
+    {
+      "person": "楚元王交",
+      "event": "薨",
+      "time": null,
+      "source": "卷004_标注",
+      "para": "9"
+    },
+    {
+      "person": "章",
+      "event": "薨",
+      "time": "四月",
+      "source": "卷004_标注",
+      "para": "24"
+    },
+    {
+      "person": "灌婴",
+      "event": "薨",
+      "time": "四年",
+      "source": "卷004_标注",
+      "para": "29"
+    },
+    {
+      "person": "薄昭",
+      "event": "死",
+      "time": null,
+      "source": "卷004_标注",
+      "para": "45"
+    },
+    {
+      "person": "揖",
+      "event": "薨",
+      "time": "六月",
+      "source": "卷004_标注",
+      "para": "47"
+    },
+    {
+      "person": "孝惠皇后张氏",
+      "event": "薨",
+      "time": "三月",
+      "source": "卷004_标注",
+      "para": "68"
+    },
+    {
+      "person": "参",
+      "event": "薨",
+      "time": "六月",
+      "source": "卷004_标注",
+      "para": "71"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": "后七年",
+      "source": "卷005_标注",
+      "para": "1"
+    },
+    {
+      "person": "嘉",
+      "event": "薨",
+      "time": "六月",
+      "source": "卷005_标注",
+      "para": "13"
+    },
+    {
+      "person": "阏",
+      "event": "薨",
+      "time": "七月",
+      "source": "卷005_标注",
+      "para": "25"
+    },
+    {
+      "person": "周亚夫",
+      "event": "下狱死",
+      "time": null,
+      "source": "卷005_标注",
+      "para": "71"
+    },
+    {
+      "person": "景帝",
+      "event": "崩",
+      "time": "后三年",
+      "source": "卷006_标注",
+      "para": "1.1"
+    },
+    {
+      "person": "平原君",
+      "event": "薨",
+      "time": "九月",
+      "source": "卷006_标注",
+      "para": "1.7"
+    },
+    {
+      "person": "蚡",
+      "event": "薨",
+      "time": "九月",
+      "source": "卷006_标注",
+      "para": "1.14"
+    },
+    {
+      "person": "德",
+      "event": "薨",
+      "time": "五年",
+      "source": "卷006_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "非",
+      "event": "薨",
+      "time": "十二月",
+      "source": "卷006_标注",
+      "para": "1.23"
+    },
+    {
+      "person": "弘",
+      "event": "薨",
+      "time": "二年",
+      "source": "卷006_标注",
+      "para": "1.36"
+    },
+    {
+      "person": "寄",
+      "event": "薨",
+      "time": null,
+      "source": "卷006_标注",
+      "para": "1.37"
+    },
+    {
+      "person": "去病",
+      "event": "薨",
+      "time": "九月",
+      "source": "卷006_标注",
+      "para": "1.44"
+    },
+    {
+      "person": "青翟",
+      "event": "下狱死",
+      "time": "九月",
+      "source": "卷006_标注",
+      "para": "1.44"
+    },
+    {
+      "person": "舜",
+      "event": "薨",
+      "time": "三年",
+      "source": "卷006_标注",
+      "para": "1.46"
+    },
+    {
+      "person": "胜",
+      "event": "薨",
+      "time": "十一月甲子",
+      "source": "卷006_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "赵周",
+      "event": "下狱死",
+      "time": "九月",
+      "source": "卷006_标注",
+      "para": "1.52"
+    },
+    {
+      "person": "闳",
+      "event": "薨",
+      "time": "二年",
+      "source": "卷006_标注",
+      "para": "1.60"
+    },
+    {
+      "person": "端",
+      "event": "薨",
+      "time": "七月",
+      "source": "卷006_标注",
+      "para": "1.63"
+    },
+    {
+      "person": "青",
+      "event": "薨",
+      "time": "今年",
+      "source": "卷006_标注",
+      "para": "2"
+    },
+    {
+      "person": "庆",
+      "event": "薨",
+      "time": "三月",
+      "source": "卷006_标注",
+      "para": "10"
+    },
+    {
+      "person": "彭祖",
+      "event": "薨",
+      "time": "十二月",
+      "source": "卷006_标注",
+      "para": "13.8"
+    },
+    {
+      "person": "贺",
+      "event": "下狱死",
+      "time": "十一日",
+      "source": "卷006_标注",
+      "para": "15"
+    },
+    {
+      "person": "髆",
+      "event": "薨",
+      "time": "后元元年",
+      "source": "卷006_标注",
+      "para": "18"
+    },
+    {
+      "person": "武帝",
+      "event": "崩",
+      "time": "戊辰",
+      "source": "卷007_标注",
+      "para": "3"
+    },
+    {
+      "person": "日磾",
+      "event": "薨",
+      "time": "九月丙子",
+      "source": "卷007_标注",
+      "para": "18"
+    },
+    {
+      "person": "千秋",
+      "event": "薨",
+      "time": "三年",
+      "source": "卷007_标注",
+      "para": "50.11"
+    },
+    {
+      "person": "䜣",
+      "event": "薨",
+      "time": "五年",
+      "source": "卷007_标注",
+      "para": "50.13"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "元平元年",
+      "source": "卷008_标注",
+      "para": "4"
+    },
+    {
+      "person": "敞",
+      "event": "薨",
+      "time": "八月已巳",
+      "source": "卷008_标注",
+      "para": "6"
+    },
+    {
+      "person": "许氏",
+      "event": "崩",
+      "time": "三年",
+      "source": "卷008_标注",
+      "para": "21"
+    },
+    {
+      "person": "义",
+      "event": "薨",
+      "time": "六月已丑",
+      "source": "卷008_标注",
+      "para": "24"
+    },
+    {
+      "person": "光",
+      "event": "薨",
+      "time": "二年",
+      "source": "卷008_标注",
+      "para": "35"
+    },
+    {
+      "person": "安世",
+      "event": "薨",
+      "time": "丙寅",
+      "source": "卷008_标注",
+      "para": "78"
+    },
+    {
+      "person": "相",
+      "event": "薨",
+      "time": "三月丙午",
+      "source": "卷008_标注",
+      "para": "92"
+    },
+    {
+      "person": "增",
+      "event": "薨",
+      "time": "四月已丑",
+      "source": "卷008_标注",
+      "para": "107"
+    },
+    {
+      "person": "吉",
+      "event": "薨",
+      "time": "三年",
+      "source": "卷008_标注",
+      "para": "112"
+    },
+    {
+      "person": "延寿",
+      "event": "薨",
+      "time": "二月丁已",
+      "source": "卷008_标注",
+      "para": "121"
+    },
+    {
+      "person": "霸",
+      "event": "薨",
+      "time": "三月已丑",
+      "source": "卷008_标注",
+      "para": "135"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": "黄龙元年",
+      "source": "卷009_标注",
+      "para": "2"
+    },
+    {
+      "person": "接",
+      "event": "薨",
+      "time": "四月癸未",
+      "source": "卷009_标注",
+      "para": "40"
+    },
+    {
+      "person": "上官氏",
+      "event": "崩",
+      "time": "六月",
+      "source": "卷009_标注",
+      "para": "59"
+    },
+    {
+      "person": "玄成",
+      "event": "薨",
+      "time": "六月甲辰",
+      "source": "卷009_标注",
+      "para": "63"
+    },
+    {
+      "person": "竟",
+      "event": "薨",
+      "time": "六月甲申",
+      "source": "卷009_标注",
+      "para": "67"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷010_标注",
+      "para": "1"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": "竟宁元年",
+      "source": "卷010_标注",
+      "para": "2"
+    },
+    {
+      "person": "嚣",
+      "event": "薨",
+      "time": "六月庚戌",
+      "source": "卷010_标注",
+      "para": "53"
+    },
+    {
+      "person": "康",
+      "event": "薨",
+      "time": "八月甲申",
+      "source": "卷010_标注",
+      "para": "62"
+    },
+    {
+      "person": "王凤",
+      "event": "薨",
+      "time": "六月",
+      "source": "卷010_标注",
+      "para": "66"
+    },
+    {
+      "person": "宇",
+      "event": "薨",
+      "time": "九月壬申",
+      "source": "卷010_标注",
+      "para": "69"
+    },
+    {
+      "person": "王氏",
+      "event": "崩",
+      "time": "八月丁丑",
+      "source": "卷010_标注",
+      "para": "92"
+    },
+    {
+      "person": "王音",
+      "event": "薨",
+      "time": "二年",
+      "source": "卷010_标注",
+      "para": "93"
+    },
+    {
+      "person": "王商",
+      "event": "薨",
+      "time": "十二月辛亥",
+      "source": "卷010_标注",
+      "para": "101.7"
+    },
+    {
+      "person": "兴",
+      "event": "薨",
+      "time": "八月庚戌",
+      "source": "卷010_标注",
+      "para": "101.12"
+    },
+    {
+      "person": "翟方进",
+      "event": "薨",
+      "time": "八月庚戌",
+      "source": "卷010_标注",
+      "para": "101.12"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": "绥和二年",
+      "source": "卷011_标注",
+      "para": "4"
+    },
+    {
+      "person": "丁氏",
+      "event": "崩",
+      "time": "六月庚申",
+      "source": "卷011_标注",
+      "para": "14.3"
+    },
+    {
+      "person": "当",
+      "event": "薨",
+      "time": "癸卯",
+      "source": "卷011_标注",
+      "para": "14.7"
+    },
+    {
+      "person": "傅氏",
+      "event": "崩",
+      "time": "丁巳",
+      "source": "卷011_标注",
+      "para": "14.11"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "元寿二年",
+      "source": "卷012_标注",
+      "para": "1"
+    },
+    {
+      "person": "宇",
+      "event": "下狱死",
+      "time": null,
+      "source": "卷012_标注",
+      "para": "28"
+    },
+    {
+      "person": "成王",
+      "event": "崩",
+      "time": "元年正月己巳朔",
+      "source": "卷021b_标注",
+      "para": "430"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷022_标注",
+      "para": "9"
+    },
+    {
+      "person": "仲舒",
+      "event": "死",
+      "time": "一岁",
+      "source": "卷024_标注",
+      "para": "22"
+    },
+    {
+      "person": "平帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷024_标注",
+      "para": "28"
+    },
+    {
+      "person": "汤",
+      "event": "死",
+      "time": null,
+      "source": "卷024b_标注",
+      "para": "33"
+    },
+    {
+      "person": "臧",
+      "event": "自杀",
+      "time": "六年",
+      "source": "卷025_标注",
+      "para": "53"
+    },
+    {
+      "person": "窦太后",
+      "event": "崩",
+      "time": "六年",
+      "source": "卷025_标注",
+      "para": "53"
+    },
+    {
+      "person": "文成",
+      "event": "死",
+      "time": null,
+      "source": "卷025_标注",
+      "para": "60"
+    },
+    {
+      "person": "文成",
+      "event": "死",
+      "time": "春",
+      "source": "卷025_标注",
+      "para": "63"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷025b_标注",
+      "para": "6.59"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "元始五年",
+      "source": "卷025b_标注",
+      "para": "6.61"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": "四月乙巳",
+      "source": "卷026_标注",
+      "para": "81.34"
+    },
+    {
+      "person": "梁孝王",
+      "event": "死",
+      "time": "五年四月乙巳",
+      "source": "卷026_标注",
+      "para": "81.44"
+    },
+    {
+      "person": "成阳公主",
+      "event": "死",
+      "time": "五年四月乙巳",
+      "source": "卷026_标注",
+      "para": "81.44"
+    },
+    {
+      "person": "窦太后",
+      "event": "崩",
+      "time": "三年四月",
+      "source": "卷026_标注",
+      "para": "81.46"
+    },
+    {
+      "person": "商",
+      "event": "自杀",
+      "time": null,
+      "source": "卷026_标注",
+      "para": "81.63"
+    },
+    {
+      "person": "梁王贺",
+      "event": "薨",
+      "time": "十一月丁巳",
+      "source": "卷026_标注",
+      "para": "81.67"
+    },
+    {
+      "person": "楚王友",
+      "event": "薨",
+      "time": "十一月辛未",
+      "source": "卷026_标注",
+      "para": "81.68"
+    },
+    {
+      "person": "雕陶莫皋",
+      "event": "死",
+      "time": "十一月辛未",
+      "source": "卷026_标注",
+      "para": "81.68"
+    },
+    {
+      "person": "宣公",
+      "event": "死",
+      "time": "三年",
+      "source": "卷027_标注",
+      "para": "14"
+    },
+    {
+      "person": "景王",
+      "event": "崩",
+      "time": "昭十八年",
+      "source": "卷027_标注",
+      "para": "19"
+    },
+    {
+      "person": "昭公",
+      "event": "死",
+      "time": "二年",
+      "source": "卷027_标注",
+      "para": "20"
+    },
+    {
+      "person": "惠帝",
+      "event": "崩",
+      "time": "四年",
+      "source": "卷027_标注",
+      "para": "24"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷027_标注",
+      "para": "28.8"
+    },
+    {
+      "person": "成都侯商",
+      "event": "薨",
+      "time": "明年",
+      "source": "卷027_标注",
+      "para": "28.17"
+    },
+    {
+      "person": "帝",
+      "event": "崩",
+      "time": "三年",
+      "source": "卷027_标注",
+      "para": "28.18"
+    },
+    {
+      "person": "平帝",
+      "event": "崩",
+      "time": "冬",
+      "source": "卷027_标注",
+      "para": "28.19"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": "黄龙",
+      "source": "卷027b_标注",
+      "para": "28.3"
+    },
+    {
+      "person": "阳平顷侯禁",
+      "event": "薨",
+      "time": "永光二年",
+      "source": "卷027b_标注",
+      "para": "28.5"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": "永光二年",
+      "source": "卷027b_标注",
+      "para": "28.5"
+    },
+    {
+      "person": "定公",
+      "event": "薨",
+      "time": "十五年",
+      "source": "卷027b_标注",
+      "para": "30"
+    },
+    {
+      "person": "釐公",
+      "event": "薨",
+      "time": "十三年",
+      "source": "卷027b_标注",
+      "para": "34"
+    },
+    {
+      "person": "赵孟",
+      "event": "死",
+      "time": "三十一年",
+      "source": "卷027b_标注",
+      "para": "44"
+    },
+    {
+      "person": "始皇",
+      "event": "死",
+      "time": "三十六年",
+      "source": "卷027b_标注",
+      "para": "94"
+    },
+    {
+      "person": "僖公",
+      "event": "死",
+      "time": "三十三年",
+      "source": "卷027c_标注",
+      "para": "11"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "五年",
+      "source": "卷027c_标注",
+      "para": "12"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷027c_标注",
+      "para": "22"
+    },
+    {
+      "person": "吕太后",
+      "event": "崩",
+      "time": "二年",
+      "source": "卷027c_标注",
+      "para": "27"
+    },
+    {
+      "person": "叔孙昭子",
+      "event": "死",
+      "time": "二十年",
+      "source": "卷027d_标注",
+      "para": "23"
+    },
+    {
+      "person": "周景王",
+      "event": "崩",
+      "time": "二十三年",
+      "source": "卷027d_标注",
+      "para": "31"
+    },
+    {
+      "person": "齐桓",
+      "event": "死",
+      "time": null,
+      "source": "卷027e_标注",
+      "para": "9.88"
+    },
+    {
+      "person": "齐桓",
+      "event": "死",
+      "time": null,
+      "source": "卷027e_标注",
+      "para": "9.90"
+    },
+    {
+      "person": "武王",
+      "event": "崩",
+      "time": null,
+      "source": "卷028b_标注",
+      "para": "32.41"
+    },
+    {
+      "person": "桓公",
+      "event": "死",
+      "time": "三年",
+      "source": "卷028b_标注",
+      "para": "32.54"
+    },
+    {
+      "person": "忠",
+      "event": "自杀",
+      "time": "三岁",
+      "source": "卷029_标注",
+      "para": "6.22"
+    },
+    {
+      "person": "鞅",
+      "event": "死",
+      "time": null,
+      "source": "卷030_标注",
+      "para": "301"
+    },
+    {
+      "person": "田臧",
+      "event": "死",
+      "time": null,
+      "source": "卷031_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "李归",
+      "event": "死",
+      "time": null,
+      "source": "卷031_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "张贺",
+      "event": "死",
+      "time": "腊月",
+      "source": "卷031_标注",
+      "para": "1.17"
+    },
+    {
+      "person": "胜",
+      "event": "死",
+      "time": null,
+      "source": "卷031_标注",
+      "para": "1.18"
+    },
+    {
+      "person": "嘉",
+      "event": "死",
+      "time": "是时",
+      "source": "卷031_标注",
+      "para": "1.31"
+    },
+    {
+      "person": "馀樊君",
+      "event": "死",
+      "time": null,
+      "source": "卷031_标注",
+      "para": "1.32"
+    },
+    {
+      "person": "梁",
+      "event": "死",
+      "time": null,
+      "source": "卷031_标注",
+      "para": "1.38"
+    },
+    {
+      "person": "耳",
+      "event": "薨",
+      "time": "四年",
+      "source": "卷032_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "鲁元太后",
+      "event": "薨",
+      "time": "高后元年",
+      "source": "卷032_标注",
+      "para": "1.33"
+    },
+    {
+      "person": "敖",
+      "event": "薨",
+      "time": "六年",
+      "source": "卷032_标注",
+      "para": "1.34"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "六年",
+      "source": "卷032_标注",
+      "para": "1.34"
+    },
+    {
+      "person": "儋",
+      "event": "死",
+      "time": null,
+      "source": "卷033_标注",
+      "para": "1.7"
+    },
+    {
+      "person": "横",
+      "event": "死",
+      "time": null,
+      "source": "卷033_标注",
+      "para": "1.20"
+    },
+    {
+      "person": "项梁",
+      "event": "死",
+      "time": null,
+      "source": "卷033_标注",
+      "para": "1.21"
+    },
+    {
+      "person": "项羽",
+      "event": "死",
+      "time": null,
+      "source": "卷034_标注",
+      "para": "1.41"
+    },
+    {
+      "person": "信",
+      "event": "死",
+      "time": null,
+      "source": "卷034_标注",
+      "para": "1.49"
+    },
+    {
+      "person": "信",
+      "event": "死",
+      "time": null,
+      "source": "卷034_标注",
+      "para": "1.49"
+    },
+    {
+      "person": "豹",
+      "event": "死",
+      "time": null,
+      "source": "卷034_标注",
+      "para": "1.55"
+    },
+    {
+      "person": "项籍",
+      "event": "死",
+      "time": "六年",
+      "source": "卷034_标注",
+      "para": "1.56"
+    },
+    {
+      "person": "陈涉",
+      "event": "死",
+      "time": null,
+      "source": "卷034_标注",
+      "para": "1.60"
+    },
+    {
+      "person": "项籍",
+      "event": "死",
+      "time": "四年",
+      "source": "卷034_标注",
+      "para": "1.74"
+    },
+    {
+      "person": "项籍",
+      "event": "死",
+      "time": null,
+      "source": "卷034_标注",
+      "para": "1.88"
+    },
+    {
+      "person": "太上皇",
+      "event": "崩",
+      "time": "汉十年",
+      "source": "卷034_标注",
+      "para": "1.91"
+    },
+    {
+      "person": "高祖",
+      "event": "崩",
+      "time": "岁余",
+      "source": "卷034_标注",
+      "para": "1.96"
+    },
+    {
+      "person": "项籍",
+      "event": "死",
+      "time": "一年",
+      "source": "卷034_标注",
+      "para": "1.99"
+    },
+    {
+      "person": "尉",
+      "event": "死",
+      "time": null,
+      "source": "卷035_标注",
+      "para": "1.2"
+    },
+    {
+      "person": "太夫人",
+      "event": "薨",
+      "time": null,
+      "source": "卷036_标注",
+      "para": "1.13"
+    },
+    {
+      "person": "吾丘寿王",
+      "event": "死",
+      "time": null,
+      "source": "卷036_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "向",
+      "event": "死",
+      "time": "河平中",
+      "source": "卷036_标注",
+      "para": "1.110"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "数年",
+      "source": "卷036_标注",
+      "para": "1.128"
+    },
+    {
+      "person": "布",
+      "event": "薨",
+      "time": null,
+      "source": "卷037_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "高祖",
+      "event": "崩",
+      "time": "四年",
+      "source": "卷038_标注",
+      "para": "1.4"
+    },
+    {
+      "person": "赵隐王如意",
+      "event": "死",
+      "time": "四年",
+      "source": "卷038_标注",
+      "para": "1.4"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "二年",
+      "source": "卷038_标注",
+      "para": "1.6"
+    },
+    {
+      "person": "赵幽王",
+      "event": "死",
+      "time": "十一年",
+      "source": "卷038_标注",
+      "para": "1.9"
+    },
+    {
+      "person": "惠帝",
+      "event": "崩",
+      "time": "六年",
+      "source": "卷038_标注",
+      "para": "1.11"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "顷之",
+      "source": "卷038_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "悼惠王",
+      "event": "薨",
+      "time": null,
+      "source": "卷038_标注",
+      "para": "1.21"
+    },
+    {
+      "person": "惠帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷038_标注",
+      "para": "1.21"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": null,
+      "source": "卷038_标注",
+      "para": "1.22"
+    },
+    {
+      "person": "悼惠王",
+      "event": "薨",
+      "time": null,
+      "source": "卷038_标注",
+      "para": "1.27"
+    },
+    {
+      "person": "齐哀王",
+      "event": "薨",
+      "time": "元年",
+      "source": "卷038_标注",
+      "para": "1.28"
+    },
+    {
+      "person": "章",
+      "event": "薨",
+      "time": "二年",
+      "source": "卷038_标注",
+      "para": "1.31"
+    },
+    {
+      "person": "高祖",
+      "event": "崩",
+      "time": "百岁后",
+      "source": "卷039_标注",
+      "para": "1.20"
+    },
+    {
+      "person": "何",
+      "event": "死",
+      "time": "孝惠二年",
+      "source": "卷039_标注",
+      "para": "1.21"
+    },
+    {
+      "person": "何",
+      "event": "薨",
+      "time": "孝惠二年",
+      "source": "卷039_标注",
+      "para": "1.21"
+    },
+    {
+      "person": "项籍",
+      "event": "死",
+      "time": null,
+      "source": "卷040_标注",
+      "para": "1.18"
+    },
+    {
+      "person": "高帝",
+      "event": "崩",
+      "time": "一世",
+      "source": "卷040_标注",
+      "para": "1.39"
+    },
+    {
+      "person": "高帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷040_标注",
+      "para": "1.65"
+    },
+    {
+      "person": "惠帝",
+      "event": "崩",
+      "time": "二岁",
+      "source": "卷040_标注",
+      "para": "1.68"
+    },
+    {
+      "person": "高帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷040_标注",
+      "para": "1.69"
+    },
+    {
+      "person": "吕太后",
+      "event": "崩",
+      "time": null,
+      "source": "卷040_标注",
+      "para": "1.72"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "惠帝六年",
+      "source": "卷040_标注",
+      "para": "1.87"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": "孝景帝三年",
+      "source": "卷040_标注",
+      "para": "1.100"
+    },
+    {
+      "person": "项籍",
+      "event": "死",
+      "time": null,
+      "source": "卷041_标注",
+      "para": "1.10"
+    },
+    {
+      "person": "哙",
+      "event": "薨",
+      "time": "六年",
+      "source": "卷041_标注",
+      "para": "1.16"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "六年",
+      "source": "卷041_标注",
+      "para": "1.16"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": null,
+      "source": "卷041_标注",
+      "para": "1.22"
+    },
+    {
+      "person": "高祖",
+      "event": "崩",
+      "time": null,
+      "source": "卷041_标注",
+      "para": "1.30"
+    },
+    {
+      "person": "惠帝",
+      "event": "崩",
+      "time": "八岁",
+      "source": "卷041_标注",
+      "para": "1.31"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "八岁",
+      "source": "卷041_标注",
+      "para": "1.31"
+    },
+    {
+      "person": "高帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷041_标注",
+      "para": "1.46"
+    },
+    {
+      "person": "高祖",
+      "event": "崩",
+      "time": null,
+      "source": "卷042_标注",
+      "para": "1.12"
+    },
+    {
+      "person": "高祖",
+      "event": "崩",
+      "time": "月余",
+      "source": "卷042_标注",
+      "para": "1.13"
+    },
+    {
+      "person": "高后",
+      "event": "崩",
+      "time": "三岁",
+      "source": "卷042_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "陵",
+      "event": "死",
+      "time": null,
+      "source": "卷042_标注",
+      "para": "1.17"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": "五岁",
+      "source": "卷042_标注",
+      "para": "1.24"
+    },
+    {
+      "person": "嘉",
+      "event": "死",
+      "time": null,
+      "source": "卷042_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "吕太后",
+      "event": "崩",
+      "time": null,
+      "source": "卷043_标注",
+      "para": "1.33"
+    },
+    {
+      "person": "高帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷043_标注",
+      "para": "1.62"
+    },
+    {
+      "person": "乘舒",
+      "event": "死",
+      "time": null,
+      "source": "卷044_标注",
+      "para": "1.54"
+    },
+    {
+      "person": "成安君",
+      "event": "死",
+      "time": null,
+      "source": "卷045_标注",
+      "para": "1.14"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷045_标注",
+      "para": "1.79"
+    },
+    {
+      "person": "宋痤",
+      "event": "死",
+      "time": null,
+      "source": "卷045_标注",
+      "para": "1.83"
+    },
+    {
+      "person": "庆",
+      "event": "死",
+      "time": "三岁余",
+      "source": "卷046_标注",
+      "para": "1.16"
+    },
+    {
+      "person": "景帝",
+      "event": "崩",
+      "time": "五岁",
+      "source": "卷046_标注",
+      "para": "1.20"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": "二十一年",
+      "source": "卷047_标注",
+      "para": "1.2"
+    },
+    {
+      "person": "孝王",
+      "event": "死",
+      "time": "壹餐",
+      "source": "卷047_标注",
+      "para": "1.10"
+    },
+    {
+      "person": "胜",
+      "event": "死",
+      "time": "数年",
+      "source": "卷048_标注",
+      "para": "1.87"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": "十年",
+      "source": "卷048_标注",
+      "para": "1.98"
+    },
+    {
+      "person": "晁错",
+      "event": "死",
+      "time": "数十岁",
+      "source": "卷049_标注",
+      "para": "1.89"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷050_标注",
+      "para": "1.11"
+    },
+    {
+      "person": "籍",
+      "event": "死",
+      "time": null,
+      "source": "卷050_标注",
+      "para": "1.42"
+    },
+    {
+      "person": "郑君",
+      "event": "死",
+      "time": null,
+      "source": "卷050_标注",
+      "para": "1.42"
+    },
+    {
+      "person": "当时",
+      "event": "死",
+      "time": null,
+      "source": "卷050_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "诡",
+      "event": "死",
+      "time": null,
+      "source": "卷051_标注",
+      "para": "1.54"
+    },
+    {
+      "person": "鲁哀姜",
+      "event": "薨",
+      "time": null,
+      "source": "卷051_标注",
+      "para": "1.60"
+    },
+    {
+      "person": "孝王",
+      "event": "薨",
+      "time": null,
+      "source": "卷051_标注",
+      "para": "1.80"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷051_标注",
+      "para": "1.87"
+    },
+    {
+      "person": "孝景",
+      "event": "崩",
+      "time": null,
+      "source": "卷052_标注",
+      "para": "1.7"
+    },
+    {
+      "person": "窦太后",
+      "event": "崩",
+      "time": "六年",
+      "source": "卷052_标注",
+      "para": "1.11"
+    },
+    {
+      "person": "孝王",
+      "event": "薨",
+      "time": null,
+      "source": "卷052_标注",
+      "para": "1.50"
+    },
+    {
+      "person": "虒",
+      "event": "薨",
+      "time": "五年",
+      "source": "卷052_标注",
+      "para": "1.70"
+    },
+    {
+      "person": "易王",
+      "event": "薨",
+      "time": "二十七年",
+      "source": "卷053_标注",
+      "para": "1.12"
+    },
+    {
+      "person": "彭祖",
+      "event": "薨",
+      "time": "征和元年",
+      "source": "卷053_标注",
+      "para": "1.28"
+    },
+    {
+      "person": "爱",
+      "event": "死",
+      "time": null,
+      "source": "卷053_标注",
+      "para": "1.49"
+    },
+    {
+      "person": "都",
+      "event": "死",
+      "time": null,
+      "source": "卷053_标注",
+      "para": "1.52"
+    },
+    {
+      "person": "广",
+      "event": "死",
+      "time": null,
+      "source": "卷054_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "广",
+      "event": "死",
+      "time": null,
+      "source": "卷054_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "广",
+      "event": "死",
+      "time": null,
+      "source": "卷054_标注",
+      "para": "1.27"
+    },
+    {
+      "person": "去病",
+      "event": "死",
+      "time": "岁余",
+      "source": "卷054_标注",
+      "para": "1.28"
+    },
+    {
+      "person": "陵",
+      "event": "死",
+      "time": null,
+      "source": "卷054_标注",
+      "para": "1.45"
+    },
+    {
+      "person": "步乐",
+      "event": "自杀",
+      "time": null,
+      "source": "卷054_标注",
+      "para": "1.45"
+    },
+    {
+      "person": "王",
+      "event": "死",
+      "time": "三岁余",
+      "source": "卷054_标注",
+      "para": "1.66"
+    },
+    {
+      "person": "武",
+      "event": "死",
+      "time": "数月",
+      "source": "卷054_标注",
+      "para": "1.71"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "数年",
+      "source": "卷054_标注",
+      "para": "1.77"
+    },
+    {
+      "person": "去病",
+      "event": "死",
+      "time": "后五岁",
+      "source": "卷055_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "青",
+      "event": "薨",
+      "time": "后五岁",
+      "source": "卷055_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "尧",
+      "event": "崩",
+      "time": "七十载",
+      "source": "卷056_标注",
+      "para": "1.34"
+    },
+    {
+      "person": "颜渊",
+      "event": "死",
+      "time": null,
+      "source": "卷056_标注",
+      "para": "1.83"
+    },
+    {
+      "person": "孝王",
+      "event": "薨",
+      "time": "是时",
+      "source": "卷057_标注",
+      "para": "1.2"
+    },
+    {
+      "person": "汤",
+      "event": "死",
+      "time": null,
+      "source": "卷059_标注",
+      "para": "1.20"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "十有三年",
+      "source": "卷059_标注",
+      "para": "1.23"
+    },
+    {
+      "person": "光",
+      "event": "薨",
+      "time": "数月",
+      "source": "卷059_标注",
+      "para": "1.25"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": "岁余",
+      "source": "卷059_标注",
+      "para": "1.48"
+    },
+    {
+      "person": "延年",
+      "event": "薨",
+      "time": "本始中",
+      "source": "卷060_标注",
+      "para": "1.19"
+    },
+    {
+      "person": "章",
+      "event": "死",
+      "time": null,
+      "source": "卷060_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "方进",
+      "event": "薨",
+      "time": null,
+      "source": "卷060_标注",
+      "para": "1.52"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷060_标注",
+      "para": "1.58"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷060_标注",
+      "para": "1.63"
+    },
+    {
+      "person": "钟子期",
+      "event": "死",
+      "time": null,
+      "source": "卷062_标注",
+      "para": "1.43"
+    },
+    {
+      "person": "吕太后",
+      "event": "崩",
+      "time": "八年",
+      "source": "卷063_标注",
+      "para": "1.30"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷063_标注",
+      "para": "1.50"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "三十三年",
+      "source": "卷063_标注",
+      "para": "1.57"
+    },
+    {
+      "person": "贺",
+      "event": "死",
+      "time": null,
+      "source": "卷063_标注",
+      "para": "1.74"
+    },
+    {
+      "person": "充国",
+      "event": "死",
+      "time": null,
+      "source": "卷063_标注",
+      "para": "1.74"
+    },
+    {
+      "person": "秦皇帝",
+      "event": "崩",
+      "time": "当是时",
+      "source": "卷064b_标注",
+      "para": "1.9"
+    },
+    {
+      "person": "军",
+      "event": "死",
+      "time": null,
+      "source": "卷064b_标注",
+      "para": "1.29"
+    },
+    {
+      "person": "午",
+      "event": "死",
+      "time": null,
+      "source": "卷065_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "庆父",
+      "event": "死",
+      "time": null,
+      "source": "卷065_标注",
+      "para": "1.37"
+    },
+    {
+      "person": "武帝",
+      "event": "崩",
+      "time": "岁余",
+      "source": "卷066_标注",
+      "para": "1.25"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "明年",
+      "source": "卷066_标注",
+      "para": "1.32"
+    },
+    {
+      "person": "敞",
+      "event": "薨",
+      "time": "月余",
+      "source": "卷066_标注",
+      "para": "1.33"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷066_标注",
+      "para": "1.39"
+    },
+    {
+      "person": "万年",
+      "event": "死",
+      "time": null,
+      "source": "卷066_标注",
+      "para": "1.62"
+    },
+    {
+      "person": "去病",
+      "event": "死",
+      "time": "二十余年",
+      "source": "卷068_标注",
+      "para": "1.3"
+    },
+    {
+      "person": "武帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷068_标注",
+      "para": "1.5"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "十三年",
+      "source": "卷068_标注",
+      "para": "1.16"
+    },
+    {
+      "person": "光",
+      "event": "薨",
+      "time": "二十年",
+      "source": "卷068_标注",
+      "para": "1.42"
+    },
+    {
+      "person": "光",
+      "event": "薨",
+      "time": null,
+      "source": "卷068_标注",
+      "para": "1.48"
+    },
+    {
+      "person": "光",
+      "event": "薨",
+      "time": null,
+      "source": "卷068_标注",
+      "para": "1.51"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷068_标注",
+      "para": "1.84"
+    },
+    {
+      "person": "傅太后",
+      "event": "崩",
+      "time": null,
+      "source": "卷068_标注",
+      "para": "1.87"
+    },
+    {
+      "person": "钦",
+      "event": "薨",
+      "time": "元始中",
+      "source": "卷069_标注",
+      "para": "1.67"
+    },
+    {
+      "person": "介子",
+      "event": "薨",
+      "time": "元始中",
+      "source": "卷070_标注",
+      "para": "1.7"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "本始二年",
+      "source": "卷070_标注",
+      "para": "1.8"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": "甘露中",
+      "source": "卷070_标注",
+      "para": "1.13"
+    },
+    {
+      "person": "吉",
+      "event": "薨",
+      "time": "元始中",
+      "source": "卷070_标注",
+      "para": "1.17"
+    },
+    {
+      "person": "武帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷071_标注",
+      "para": "1.4"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷071_标注",
+      "para": "1.20"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": "十八岁",
+      "source": "卷071_标注",
+      "para": "1.23"
+    },
+    {
+      "person": "定国",
+      "event": "死",
+      "time": null,
+      "source": "卷071_标注",
+      "para": "1.29"
+    },
+    {
+      "person": "永",
+      "event": "薨",
+      "time": null,
+      "source": "卷071_标注",
+      "para": "1.29"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "元寿元年",
+      "source": "卷071_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": "三年",
+      "source": "卷072_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷072_标注",
+      "para": "1.76"
+    },
+    {
+      "person": "莽",
+      "event": "死",
+      "time": null,
+      "source": "卷072_标注",
+      "para": "1.115"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷073_标注",
+      "para": "1.9"
+    },
+    {
+      "person": "贤",
+      "event": "薨",
+      "time": null,
+      "source": "卷073_标注",
+      "para": "1.13"
+    },
+    {
+      "person": "玄成",
+      "event": "薨",
+      "time": null,
+      "source": "卷073_标注",
+      "para": "1.46"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷073_标注",
+      "para": "1.57"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": "河平元年",
+      "source": "卷073_标注",
+      "para": "1.58"
+    },
+    {
+      "person": "车千秋",
+      "event": "死",
+      "time": null,
+      "source": "卷074_标注",
+      "para": "1.2"
+    },
+    {
+      "person": "光",
+      "event": "死",
+      "time": null,
+      "source": "卷074_标注",
+      "para": "1.7"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷074_标注",
+      "para": "1.32"
+    },
+    {
+      "person": "吉",
+      "event": "薨",
+      "time": null,
+      "source": "卷074_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "黄霸",
+      "event": "薨",
+      "time": null,
+      "source": "卷074_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "吉",
+      "event": "薨",
+      "time": null,
+      "source": "卷074_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "韩婴",
+      "event": "死",
+      "time": null,
+      "source": "卷075_标注",
+      "para": "1.5"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷075_标注",
+      "para": "1.6"
+    },
+    {
+      "person": "禹",
+      "event": "死",
+      "time": null,
+      "source": "卷075_标注",
+      "para": "1.102"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷076_标注",
+      "para": "1.1"
+    },
+    {
+      "person": "光",
+      "event": "薨",
+      "time": null,
+      "source": "卷076_标注",
+      "para": "1.13"
+    },
+    {
+      "person": "赵京兆",
+      "event": "死",
+      "time": null,
+      "source": "卷076_标注",
+      "para": "1.19"
+    },
+    {
+      "person": "延寿",
+      "event": "死",
+      "time": null,
+      "source": "卷076_标注",
+      "para": "1.46"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷076_标注",
+      "para": "1.74"
+    },
+    {
+      "person": "竦",
+      "event": "死",
+      "time": "年十三",
+      "source": "卷076_标注",
+      "para": "1.77"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": "久之",
+      "source": "卷076_标注",
+      "para": "1.89"
+    },
+    {
+      "person": "凤",
+      "event": "薨",
+      "time": null,
+      "source": "卷076_标注",
+      "para": "1.112"
+    },
+    {
+      "person": "尚",
+      "event": "下狱死",
+      "time": null,
+      "source": "卷077_标注",
+      "para": "1.41"
+    },
+    {
+      "person": "商",
+      "event": "薨",
+      "time": null,
+      "source": "卷077_标注",
+      "para": "1.42"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷077_标注",
+      "para": "1.52"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷077_标注",
+      "para": "1.59"
+    },
+    {
+      "person": "光",
+      "event": "薨",
+      "time": "地节三年夏",
+      "source": "卷078_标注",
+      "para": "1.5"
+    },
+    {
+      "person": "翁归靡",
+      "event": "死",
+      "time": "神爵二年",
+      "source": "卷078_标注",
+      "para": "1.23"
+    },
+    {
+      "person": "丙吉",
+      "event": "薨",
+      "time": "数月",
+      "source": "卷078_标注",
+      "para": "1.33"
+    },
+    {
+      "person": "霸",
+      "event": "薨",
+      "time": "数月",
+      "source": "卷078_标注",
+      "para": "1.33"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷078_标注",
+      "para": "1.38"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "元始中",
+      "source": "卷078_标注",
+      "para": "1.61"
+    },
+    {
+      "person": "常惠",
+      "event": "薨",
+      "time": null,
+      "source": "卷079_标注",
+      "para": "1.8"
+    },
+    {
+      "person": "奉世",
+      "event": "死",
+      "time": null,
+      "source": "卷079_标注",
+      "para": "1.22"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷079_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "参",
+      "event": "自杀",
+      "time": null,
+      "source": "卷079_标注",
+      "para": "1.43"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷080_标注",
+      "para": "1.4"
+    },
+    {
+      "person": "嚣",
+      "event": "薨",
+      "time": "明年",
+      "source": "卷080_标注",
+      "para": "1.23"
+    },
+    {
+      "person": "勋",
+      "event": "薨",
+      "time": "一年",
+      "source": "卷080_标注",
+      "para": "1.24"
+    },
+    {
+      "person": "平帝",
+      "event": "崩",
+      "time": "一年",
+      "source": "卷080_标注",
+      "para": "1.24"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": "二十年",
+      "source": "卷080_标注",
+      "para": "1.32"
+    },
+    {
+      "person": "云",
+      "event": "自杀",
+      "time": "十七年",
+      "source": "卷080_标注",
+      "para": "1.39"
+    },
+    {
+      "person": "谒",
+      "event": "弃市",
+      "time": "十七年",
+      "source": "卷080_标注",
+      "para": "1.39"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": "十九年",
+      "source": "卷080_标注",
+      "para": "1.42"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "三十年",
+      "source": "卷080_标注",
+      "para": "1.44"
+    },
+    {
+      "person": "宣帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷081_标注",
+      "para": "1.3"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷081_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": "初元中",
+      "source": "卷081_标注",
+      "para": "1.44"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": "建平二年",
+      "source": "卷081_标注",
+      "para": "1.56"
+    },
+    {
+      "person": "方进",
+      "event": "薨",
+      "time": null,
+      "source": "卷081_标注",
+      "para": "1.71"
+    },
+    {
+      "person": "傅太后",
+      "event": "崩",
+      "time": "元寿元年",
+      "source": "卷081_标注",
+      "para": "1.80"
+    },
+    {
+      "person": "嘉",
+      "event": "下狱死",
+      "time": "月余",
+      "source": "卷081_标注",
+      "para": "1.87"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷081_标注",
+      "para": "1.89"
+    },
+    {
+      "person": "中山哀王",
+      "event": "薨",
+      "time": null,
+      "source": "卷082_标注",
+      "para": "1.23"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "三岁余",
+      "source": "卷082_标注",
+      "para": "1.39"
+    },
+    {
+      "person": "邛成太后",
+      "event": "崩",
+      "time": null,
+      "source": "卷083_标注",
+      "para": "1.21"
+    },
+    {
+      "person": "平帝",
+      "event": "崩",
+      "time": "数岁",
+      "source": "卷084_标注",
+      "para": "1.43"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷086_标注",
+      "para": "1.14"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷086_标注",
+      "para": "1.16"
+    },
+    {
+      "person": "傅太后",
+      "event": "薨",
+      "time": null,
+      "source": "卷086_标注",
+      "para": "1.46"
+    },
+    {
+      "person": "子胥",
+      "event": "死",
+      "time": null,
+      "source": "卷087b_标注",
+      "para": "1.23"
+    },
+    {
+      "person": "钟期",
+      "event": "死",
+      "time": null,
+      "source": "卷087b_标注",
+      "para": "1.42"
+    },
+    {
+      "person": "雄",
+      "event": "死",
+      "time": "天凤五年",
+      "source": "卷087b_标注",
+      "para": "1.54"
+    },
+    {
+      "person": "窦太后",
+      "event": "崩",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.10"
+    },
+    {
+      "person": "宾",
+      "event": "死",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "喜",
+      "event": "死",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.32"
+    },
+    {
+      "person": "地馀",
+      "event": "死",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.40"
+    },
+    {
+      "person": "望之",
+      "event": "自杀",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.44"
+    },
+    {
+      "person": "周公",
+      "event": "薨",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "元王",
+      "event": "薨",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.55"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.61"
+    },
+    {
+      "person": "孟",
+      "event": "死",
+      "time": null,
+      "source": "卷088_标注",
+      "para": "1.82"
+    },
+    {
+      "person": "霸",
+      "event": "死",
+      "time": "甘露三年",
+      "source": "卷089_标注",
+      "para": "1.32"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷089_标注",
+      "para": "1.42"
+    },
+    {
+      "person": "都",
+      "event": "死",
+      "time": null,
+      "source": "卷090_标注",
+      "para": "1.8"
+    },
+    {
+      "person": "都",
+      "event": "死",
+      "time": null,
+      "source": "卷090_标注",
+      "para": "1.10"
+    },
+    {
+      "person": "纵",
+      "event": "死",
+      "time": null,
+      "source": "卷090_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "温舒",
+      "event": "死",
+      "time": null,
+      "source": "卷090_标注",
+      "para": "1.30"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷090_标注",
+      "para": "1.47"
+    },
+    {
+      "person": "张汤",
+      "event": "死",
+      "time": null,
+      "source": "卷090_标注",
+      "para": "1.75"
+    },
+    {
+      "person": "田仲",
+      "event": "死",
+      "time": null,
+      "source": "卷092_标注",
+      "para": "1.8"
+    },
+    {
+      "person": "孟",
+      "event": "死",
+      "time": null,
+      "source": "卷092_标注",
+      "para": "1.9"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷093_标注",
+      "para": "1.7"
+    },
+    {
+      "person": "嫣",
+      "event": "死",
+      "time": "巫蛊",
+      "source": "卷093_标注",
+      "para": "1.10"
+    },
+    {
+      "person": "恭",
+      "event": "死",
+      "time": "宣帝",
+      "source": "卷093_标注",
+      "para": "1.13"
+    },
+    {
+      "person": "元帝",
+      "event": "崩",
+      "time": "成帝初",
+      "source": "卷093_标注",
+      "para": "1.22"
+    },
+    {
+      "person": "王嘉",
+      "event": "死",
+      "time": null,
+      "source": "卷093_标注",
+      "para": "1.38"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "数月",
+      "source": "卷093_标注",
+      "para": "1.50"
+    },
+    {
+      "person": "蒙恬",
+      "event": "死",
+      "time": null,
+      "source": "卷094_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "冒顿",
+      "event": "死",
+      "time": null,
+      "source": "卷094_标注",
+      "para": "1.44"
+    },
+    {
+      "person": "文帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷094_标注",
+      "para": "1.61"
+    },
+    {
+      "person": "去病",
+      "event": "死",
+      "time": null,
+      "source": "卷094_标注",
+      "para": "1.81"
+    },
+    {
+      "person": "武帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷094_标注",
+      "para": "1.114"
+    },
+    {
+      "person": "昭帝",
+      "event": "崩",
+      "time": null,
+      "source": "卷094_标注",
+      "para": "1.126"
+    },
+    {
+      "person": "呼韩邪",
+      "event": "死",
+      "time": null,
+      "source": "卷094b_标注",
+      "para": "1.40"
+    },
+    {
+      "person": "嚣",
+      "event": "死",
+      "time": null,
+      "source": "卷095_标注",
+      "para": "1.28"
+    },
+    {
+      "person": "婴齐",
+      "event": "薨",
+      "time": "元鼎四年",
+      "source": "卷095_标注",
+      "para": "1.48"
+    },
+    {
+      "person": "乌头劳",
+      "event": "死",
+      "time": "武帝",
+      "source": "卷096_标注",
+      "para": "1.39"
+    },
+    {
+      "person": "翁归靡",
+      "event": "死",
+      "time": null,
+      "source": "卷096b_标注",
+      "para": "1.16"
+    },
+    {
+      "person": "星靡",
+      "event": "死",
+      "time": null,
+      "source": "卷096b_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "乌就屠",
+      "event": "死",
+      "time": null,
+      "source": "卷096b_标注",
+      "para": "1.26"
+    },
+    {
+      "person": "绛宾",
+      "event": "死",
+      "time": "成、哀帝时",
+      "source": "卷096b_标注",
+      "para": "1.53"
+    },
+    {
+      "person": "莽",
+      "event": "死",
+      "time": null,
+      "source": "卷096b_标注",
+      "para": "1.87"
+    },
+    {
+      "person": "司马良娣",
+      "event": "死",
+      "time": "岁余",
+      "source": "卷098_标注",
+      "para": "1.8"
+    },
+    {
+      "person": "成帝",
+      "event": "崩",
+      "time": "同列",
+      "source": "卷099_标注",
+      "para": "1.7"
+    },
+    {
+      "person": "哀帝",
+      "event": "崩",
+      "time": "先",
+      "source": "卷099_标注",
+      "para": "1.15"
+    },
+    {
+      "person": "平帝",
+      "event": "崩",
+      "time": "前",
+      "source": "卷099_标注",
+      "para": "1.115"
+    },
+    {
+      "person": "武王",
+      "event": "崩",
+      "time": "朝",
+      "source": "卷099_标注",
+      "para": "1.122"
+    },
+    {
+      "person": "功显君",
+      "event": "死",
+      "time": "日",
+      "source": "卷099_标注",
+      "para": "1.152"
+    },
+    {
+      "person": "甄邯",
+      "event": "死",
+      "time": "五日",
+      "source": "卷099b_标注",
+      "para": "1.81"
+    },
+    {
+      "person": "平晏",
+      "event": "死",
+      "time": null,
+      "source": "卷099c_标注",
+      "para": "1.43"
+    },
+    {
+      "person": "莽",
+      "event": "死",
+      "time": null,
+      "source": "卷099c_标注",
+      "para": "1.129"
+    }
+  ]
+}
