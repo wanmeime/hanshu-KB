@@ -1,0 +1,992 @@
+{
+  "chapter": "卷087",
+  "title": "扬雄传第五十七上",
+  "paragraphs": [
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "0",
+      "length": 8,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.1",
+      "length": 190,
+      "noun_count": 25,
+      "verb_count": 0,
+      "persons": [
+        "扬侯",
+        "扬雄",
+        "知伯",
+        "子云",
+        "伯侨",
+        "周伯侨"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.2",
+      "length": 147,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "雄",
+        "扬季"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.3",
+      "length": 104,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.4",
+      "length": 128,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "屈原",
+        "雄",
+        "相如",
+        "司马相如"
+      ],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.5",
+      "length": 105,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "屈原"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.6",
+      "length": 138,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "伯侨",
+        "扬侯"
+      ],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.7",
+      "length": 114,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.6"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.8",
+      "length": 112,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.7"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.9",
+      "length": 104,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "重华"
+      ],
+      "prev": "1.8"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.10",
+      "length": 114,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.9"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.11",
+      "length": 96,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [
+        "傅说"
+      ],
+      "prev": "1.10"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.12",
+      "length": 116,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.11"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.13",
+      "length": 118,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "聃",
+        "彭咸",
+        "由",
+        "仲尼"
+      ],
+      "prev": "1.12"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.14",
+      "length": 179,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "雄",
+        "五帝",
+        "上",
+        "三皇",
+        "孝成帝",
+        "相如"
+      ],
+      "prev": "1.13"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.15",
+      "length": 122,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "蚩尤"
+      ],
+      "prev": "1.14"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.16",
+      "length": 108,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.15"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.17",
+      "length": 106,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.16"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.18",
+      "length": 116,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.17"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.19",
+      "length": 89,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.18"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.20",
+      "length": 116,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.19"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.21",
+      "length": 133,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.20"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.22",
+      "length": 92,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.21"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.23",
+      "length": 112,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "王尔",
+        "般",
+        "倕"
+      ],
+      "prev": "1.22"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.24",
+      "length": 104,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [
+        "皋",
+        "伊"
+      ],
+      "prev": "1.23"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.25",
+      "length": 108,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.24"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.26",
+      "length": 132,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "西王母"
+      ],
+      "prev": "1.25"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.27",
+      "length": 136,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "巫咸"
+      ],
+      "prev": "1.26"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.28",
+      "length": 110,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.27"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.29",
+      "length": 83,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "1.28"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.30",
+      "length": 137,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "唐",
+        "般庚",
+        "周宣",
+        "虞"
+      ],
+      "prev": "1.29"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.31",
+      "length": 119,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [
+        "赵昭仪",
+        "成帝"
+      ],
+      "prev": "1.30"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.32",
+      "length": 157,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "唐",
+        "虞",
+        "上"
+      ],
+      "prev": "1.31"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.33",
+      "length": 93,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.32"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.34",
+      "length": 122,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.33"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.35",
+      "length": 138,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "大禹",
+        "推",
+        "文公"
+      ],
+      "prev": "1.34"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.36",
+      "length": 137,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "唐"
+      ],
+      "prev": "1.35"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.37",
+      "length": 139,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.36"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.38",
+      "length": 120,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.37"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.39",
+      "length": 158,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "成汤",
+        "齐宣王",
+        "禹",
+        "文王",
+        "益"
+      ],
+      "prev": "1.38"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.40",
+      "length": 166,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "1.39"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.41",
+      "length": 133,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "成汤",
+        "戏",
+        "舜",
+        "文王",
+        "农",
+        "尧"
+      ],
+      "prev": "1.40"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.42",
+      "length": 93,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.41"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.43",
+      "length": 143,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "颛顼",
+        "五帝",
+        "齐桓",
+        "楚严",
+        "三皇"
+      ],
+      "prev": "1.42"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.44",
+      "length": 118,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.43"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.45",
+      "length": 116,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.44"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.46",
+      "length": 102,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.45"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.47",
+      "length": 115,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "蚩尤"
+      ],
+      "prev": "1.46"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.48",
+      "length": 120,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.47"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.49",
+      "length": 102,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.48"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.50",
+      "length": 123,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "逢蒙",
+        "羿氏"
+      ],
+      "prev": "1.49"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.51",
+      "length": 98,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.50"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.52",
+      "length": 97,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.51"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.53",
+      "length": 107,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.52"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.54",
+      "length": 112,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "屈原",
+        "彭胥"
+      ],
+      "prev": "1.53"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.55",
+      "length": 96,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.54"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.56",
+      "length": 96,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "虞",
+        "唐",
+        "大厦",
+        "杨硃",
+        "墨翟"
+      ],
+      "prev": "1.55"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.57",
+      "length": 189,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.56"
+    },
+    {
+      "chapter": "卷087",
+      "title": "扬雄传第五十七上",
+      "para": "1.58",
+      "length": 81,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.57"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "1.6",
+      "relation": "next"
+    },
+    {
+      "from": "1.6",
+      "to": "1.7",
+      "relation": "next"
+    },
+    {
+      "from": "1.7",
+      "to": "1.8",
+      "relation": "next"
+    },
+    {
+      "from": "1.8",
+      "to": "1.9",
+      "relation": "next"
+    },
+    {
+      "from": "1.9",
+      "to": "1.10",
+      "relation": "next"
+    },
+    {
+      "from": "1.10",
+      "to": "1.11",
+      "relation": "next"
+    },
+    {
+      "from": "1.11",
+      "to": "1.12",
+      "relation": "next"
+    },
+    {
+      "from": "1.12",
+      "to": "1.13",
+      "relation": "next"
+    },
+    {
+      "from": "1.13",
+      "to": "1.14",
+      "relation": "next"
+    },
+    {
+      "from": "1.14",
+      "to": "1.15",
+      "relation": "next"
+    },
+    {
+      "from": "1.15",
+      "to": "1.16",
+      "relation": "next"
+    },
+    {
+      "from": "1.16",
+      "to": "1.17",
+      "relation": "next"
+    },
+    {
+      "from": "1.17",
+      "to": "1.18",
+      "relation": "next"
+    },
+    {
+      "from": "1.18",
+      "to": "1.19",
+      "relation": "next"
+    },
+    {
+      "from": "1.19",
+      "to": "1.20",
+      "relation": "next"
+    },
+    {
+      "from": "1.20",
+      "to": "1.21",
+      "relation": "next"
+    },
+    {
+      "from": "1.21",
+      "to": "1.22",
+      "relation": "next"
+    },
+    {
+      "from": "1.22",
+      "to": "1.23",
+      "relation": "next"
+    },
+    {
+      "from": "1.23",
+      "to": "1.24",
+      "relation": "next"
+    },
+    {
+      "from": "1.24",
+      "to": "1.25",
+      "relation": "next"
+    },
+    {
+      "from": "1.25",
+      "to": "1.26",
+      "relation": "next"
+    },
+    {
+      "from": "1.26",
+      "to": "1.27",
+      "relation": "next"
+    },
+    {
+      "from": "1.27",
+      "to": "1.28",
+      "relation": "next"
+    },
+    {
+      "from": "1.28",
+      "to": "1.29",
+      "relation": "next"
+    },
+    {
+      "from": "1.29",
+      "to": "1.30",
+      "relation": "next"
+    },
+    {
+      "from": "1.30",
+      "to": "1.31",
+      "relation": "next"
+    },
+    {
+      "from": "1.31",
+      "to": "1.32",
+      "relation": "next"
+    },
+    {
+      "from": "1.32",
+      "to": "1.33",
+      "relation": "next"
+    },
+    {
+      "from": "1.33",
+      "to": "1.34",
+      "relation": "next"
+    },
+    {
+      "from": "1.34",
+      "to": "1.35",
+      "relation": "next"
+    },
+    {
+      "from": "1.35",
+      "to": "1.36",
+      "relation": "next"
+    },
+    {
+      "from": "1.36",
+      "to": "1.37",
+      "relation": "next"
+    },
+    {
+      "from": "1.37",
+      "to": "1.38",
+      "relation": "next"
+    },
+    {
+      "from": "1.38",
+      "to": "1.39",
+      "relation": "next"
+    },
+    {
+      "from": "1.39",
+      "to": "1.40",
+      "relation": "next"
+    },
+    {
+      "from": "1.40",
+      "to": "1.41",
+      "relation": "next"
+    },
+    {
+      "from": "1.41",
+      "to": "1.42",
+      "relation": "next"
+    },
+    {
+      "from": "1.42",
+      "to": "1.43",
+      "relation": "next"
+    },
+    {
+      "from": "1.43",
+      "to": "1.44",
+      "relation": "next"
+    },
+    {
+      "from": "1.44",
+      "to": "1.45",
+      "relation": "next"
+    },
+    {
+      "from": "1.45",
+      "to": "1.46",
+      "relation": "next"
+    },
+    {
+      "from": "1.46",
+      "to": "1.47",
+      "relation": "next"
+    },
+    {
+      "from": "1.47",
+      "to": "1.48",
+      "relation": "next"
+    },
+    {
+      "from": "1.48",
+      "to": "1.49",
+      "relation": "next"
+    },
+    {
+      "from": "1.49",
+      "to": "1.50",
+      "relation": "next"
+    },
+    {
+      "from": "1.50",
+      "to": "1.51",
+      "relation": "next"
+    },
+    {
+      "from": "1.51",
+      "to": "1.52",
+      "relation": "next"
+    },
+    {
+      "from": "1.52",
+      "to": "1.53",
+      "relation": "next"
+    },
+    {
+      "from": "1.53",
+      "to": "1.54",
+      "relation": "next"
+    },
+    {
+      "from": "1.54",
+      "to": "1.55",
+      "relation": "next"
+    },
+    {
+      "from": "1.55",
+      "to": "1.56",
+      "relation": "next"
+    },
+    {
+      "from": "1.56",
+      "to": "1.57",
+      "relation": "next"
+    },
+    {
+      "from": "1.57",
+      "to": "1.58",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "chapter": "卷033",
+  "title": "魏豹田儋韩王信传第三",
+  "paragraphs": [
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "0",
+      "length": 10,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.1",
+      "length": 209,
+      "noun_count": 25,
+      "verb_count": 3,
+      "persons": [
+        "咎",
+        "市",
+        "周市",
+        "陈胜",
+        "魏咎",
+        "魏豹",
+        "胜"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.2",
+      "length": 246,
+      "noun_count": 30,
+      "verb_count": 6,
+      "persons": [
+        "咎",
+        "豹",
+        "市",
+        "项它",
+        "周市",
+        "楚怀王",
+        "魏咎",
+        "田巴",
+        "魏豹",
+        "章邯"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.3",
+      "length": 212,
+      "noun_count": 25,
+      "verb_count": 3,
+      "persons": [
+        "豹",
+        "项羽",
+        "项羽已破秦",
+        "章邯",
+        "羽"
+      ],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.4",
+      "length": 191,
+      "noun_count": 18,
+      "verb_count": 2,
+      "persons": [
+        "豹",
+        "韩信",
+        "郦生"
+      ],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.5",
+      "length": 161,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "周苛",
+        "周市",
+        "田儋",
+        "陈涉",
+        "横",
+        "荣",
+        "儋"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.6",
+      "length": 226,
+      "noun_count": 23,
+      "verb_count": 8,
+      "persons": [
+        "咎",
+        "市",
+        "周市",
+        "儋",
+        "章邯"
+      ],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.7",
+      "length": 248,
+      "noun_count": 27,
+      "verb_count": 7,
+      "persons": [
+        "田假",
+        "建",
+        "章邯东阿",
+        "假",
+        "田角",
+        "项梁",
+        "荣",
+        "角亡走赵",
+        "荣之走东阿",
+        "儋"
+      ],
+      "prev": "1.6"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.8",
+      "length": 232,
+      "noun_count": 25,
+      "verb_count": 4,
+      "persons": [
+        "角",
+        "田假",
+        "市",
+        "闲前救赵",
+        "闲",
+        "楚怀王",
+        "横",
+        "项梁",
+        "荣",
+        "儋"
+      ],
+      "prev": "1.7"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.9",
+      "length": 182,
+      "noun_count": 16,
+      "verb_count": 6,
+      "persons": [
+        "田假",
+        "田角",
+        "项梁",
+        "章邯",
+        "田闲"
+      ],
+      "prev": "1.8"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.10",
+      "length": 224,
+      "noun_count": 27,
+      "verb_count": 5,
+      "persons": [
+        "田安",
+        "田都",
+        "市",
+        "建",
+        "安",
+        "项羽",
+        "荣",
+        "都",
+        "章邯",
+        "羽"
+      ],
+      "prev": "1.9"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.11",
+      "length": 189,
+      "noun_count": 18,
+      "verb_count": 1,
+      "persons": [
+        "项王",
+        "田都",
+        "市",
+        "项梁",
+        "项羽",
+        "荣",
+        "陈馀",
+        "都"
+      ],
+      "prev": "1.10"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.12",
+      "length": 232,
+      "noun_count": 20,
+      "verb_count": 12,
+      "persons": [
+        "项王",
+        "市",
+        "安",
+        "横",
+        "项羽",
+        "荣"
+      ],
+      "prev": "1.11"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.13",
+      "length": 202,
+      "noun_count": 24,
+      "verb_count": 3,
+      "persons": [
+        "韩信",
+        "横",
+        "项羽",
+        "荣",
+        "华毋伤",
+        "广",
+        "田解"
+      ],
+      "prev": "1.12"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.14",
+      "length": 233,
+      "noun_count": 27,
+      "verb_count": 6,
+      "persons": [
+        "郦生",
+        "龙且救齐",
+        "韩信",
+        "横",
+        "郦食其",
+        "田光",
+        "田既",
+        "广"
+      ],
+      "prev": "1.13"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.15",
+      "length": 264,
+      "noun_count": 31,
+      "verb_count": 11,
+      "persons": [
+        "婴",
+        "越",
+        "光",
+        "韩信",
+        "横亡走梁",
+        "横",
+        "田吸",
+        "曹参",
+        "彭越",
+        "田既"
+      ],
+      "prev": "1.14"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.16",
+      "length": 132,
+      "noun_count": 12,
+      "verb_count": 3,
+      "persons": [
+        "彭越",
+        "高帝",
+        "横",
+        "项籍"
+      ],
+      "prev": "1.15"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.17",
+      "length": 169,
+      "noun_count": 11,
+      "verb_count": 3,
+      "persons": [
+        "商",
+        "郦商",
+        "高帝",
+        "横",
+        "郦食其"
+      ],
+      "prev": "1.16"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.18",
+      "length": 162,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "横"
+      ],
+      "prev": "1.17"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.19",
+      "length": 120,
+      "noun_count": 7,
+      "verb_count": 1,
+      "persons": [
+        "高帝"
+      ],
+      "prev": "1.18"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.20",
+      "length": 168,
+      "noun_count": 12,
+      "verb_count": 3,
+      "persons": [
+        "高帝",
+        "横",
+        "韩襄王",
+        "田横",
+        "韩王信"
+      ],
+      "prev": "1.19"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.21",
+      "length": 185,
+      "noun_count": 22,
+      "verb_count": 3,
+      "persons": [
+        "楚怀王",
+        "怀王",
+        "项梁",
+        "张良",
+        "韩公子横阳君成",
+        "信",
+        "沛公",
+        "成"
+      ],
+      "prev": "1.20"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.22",
+      "length": 179,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [
+        "项王",
+        "韩王成",
+        "信",
+        "沛公",
+        "项籍"
+      ],
+      "prev": "1.21"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.23",
+      "length": 224,
+      "noun_count": 28,
+      "verb_count": 2,
+      "persons": [
+        "周苛",
+        "信急击韩王昌",
+        "昌",
+        "信",
+        "项籍"
+      ],
+      "prev": "1.22"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.24",
+      "length": 225,
+      "noun_count": 24,
+      "verb_count": 2,
+      "persons": [
+        "信",
+        "冒顿"
+      ],
+      "prev": "1.23"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.25",
+      "length": 172,
+      "noun_count": 12,
+      "verb_count": 3,
+      "persons": [
+        "王喜",
+        "信"
+      ],
+      "prev": "1.24"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.26",
+      "length": 216,
+      "noun_count": 24,
+      "verb_count": 7,
+      "persons": [
+        "王黄",
+        "信",
+        "曼丘臣",
+        "信亡走匈奴",
+        "赵利"
+      ],
+      "prev": "1.25"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.27",
+      "length": 152,
+      "noun_count": 15,
+      "verb_count": 1,
+      "persons": [
+        "冒顿"
+      ],
+      "prev": "1.26"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.28",
+      "length": 145,
+      "noun_count": 15,
+      "verb_count": 1,
+      "persons": [
+        "王黄",
+        "陈平",
+        "信",
+        "陈豨"
+      ],
+      "prev": "1.27"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.29",
+      "length": 153,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "信",
+        "柴将军",
+        "项籍"
+      ],
+      "prev": "1.28"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.30",
+      "length": 154,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "种",
+        "伍子胥",
+        "蠡"
+      ],
+      "prev": "1.29"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.31",
+      "length": 215,
+      "noun_count": 22,
+      "verb_count": 3,
+      "persons": [
+        "穨当",
+        "婴",
+        "韩太子",
+        "孝文",
+        "信",
+        "柴将军"
+      ],
+      "prev": "1.30"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.32",
+      "length": 213,
+      "noun_count": 20,
+      "verb_count": 8,
+      "persons": [
+        "兴",
+        "说",
+        "嫣"
+      ],
+      "prev": "1.31"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.33",
+      "length": 208,
+      "noun_count": 26,
+      "verb_count": 4,
+      "persons": [
+        "增",
+        "宣帝",
+        "兴",
+        "张安世",
+        "昭帝",
+        "霍光"
+      ],
+      "prev": "1.32"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.34",
+      "length": 163,
+      "noun_count": 12,
+      "verb_count": 3,
+      "persons": [
+        "增",
+        "持弓",
+        "安侯",
+        "成帝",
+        "岑",
+        "王莽",
+        "宝"
+      ],
+      "prev": "1.33"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.35",
+      "length": 174,
+      "noun_count": 15,
+      "verb_count": 1,
+      "persons": [
+        "炎",
+        "田儋",
+        "韩信",
+        "虞",
+        "横",
+        "唐",
+        "魏豹",
+        "黄"
+      ],
+      "prev": "1.34"
+    },
+    {
+      "chapter": "卷033",
+      "title": "魏豹田儋韩王信传第三",
+      "para": "1.36",
+      "length": 21,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.35"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "1.6",
+      "relation": "next"
+    },
+    {
+      "from": "1.6",
+      "to": "1.7",
+      "relation": "next"
+    },
+    {
+      "from": "1.7",
+      "to": "1.8",
+      "relation": "next"
+    },
+    {
+      "from": "1.8",
+      "to": "1.9",
+      "relation": "next"
+    },
+    {
+      "from": "1.9",
+      "to": "1.10",
+      "relation": "next"
+    },
+    {
+      "from": "1.10",
+      "to": "1.11",
+      "relation": "next"
+    },
+    {
+      "from": "1.11",
+      "to": "1.12",
+      "relation": "next"
+    },
+    {
+      "from": "1.12",
+      "to": "1.13",
+      "relation": "next"
+    },
+    {
+      "from": "1.13",
+      "to": "1.14",
+      "relation": "next"
+    },
+    {
+      "from": "1.14",
+      "to": "1.15",
+      "relation": "next"
+    },
+    {
+      "from": "1.15",
+      "to": "1.16",
+      "relation": "next"
+    },
+    {
+      "from": "1.16",
+      "to": "1.17",
+      "relation": "next"
+    },
+    {
+      "from": "1.17",
+      "to": "1.18",
+      "relation": "next"
+    },
+    {
+      "from": "1.18",
+      "to": "1.19",
+      "relation": "next"
+    },
+    {
+      "from": "1.19",
+      "to": "1.20",
+      "relation": "next"
+    },
+    {
+      "from": "1.20",
+      "to": "1.21",
+      "relation": "next"
+    },
+    {
+      "from": "1.21",
+      "to": "1.22",
+      "relation": "next"
+    },
+    {
+      "from": "1.22",
+      "to": "1.23",
+      "relation": "next"
+    },
+    {
+      "from": "1.23",
+      "to": "1.24",
+      "relation": "next"
+    },
+    {
+      "from": "1.24",
+      "to": "1.25",
+      "relation": "next"
+    },
+    {
+      "from": "1.25",
+      "to": "1.26",
+      "relation": "next"
+    },
+    {
+      "from": "1.26",
+      "to": "1.27",
+      "relation": "next"
+    },
+    {
+      "from": "1.27",
+      "to": "1.28",
+      "relation": "next"
+    },
+    {
+      "from": "1.28",
+      "to": "1.29",
+      "relation": "next"
+    },
+    {
+      "from": "1.29",
+      "to": "1.30",
+      "relation": "next"
+    },
+    {
+      "from": "1.30",
+      "to": "1.31",
+      "relation": "next"
+    },
+    {
+      "from": "1.31",
+      "to": "1.32",
+      "relation": "next"
+    },
+    {
+      "from": "1.32",
+      "to": "1.33",
+      "relation": "next"
+    },
+    {
+      "from": "1.33",
+      "to": "1.34",
+      "relation": "next"
+    },
+    {
+      "from": "1.34",
+      "to": "1.35",
+      "relation": "next"
+    },
+    {
+      "from": "1.35",
+      "to": "1.36",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "chapter": "卷042",
+  "title": "张周赵任申屠传第十二",
+  "paragraphs": [
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "0",
+      "length": 10,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.1",
+      "length": 192,
+      "noun_count": 20,
+      "verb_count": 2,
+      "persons": [
+        "苍",
+        "沛公",
+        "王陵",
+        "张苍"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.2",
+      "length": 236,
+      "noun_count": 30,
+      "verb_count": 5,
+      "persons": [
+        "敖",
+        "苍",
+        "荼",
+        "臧荼",
+        "韩信",
+        "张耳",
+        "陈馀",
+        "耳"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.3",
+      "length": 219,
+      "noun_count": 28,
+      "verb_count": 1,
+      "persons": [
+        "黥布",
+        "苍",
+        "长",
+        "萧何",
+        "周昌"
+      ],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.4",
+      "length": 228,
+      "noun_count": 29,
+      "verb_count": 2,
+      "persons": [
+        "高祖",
+        "苛",
+        "昌",
+        "沛公"
+      ],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.5",
+      "length": 209,
+      "noun_count": 21,
+      "verb_count": 7,
+      "persons": [
+        "萧",
+        "曹",
+        "苛",
+        "昌",
+        "项羽",
+        "成",
+        "项籍"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.6",
+      "length": 182,
+      "noun_count": 17,
+      "verb_count": 2,
+      "persons": [
+        "戚姬",
+        "威姬",
+        "高帝",
+        "如意",
+        "昌",
+        "留侯",
+        "纣",
+        "桀"
+      ],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.7",
+      "length": 172,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "戚姬",
+        "如意",
+        "昌",
+        "高祖",
+        "吕后"
+      ],
+      "prev": "1.6"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.8",
+      "length": 148,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "赵尧",
+        "方与公",
+        "昌",
+        "高祖",
+        "尧",
+        "周昌"
+      ],
+      "prev": "1.7"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.9",
+      "length": 168,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "吕后",
+        "尧",
+        "戚夫人"
+      ],
+      "prev": "1.8"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.10",
+      "length": 171,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "昌",
+        "高祖",
+        "吕后",
+        "尧"
+      ],
+      "prev": "1.9"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.11",
+      "length": 168,
+      "noun_count": 15,
+      "verb_count": 4,
+      "persons": [
+        "昌",
+        "高祖",
+        "尧",
+        "陈豨"
+      ],
+      "prev": "1.10"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.12",
+      "length": 190,
+      "noun_count": 20,
+      "verb_count": 1,
+      "persons": [
+        "高帝",
+        "高祖",
+        "昌",
+        "戚氏",
+        "戚夫人"
+      ],
+      "prev": "1.11"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.13",
+      "length": 180,
+      "noun_count": 19,
+      "verb_count": 2,
+      "persons": [
+        "左车",
+        "意",
+        "赵尧",
+        "悼侯",
+        "昌",
+        "高祖",
+        "景帝",
+        "惠帝",
+        "高后",
+        "周昌"
+      ],
+      "prev": "1.12"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.14",
+      "length": 215,
+      "noun_count": 25,
+      "verb_count": 3,
+      "persons": [
+        "敖",
+        "任敖",
+        "如意",
+        "高祖",
+        "项羽",
+        "吕后",
+        "尧"
+      ],
+      "prev": "1.13"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.15",
+      "length": 203,
+      "noun_count": 24,
+      "verb_count": 2,
+      "persons": [
+        "敖",
+        "越人",
+        "任敖",
+        "曹窋",
+        "陈豨",
+        "张苍",
+        "懿侯",
+        "高后",
+        "孝文"
+      ],
+      "prev": "1.14"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.16",
+      "length": 187,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "苍",
+        "灌婴",
+        "孝文皇帝"
+      ],
+      "prev": "1.15"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.17",
+      "length": 151,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "苍",
+        "陵夫人",
+        "陵",
+        "王陵",
+        "张苍"
+      ],
+      "prev": "1.16"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.18",
+      "length": 173,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "苍",
+        "公孙臣",
+        "文帝"
+      ],
+      "prev": "1.17"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.19",
+      "length": 201,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "孝景",
+        "苍",
+        "长",
+        "复",
+        "乳母",
+        "文侯",
+        "类"
+      ],
+      "prev": "1.18"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.20",
+      "length": 181,
+      "noun_count": 21,
+      "verb_count": 2,
+      "persons": [
+        "孝惠",
+        "嘉",
+        "高帝",
+        "高祖",
+        "黥布",
+        "孝文",
+        "申屠嘉",
+        "项籍"
+      ],
+      "prev": "1.19"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.21",
+      "length": 182,
+      "noun_count": 17,
+      "verb_count": 1,
+      "persons": [
+        "窦广国",
+        "嘉",
+        "高帝",
+        "广国",
+        "文帝",
+        "张苍",
+        "邓通"
+      ],
+      "prev": "1.20"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.22",
+      "length": 166,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "嘉",
+        "通"
+      ],
+      "prev": "1.21"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.23",
+      "length": 155,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "通",
+        "高皇帝",
+        "嘉"
+      ],
+      "prev": "1.22"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.24",
+      "length": 180,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "晁错",
+        "孝景",
+        "嘉",
+        "错",
+        "文帝",
+        "邓通"
+      ],
+      "prev": "1.23"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.25",
+      "length": 167,
+      "noun_count": 8,
+      "verb_count": 2,
+      "persons": [
+        "嘉",
+        "节侯",
+        "错"
+      ],
+      "prev": "1.24"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.26",
+      "length": 186,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "许昌",
+        "陶青",
+        "嘉",
+        "臾",
+        "武帝",
+        "张苍",
+        "庄青翟",
+        "薛泽",
+        "赵周",
+        "刘舍"
+      ],
+      "prev": "1.25"
+    },
+    {
+      "chapter": "卷042",
+      "title": "张周赵任申屠传第十二",
+      "para": "1.27",
+      "length": 59,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "萧",
+        "任敖",
+        "曹",
+        "陈平",
+        "周昌",
+        "申屠嘉"
+      ],
+      "prev": "1.26"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "1.6",
+      "relation": "next"
+    },
+    {
+      "from": "1.6",
+      "to": "1.7",
+      "relation": "next"
+    },
+    {
+      "from": "1.7",
+      "to": "1.8",
+      "relation": "next"
+    },
+    {
+      "from": "1.8",
+      "to": "1.9",
+      "relation": "next"
+    },
+    {
+      "from": "1.9",
+      "to": "1.10",
+      "relation": "next"
+    },
+    {
+      "from": "1.10",
+      "to": "1.11",
+      "relation": "next"
+    },
+    {
+      "from": "1.11",
+      "to": "1.12",
+      "relation": "next"
+    },
+    {
+      "from": "1.12",
+      "to": "1.13",
+      "relation": "next"
+    },
+    {
+      "from": "1.13",
+      "to": "1.14",
+      "relation": "next"
+    },
+    {
+      "from": "1.14",
+      "to": "1.15",
+      "relation": "next"
+    },
+    {
+      "from": "1.15",
+      "to": "1.16",
+      "relation": "next"
+    },
+    {
+      "from": "1.16",
+      "to": "1.17",
+      "relation": "next"
+    },
+    {
+      "from": "1.17",
+      "to": "1.18",
+      "relation": "next"
+    },
+    {
+      "from": "1.18",
+      "to": "1.19",
+      "relation": "next"
+    },
+    {
+      "from": "1.19",
+      "to": "1.20",
+      "relation": "next"
+    },
+    {
+      "from": "1.20",
+      "to": "1.21",
+      "relation": "next"
+    },
+    {
+      "from": "1.21",
+      "to": "1.22",
+      "relation": "next"
+    },
+    {
+      "from": "1.22",
+      "to": "1.23",
+      "relation": "next"
+    },
+    {
+      "from": "1.23",
+      "to": "1.24",
+      "relation": "next"
+    },
+    {
+      "from": "1.24",
+      "to": "1.25",
+      "relation": "next"
+    },
+    {
+      "from": "1.25",
+      "to": "1.26",
+      "relation": "next"
+    },
+    {
+      "from": "1.26",
+      "to": "1.27",
+      "relation": "next"
+    }
+  ]
+}

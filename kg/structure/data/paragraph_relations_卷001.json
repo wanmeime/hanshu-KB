@@ -1,0 +1,1725 @@
+{
+  "chapter": "卷001",
+  "title": "高帝纪第一上",
+  "paragraphs": [
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "0",
+      "length": 6,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "1",
+      "length": 94,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "太公"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "2",
+      "length": 153,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "武负",
+        "王媪"
+      ],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "3",
+      "length": 46,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "秦皇帝"
+      ],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "4",
+      "length": 397,
+      "noun_count": 29,
+      "verb_count": 0,
+      "persons": [
+        "吕公",
+        "刘季",
+        "吕媪",
+        "高祖",
+        "吕后",
+        "季",
+        "鲁元公主",
+        "孝惠帝",
+        "萧何"
+      ],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "5",
+      "length": 230,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "后",
+        "高祖",
+        "吕后",
+        "鲁元公主",
+        "孝惠帝"
+      ],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "6",
+      "length": 54,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "高祖"
+      ],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "7",
+      "length": 318,
+      "noun_count": 17,
+      "verb_count": 1,
+      "persons": [
+        "高祖"
+      ],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "8",
+      "length": 140,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "后",
+        "高祖",
+        "吕后",
+        "季",
+        "秦始皇帝"
+      ],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "9",
+      "length": 240,
+      "noun_count": 28,
+      "verb_count": 3,
+      "persons": [
+        "陈涉",
+        "樊哙",
+        "张耳",
+        "曹参",
+        "高祖",
+        "陈馀",
+        "武臣",
+        "涉",
+        "萧何"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "10",
+      "length": 514,
+      "noun_count": 41,
+      "verb_count": 8,
+      "persons": [
+        "黄帝",
+        "萧",
+        "曹",
+        "刘季",
+        "樊哙",
+        "蚩尤",
+        "高祖",
+        "沛公"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "11",
+      "length": 141,
+      "noun_count": 17,
+      "verb_count": 5,
+      "persons": [
+        "韩广",
+        "田儋",
+        "陈涉",
+        "周章",
+        "横",
+        "魏咎",
+        "项梁",
+        "荣",
+        "章邯",
+        "羽"
+      ],
+      "prev": "10"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "12",
+      "length": 450,
+      "noun_count": 58,
+      "verb_count": 12,
+      "persons": [
+        "周市",
+        "陈涉",
+        "得",
+        "壮",
+        "雍齿",
+        "武臣",
+        "齿",
+        "沛公",
+        "平"
+      ],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "13",
+      "length": 191,
+      "noun_count": 25,
+      "verb_count": 4,
+      "persons": [
+        "东阳甯君",
+        "秦嘉",
+        "景驹",
+        "张耳",
+        "章邯",
+        "张良",
+        "赵歇",
+        "司马",
+        "沛公"
+      ],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "14",
+      "length": 54,
+      "noun_count": 6,
+      "verb_count": 2,
+      "persons": [],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "15",
+      "length": 35,
+      "noun_count": 3,
+      "verb_count": 3,
+      "persons": [],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "16",
+      "length": 113,
+      "noun_count": 15,
+      "verb_count": 4,
+      "persons": [
+        "秦嘉",
+        "景驹",
+        "项梁",
+        "雍齿",
+        "沛公"
+      ],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "17",
+      "length": 35,
+      "noun_count": 5,
+      "verb_count": 1,
+      "persons": [
+        "项梁",
+        "项羽"
+      ],
+      "prev": "16"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "18",
+      "length": 243,
+      "noun_count": 30,
+      "verb_count": 11,
+      "persons": [
+        "咎",
+        "心",
+        "田儋",
+        "沛公",
+        "项梁",
+        "项羽",
+        "田荣",
+        "章邯"
+      ],
+      "prev": "17"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "19",
+      "length": 157,
+      "noun_count": 19,
+      "verb_count": 6,
+      "persons": [
+        "市",
+        "田儋",
+        "沛公",
+        "项羽",
+        "田荣",
+        "章邯",
+        "李由"
+      ],
+      "prev": "18"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "20",
+      "length": 358,
+      "noun_count": 45,
+      "verb_count": 8,
+      "persons": [
+        "豹",
+        "宋义",
+        "梁",
+        "沛公",
+        "怀王",
+        "项梁",
+        "项羽",
+        "吕臣",
+        "魏咎",
+        "吕青"
+      ],
+      "prev": "19"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "21",
+      "length": 151,
+      "noun_count": 18,
+      "verb_count": 5,
+      "persons": [
+        "宋义",
+        "歇",
+        "怀王",
+        "项梁",
+        "项羽",
+        "范增",
+        "王离",
+        "章邯"
+      ],
+      "prev": "20"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "22",
+      "length": 320,
+      "noun_count": 27,
+      "verb_count": 5,
+      "persons": [
+        "陈王",
+        "怀王",
+        "项梁",
+        "项羽",
+        "沛公",
+        "羽"
+      ],
+      "prev": "21"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "23",
+      "length": 69,
+      "noun_count": 9,
+      "verb_count": 3,
+      "persons": [
+        "田荣",
+        "项羽",
+        "田都",
+        "沛公"
+      ],
+      "prev": "22"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "24",
+      "length": 52,
+      "noun_count": 5,
+      "verb_count": 2,
+      "persons": [
+        "项羽",
+        "黥布",
+        "宋义"
+      ],
+      "prev": "23"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "25",
+      "length": 165,
+      "noun_count": 19,
+      "verb_count": 8,
+      "persons": [
+        "田安",
+        "王离",
+        "刚武侯",
+        "沛公",
+        "项羽",
+        "章邯",
+        "武满",
+        "皇欣",
+        "齐王建",
+        "羽"
+      ],
+      "prev": "24"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "26",
+      "length": 245,
+      "noun_count": 24,
+      "verb_count": 4,
+      "persons": [
+        "郦生",
+        "越",
+        "商",
+        "郦食其",
+        "食其",
+        "沛公",
+        "彭越"
+      ],
+      "prev": "25"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "27",
+      "length": 124,
+      "noun_count": 13,
+      "verb_count": 5,
+      "persons": [
+        "杨熊",
+        "二世",
+        "张良"
+      ],
+      "prev": "26"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "28",
+      "length": 80,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [
+        "司马卬",
+        "沛公"
+      ],
+      "prev": "27"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "29",
+      "length": 619,
+      "noun_count": 58,
+      "verb_count": 11,
+      "persons": [
+        "陈恢",
+        "申阳",
+        "齮",
+        "甯昌",
+        "梅鋗",
+        "项羽",
+        "章邯",
+        "张良",
+        "王陵",
+        "鳃"
+      ],
+      "prev": "28"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "30",
+      "length": 336,
+      "noun_count": 34,
+      "verb_count": 8,
+      "persons": [
+        "陆贾",
+        "子婴",
+        "赵高",
+        "郦食其",
+        "张良",
+        "二世",
+        "沛公"
+      ],
+      "prev": "29"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "31",
+      "length": 460,
+      "noun_count": 40,
+      "verb_count": 2,
+      "persons": [
+        "樊哙",
+        "子婴",
+        "怀王",
+        "张良",
+        "萧何",
+        "沛公"
+      ],
+      "prev": "30"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "32.1",
+      "length": 161,
+      "noun_count": 16,
+      "verb_count": 1,
+      "persons": [
+        "项羽",
+        "章邯",
+        "沛公",
+        "羽"
+      ],
+      "prev": "31"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "32.2",
+      "length": 208,
+      "noun_count": 20,
+      "verb_count": 3,
+      "persons": [
+        "曹毋伤",
+        "子婴",
+        "亚父范增",
+        "黥布",
+        "沛公",
+        "羽"
+      ],
+      "prev": "32.1"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "32.3",
+      "length": 145,
+      "noun_count": 12,
+      "verb_count": 1,
+      "persons": [
+        "项伯",
+        "沛公",
+        "羽",
+        "张良"
+      ],
+      "prev": "32.2"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "32.4",
+      "length": 139,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "项伯",
+        "伯",
+        "良",
+        "沛公"
+      ],
+      "prev": "32.3"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "32.5",
+      "length": 116,
+      "noun_count": 8,
+      "verb_count": 2,
+      "persons": [
+        "项伯",
+        "沛公",
+        "羽"
+      ],
+      "prev": "32.4"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "33",
+      "length": 557,
+      "noun_count": 50,
+      "verb_count": 5,
+      "persons": [
+        "曹毋伤",
+        "哙",
+        "增",
+        "靳强",
+        "项伯",
+        "樊哙",
+        "纪成",
+        "滕公",
+        "范增",
+        "项庄"
+      ],
+      "prev": "32.5"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "34",
+      "length": 230,
+      "noun_count": 19,
+      "verb_count": 3,
+      "persons": [
+        "子婴",
+        "怀王",
+        "沛公",
+        "羽",
+        "籍",
+        "义帝"
+      ],
+      "prev": "33"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "35",
+      "length": 548,
+      "noun_count": 80,
+      "verb_count": 8,
+      "persons": [
+        "田安",
+        "司马卬",
+        "建",
+        "吴芮",
+        "沛公",
+        "豹",
+        "田市",
+        "韩广",
+        "臧荼",
+        "歇"
+      ],
+      "prev": "34"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "36",
+      "length": 142,
+      "noun_count": 18,
+      "verb_count": 1,
+      "persons": [
+        "项羽",
+        "张良",
+        "羽"
+      ],
+      "prev": "35"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "37",
+      "length": 285,
+      "noun_count": 21,
+      "verb_count": 1,
+      "persons": [
+        "韩信",
+        "项羽",
+        "萧何",
+        "信",
+        "羽"
+      ],
+      "prev": "36"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "38",
+      "length": 126,
+      "noun_count": 15,
+      "verb_count": 3,
+      "persons": [
+        "邯"
+      ],
+      "prev": "37"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "39",
+      "length": 303,
+      "noun_count": 39,
+      "verb_count": 8,
+      "persons": [
+        "田都",
+        "市",
+        "田市",
+        "韩广",
+        "欣",
+        "越",
+        "翳",
+        "安",
+        "臧荼",
+        "荣"
+      ],
+      "prev": "38"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "40",
+      "length": 288,
+      "noun_count": 35,
+      "verb_count": 5,
+      "persons": [
+        "角",
+        "越",
+        "项梁",
+        "公子成",
+        "张良",
+        "良",
+        "郑昌",
+        "羽",
+        "成",
+        "彭越"
+      ],
+      "prev": "39"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "41",
+      "length": 95,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "太公",
+        "王吸",
+        "吕后",
+        "王陵",
+        "薛欧",
+        "羽"
+      ],
+      "prev": "40"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "42",
+      "length": 200,
+      "noun_count": 27,
+      "verb_count": 3,
+      "persons": [
+        "布",
+        "歇",
+        "馀",
+        "张耳",
+        "项羽",
+        "陈馀",
+        "耳",
+        "张良",
+        "田荣",
+        "羽"
+      ],
+      "prev": "41"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "43",
+      "length": 192,
+      "noun_count": 23,
+      "verb_count": 4,
+      "persons": [
+        "申阳",
+        "信",
+        "郑昌",
+        "韩信"
+      ],
+      "prev": "42"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "44",
+      "length": 123,
+      "noun_count": 14,
+      "verb_count": 6,
+      "persons": [
+        "田荣",
+        "荣",
+        "羽",
+        "章平"
+      ],
+      "prev": "43"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "45",
+      "length": 189,
+      "noun_count": 20,
+      "verb_count": 2,
+      "persons": [],
+      "prev": "44"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "46",
+      "length": 465,
+      "noun_count": 41,
+      "verb_count": 6,
+      "persons": [
+        "豹",
+        "董公",
+        "项羽",
+        "陈平",
+        "卬",
+        "义帝"
+      ],
+      "prev": "45"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "47",
+      "length": 178,
+      "noun_count": 22,
+      "verb_count": 5,
+      "persons": [
+        "越",
+        "横",
+        "荣",
+        "田荣",
+        "广",
+        "羽",
+        "彭越"
+      ],
+      "prev": "46"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "48",
+      "length": 406,
+      "noun_count": 42,
+      "verb_count": 5,
+      "persons": [
+        "孝惠",
+        "太公",
+        "欣",
+        "翳",
+        "审食其",
+        "滕公",
+        "鲁元",
+        "吕后",
+        "卬",
+        "羽"
+      ],
+      "prev": "47"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "49",
+      "length": 40,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "吕后"
+      ],
+      "prev": "48"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "50",
+      "length": 110,
+      "noun_count": 12,
+      "verb_count": 1,
+      "persons": [
+        "布",
+        "项王",
+        "随何"
+      ],
+      "prev": "49"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "51",
+      "length": 143,
+      "noun_count": 18,
+      "verb_count": 1,
+      "persons": [
+        "萧何",
+        "韩信",
+        "豹"
+      ],
+      "prev": "50"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "52",
+      "length": 210,
+      "noun_count": 24,
+      "verb_count": 4,
+      "persons": [
+        "章邯"
+      ],
+      "prev": "51"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "53",
+      "length": 270,
+      "noun_count": 27,
+      "verb_count": 2,
+      "persons": [
+        "豹",
+        "项它",
+        "韩信",
+        "郦食其",
+        "曹参",
+        "食其",
+        "柏直",
+        "冯敬",
+        "灌婴",
+        "冯无择"
+      ],
+      "prev": "52"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "54",
+      "length": 120,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "豹",
+        "信"
+      ],
+      "prev": "53"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "55",
+      "length": 94,
+      "noun_count": 13,
+      "verb_count": 2,
+      "persons": [
+        "张耳",
+        "歇",
+        "韩信",
+        "陈馀"
+      ],
+      "prev": "54"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "56",
+      "length": 91,
+      "noun_count": 11,
+      "verb_count": 2,
+      "persons": [
+        "布",
+        "随何",
+        "黥布",
+        "项声",
+        "龙且"
+      ],
+      "prev": "55"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "57",
+      "length": 48,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "布",
+        "随何"
+      ],
+      "prev": "56"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "58",
+      "length": 179,
+      "noun_count": 18,
+      "verb_count": 3,
+      "persons": [
+        "郦食其",
+        "项羽",
+        "食其",
+        "陈平",
+        "良",
+        "张良"
+      ],
+      "prev": "57"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "59",
+      "length": 127,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "项羽",
+        "陈平",
+        "亚父",
+        "羽"
+      ],
+      "prev": "58"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "60",
+      "length": 276,
+      "noun_count": 29,
+      "verb_count": 4,
+      "persons": [
+        "周苛",
+        "羽",
+        "纪信",
+        "陈平",
+        "魏豹",
+        "信",
+        "枞公"
+      ],
+      "prev": "59"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "61",
+      "length": 238,
+      "noun_count": 27,
+      "verb_count": 1,
+      "persons": [
+        "项王",
+        "韩信",
+        "黥布",
+        "辕生"
+      ],
+      "prev": "60"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "62",
+      "length": 149,
+      "noun_count": 17,
+      "verb_count": 6,
+      "persons": [
+        "终公",
+        "项声",
+        "羽",
+        "薛公",
+        "彭越"
+      ],
+      "prev": "61"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "63",
+      "length": 284,
+      "noun_count": 29,
+      "verb_count": 8,
+      "persons": [
+        "周苛",
+        "羽",
+        "苛",
+        "韩信",
+        "滕公",
+        "张耳",
+        "信",
+        "枞公",
+        "彭越"
+      ],
+      "prev": "62"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "64",
+      "length": 37,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "韩信"
+      ],
+      "prev": "63"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "65",
+      "length": 160,
+      "noun_count": 20,
+      "verb_count": 3,
+      "persons": [
+        "郑忠",
+        "卢绾",
+        "刘贾",
+        "彭越"
+      ],
+      "prev": "64"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "66",
+      "length": 117,
+      "noun_count": 12,
+      "verb_count": 2,
+      "persons": [
+        "曹咎",
+        "海春侯",
+        "羽",
+        "彭越"
+      ],
+      "prev": "65"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "67",
+      "length": 34,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "郦食其",
+        "田广"
+      ],
+      "prev": "66"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "68",
+      "length": 111,
+      "noun_count": 14,
+      "verb_count": 6,
+      "persons": [
+        "郦生",
+        "韩信",
+        "蒯通",
+        "项羽",
+        "龙且"
+      ],
+      "prev": "67"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "69",
+      "length": 172,
+      "noun_count": 20,
+      "verb_count": 3,
+      "persons": [
+        "咎",
+        "欣"
+      ],
+      "prev": "68"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.1",
+      "length": 206,
+      "noun_count": 21,
+      "verb_count": 1,
+      "persons": [
+        "钟离昧",
+        "海春侯",
+        "羽",
+        "怀王"
+      ],
+      "prev": "69"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.2",
+      "length": 202,
+      "noun_count": 18,
+      "verb_count": 5,
+      "persons": [
+        "始皇帝",
+        "子婴",
+        "羽",
+        "怀王"
+      ],
+      "prev": "70.1"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.3",
+      "length": 148,
+      "noun_count": 7,
+      "verb_count": 5,
+      "persons": [
+        "义帝"
+      ],
+      "prev": "70.2"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.4",
+      "length": 144,
+      "noun_count": 11,
+      "verb_count": 3,
+      "persons": [
+        "张良",
+        "羽"
+      ],
+      "prev": "70.3"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.5",
+      "length": 195,
+      "noun_count": 23,
+      "verb_count": 7,
+      "persons": [
+        "欣",
+        "韩信",
+        "张耳",
+        "彭越",
+        "田横",
+        "广",
+        "灌婴",
+        "龙且"
+      ],
+      "prev": "70.4"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.6",
+      "length": 191,
+      "noun_count": 21,
+      "verb_count": 5,
+      "persons": [
+        "韩信",
+        "张良",
+        "黥布",
+        "田横",
+        "彭越"
+      ],
+      "prev": "70.5"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.7",
+      "length": 209,
+      "noun_count": 23,
+      "verb_count": 1,
+      "persons": [
+        "侯公",
+        "太公",
+        "陆贾",
+        "韩信",
+        "项羽",
+        "羽"
+      ],
+      "prev": "70.6"
+    },
+    {
+      "chapter": "卷001",
+      "title": "高帝纪第一上",
+      "para": "70.8",
+      "length": 144,
+      "noun_count": 13,
+      "verb_count": 1,
+      "persons": [
+        "侯公",
+        "太公",
+        "吕后",
+        "张良",
+        "陈平",
+        "羽"
+      ],
+      "prev": "70.7"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    },
+    {
+      "from": "17",
+      "to": "18",
+      "relation": "next"
+    },
+    {
+      "from": "18",
+      "to": "19",
+      "relation": "next"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "relation": "next"
+    },
+    {
+      "from": "20",
+      "to": "21",
+      "relation": "next"
+    },
+    {
+      "from": "21",
+      "to": "22",
+      "relation": "next"
+    },
+    {
+      "from": "22",
+      "to": "23",
+      "relation": "next"
+    },
+    {
+      "from": "23",
+      "to": "24",
+      "relation": "next"
+    },
+    {
+      "from": "24",
+      "to": "25",
+      "relation": "next"
+    },
+    {
+      "from": "25",
+      "to": "26",
+      "relation": "next"
+    },
+    {
+      "from": "26",
+      "to": "27",
+      "relation": "next"
+    },
+    {
+      "from": "27",
+      "to": "28",
+      "relation": "next"
+    },
+    {
+      "from": "28",
+      "to": "29",
+      "relation": "next"
+    },
+    {
+      "from": "29",
+      "to": "30",
+      "relation": "next"
+    },
+    {
+      "from": "30",
+      "to": "31",
+      "relation": "next"
+    },
+    {
+      "from": "31",
+      "to": "32.1",
+      "relation": "next"
+    },
+    {
+      "from": "32.1",
+      "to": "32.2",
+      "relation": "next"
+    },
+    {
+      "from": "32.2",
+      "to": "32.3",
+      "relation": "next"
+    },
+    {
+      "from": "32.3",
+      "to": "32.4",
+      "relation": "next"
+    },
+    {
+      "from": "32.4",
+      "to": "32.5",
+      "relation": "next"
+    },
+    {
+      "from": "32.5",
+      "to": "33",
+      "relation": "next"
+    },
+    {
+      "from": "33",
+      "to": "34",
+      "relation": "next"
+    },
+    {
+      "from": "34",
+      "to": "35",
+      "relation": "next"
+    },
+    {
+      "from": "35",
+      "to": "36",
+      "relation": "next"
+    },
+    {
+      "from": "36",
+      "to": "37",
+      "relation": "next"
+    },
+    {
+      "from": "37",
+      "to": "38",
+      "relation": "next"
+    },
+    {
+      "from": "38",
+      "to": "39",
+      "relation": "next"
+    },
+    {
+      "from": "39",
+      "to": "40",
+      "relation": "next"
+    },
+    {
+      "from": "40",
+      "to": "41",
+      "relation": "next"
+    },
+    {
+      "from": "41",
+      "to": "42",
+      "relation": "next"
+    },
+    {
+      "from": "42",
+      "to": "43",
+      "relation": "next"
+    },
+    {
+      "from": "43",
+      "to": "44",
+      "relation": "next"
+    },
+    {
+      "from": "44",
+      "to": "45",
+      "relation": "next"
+    },
+    {
+      "from": "45",
+      "to": "46",
+      "relation": "next"
+    },
+    {
+      "from": "46",
+      "to": "47",
+      "relation": "next"
+    },
+    {
+      "from": "47",
+      "to": "48",
+      "relation": "next"
+    },
+    {
+      "from": "48",
+      "to": "49",
+      "relation": "next"
+    },
+    {
+      "from": "49",
+      "to": "50",
+      "relation": "next"
+    },
+    {
+      "from": "50",
+      "to": "51",
+      "relation": "next"
+    },
+    {
+      "from": "51",
+      "to": "52",
+      "relation": "next"
+    },
+    {
+      "from": "52",
+      "to": "53",
+      "relation": "next"
+    },
+    {
+      "from": "53",
+      "to": "54",
+      "relation": "next"
+    },
+    {
+      "from": "54",
+      "to": "55",
+      "relation": "next"
+    },
+    {
+      "from": "55",
+      "to": "56",
+      "relation": "next"
+    },
+    {
+      "from": "56",
+      "to": "57",
+      "relation": "next"
+    },
+    {
+      "from": "57",
+      "to": "58",
+      "relation": "next"
+    },
+    {
+      "from": "58",
+      "to": "59",
+      "relation": "next"
+    },
+    {
+      "from": "59",
+      "to": "60",
+      "relation": "next"
+    },
+    {
+      "from": "60",
+      "to": "61",
+      "relation": "next"
+    },
+    {
+      "from": "61",
+      "to": "62",
+      "relation": "next"
+    },
+    {
+      "from": "62",
+      "to": "63",
+      "relation": "next"
+    },
+    {
+      "from": "63",
+      "to": "64",
+      "relation": "next"
+    },
+    {
+      "from": "64",
+      "to": "65",
+      "relation": "next"
+    },
+    {
+      "from": "65",
+      "to": "66",
+      "relation": "next"
+    },
+    {
+      "from": "66",
+      "to": "67",
+      "relation": "next"
+    },
+    {
+      "from": "67",
+      "to": "68",
+      "relation": "next"
+    },
+    {
+      "from": "68",
+      "to": "69",
+      "relation": "next"
+    },
+    {
+      "from": "69",
+      "to": "70.1",
+      "relation": "next"
+    },
+    {
+      "from": "70.1",
+      "to": "70.2",
+      "relation": "next"
+    },
+    {
+      "from": "70.2",
+      "to": "70.3",
+      "relation": "next"
+    },
+    {
+      "from": "70.3",
+      "to": "70.4",
+      "relation": "next"
+    },
+    {
+      "from": "70.4",
+      "to": "70.5",
+      "relation": "next"
+    },
+    {
+      "from": "70.5",
+      "to": "70.6",
+      "relation": "next"
+    },
+    {
+      "from": "70.6",
+      "to": "70.7",
+      "relation": "next"
+    },
+    {
+      "from": "70.7",
+      "to": "70.8",
+      "relation": "next"
+    }
+  ]
+}

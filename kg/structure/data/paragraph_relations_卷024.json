@@ -1,0 +1,553 @@
+{
+  "chapter": "卷024",
+  "title": "食货志第四上",
+  "paragraphs": [
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "0",
+      "length": 6,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "1",
+      "length": 599,
+      "noun_count": 48,
+      "verb_count": 0,
+      "persons": [
+        "黄帝",
+        "禹",
+        "舜",
+        "神农",
+        "尧",
+        "后稷"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "2",
+      "length": 155,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "3",
+      "length": 495,
+      "noun_count": 50,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "4",
+      "length": 408,
+      "noun_count": 36,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "5",
+      "length": 176,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "6",
+      "length": 305,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "孔子"
+      ],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "7",
+      "length": 84,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "鲁宣公"
+      ],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "8",
+      "length": 627,
+      "noun_count": 43,
+      "verb_count": 0,
+      "persons": [
+        "李悝",
+        "魏文侯"
+      ],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "9",
+      "length": 207,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "始皇",
+        "商君",
+        "秦孝公"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "10",
+      "length": 297,
+      "noun_count": 26,
+      "verb_count": 0,
+      "persons": [
+        "孝惠",
+        "高祖",
+        "贾谊",
+        "文帝",
+        "高后"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "11",
+      "length": 252,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "管子"
+      ],
+      "prev": "10"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "12",
+      "length": 134,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "禹",
+        "汤"
+      ],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "13",
+      "length": 125,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "14",
+      "length": 38,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "晁错",
+        "谊"
+      ],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "15",
+      "length": 242,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "禹",
+        "尧",
+        "汤"
+      ],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "16",
+      "length": 126,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "17",
+      "length": 186,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "16"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "18",
+      "length": 373,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "17"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "19",
+      "length": 500,
+      "noun_count": 30,
+      "verb_count": 0,
+      "persons": [
+        "神农"
+      ],
+      "prev": "18"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "20",
+      "length": 272,
+      "noun_count": 21,
+      "verb_count": 0,
+      "persons": [
+        "错",
+        "文帝"
+      ],
+      "prev": "19"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "21",
+      "length": 378,
+      "noun_count": 24,
+      "verb_count": 0,
+      "persons": [
+        "孝景",
+        "武帝"
+      ],
+      "prev": "20"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "22",
+      "length": 646,
+      "noun_count": 55,
+      "verb_count": 0,
+      "persons": [
+        "董仲舒",
+        "仲舒",
+        "商鞅"
+      ],
+      "prev": "21"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "23",
+      "length": 625,
+      "noun_count": 58,
+      "verb_count": 1,
+      "persons": [
+        "光",
+        "武帝",
+        "赵过",
+        "过",
+        "后稷"
+      ],
+      "prev": "22"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "24",
+      "length": 513,
+      "noun_count": 39,
+      "verb_count": 0,
+      "persons": [
+        "耿寿昌",
+        "蔡癸",
+        "寿昌",
+        "徐宫",
+        "萧望之",
+        "宣帝",
+        "武帝",
+        "昭帝"
+      ],
+      "prev": "23"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "25",
+      "length": 201,
+      "noun_count": 19,
+      "verb_count": 0,
+      "persons": [
+        "元帝"
+      ],
+      "prev": "24"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "26",
+      "length": 83,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "成帝"
+      ],
+      "prev": "25"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "27",
+      "length": 448,
+      "noun_count": 40,
+      "verb_count": 0,
+      "persons": [
+        "孝文皇帝",
+        "师丹",
+        "景",
+        "文",
+        "何武",
+        "董贤",
+        "孔光",
+        "哀帝"
+      ],
+      "prev": "26"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "28",
+      "length": 508,
+      "noun_count": 46,
+      "verb_count": 0,
+      "persons": [
+        "王莽",
+        "平帝",
+        "宣帝",
+        "莽"
+      ],
+      "prev": "27"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "29",
+      "length": 109,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "莽"
+      ],
+      "prev": "28"
+    },
+    {
+      "chapter": "卷024",
+      "title": "食货志第四上",
+      "para": "30",
+      "length": 239,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "莽"
+      ],
+      "prev": "29"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    },
+    {
+      "from": "17",
+      "to": "18",
+      "relation": "next"
+    },
+    {
+      "from": "18",
+      "to": "19",
+      "relation": "next"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "relation": "next"
+    },
+    {
+      "from": "20",
+      "to": "21",
+      "relation": "next"
+    },
+    {
+      "from": "21",
+      "to": "22",
+      "relation": "next"
+    },
+    {
+      "from": "22",
+      "to": "23",
+      "relation": "next"
+    },
+    {
+      "from": "23",
+      "to": "24",
+      "relation": "next"
+    },
+    {
+      "from": "24",
+      "to": "25",
+      "relation": "next"
+    },
+    {
+      "from": "25",
+      "to": "26",
+      "relation": "next"
+    },
+    {
+      "from": "26",
+      "to": "27",
+      "relation": "next"
+    },
+    {
+      "from": "27",
+      "to": "28",
+      "relation": "next"
+    },
+    {
+      "from": "28",
+      "to": "29",
+      "relation": "next"
+    },
+    {
+      "from": "29",
+      "to": "30",
+      "relation": "next"
+    }
+  ]
+}

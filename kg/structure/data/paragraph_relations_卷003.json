@@ -1,0 +1,366 @@
+{
+  "chapter": "卷003",
+  "title": "高后纪第三",
+  "paragraphs": [
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "0",
+      "length": 5,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "1",
+      "length": 228,
+      "noun_count": 24,
+      "verb_count": 5,
+      "persons": [
+        "高皇后吕氏",
+        "产",
+        "高祖",
+        "禄",
+        "吕后",
+        "惠帝",
+        "鲁元公主",
+        "台子通",
+        "吕台"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "2",
+      "length": 53,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "孝惠皇帝"
+      ],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "3",
+      "length": 161,
+      "noun_count": 21,
+      "verb_count": 1,
+      "persons": [
+        "强",
+        "弘",
+        "朝",
+        "武",
+        "孝惠",
+        "不疑"
+      ],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "4",
+      "length": 335,
+      "noun_count": 32,
+      "verb_count": 0,
+      "persons": [
+        "婴",
+        "陵",
+        "商",
+        "高皇帝",
+        "不疑",
+        "平",
+        "勃"
+      ],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "5",
+      "length": 39,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "6",
+      "length": 206,
+      "noun_count": 14,
+      "verb_count": 1,
+      "persons": [
+        "弘"
+      ],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "7",
+      "length": 75,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "强",
+        "南粤王尉佗"
+      ],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "8",
+      "length": 88,
+      "noun_count": 11,
+      "verb_count": 3,
+      "persons": [],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "9",
+      "length": 373,
+      "noun_count": 43,
+      "verb_count": 5,
+      "persons": [
+        "友",
+        "昭哀后",
+        "建",
+        "灶",
+        "高皇帝",
+        "吕产",
+        "武哀王",
+        "刘泽",
+        "恢",
+        "禄"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "10",
+      "length": 84,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "张释卿"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "11",
+      "length": 71,
+      "noun_count": 8,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "10"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "12",
+      "length": 288,
+      "noun_count": 29,
+      "verb_count": 4,
+      "persons": [
+        "婴",
+        "高皇帝",
+        "章",
+        "产",
+        "泽",
+        "禄",
+        "齐悼惠王",
+        "灌婴",
+        "平",
+        "勃"
+      ],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "13",
+      "length": 422,
+      "noun_count": 40,
+      "verb_count": 2,
+      "persons": [
+        "郦商",
+        "商",
+        "吕嬃",
+        "高帝",
+        "产",
+        "禄",
+        "吕后",
+        "寄",
+        "嬃",
+        "平"
+      ],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "14",
+      "length": 725,
+      "noun_count": 78,
+      "verb_count": 6,
+      "persons": [
+        "贾寿",
+        "郦寄",
+        "刘揭",
+        "章",
+        "产",
+        "禄",
+        "窋",
+        "纪通",
+        "灌婴",
+        "平"
+      ],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "15",
+      "length": 219,
+      "noun_count": 22,
+      "verb_count": 7,
+      "persons": [
+        "勃",
+        "章",
+        "吕嬃",
+        "产",
+        "吕更始",
+        "吕禄"
+      ],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "16",
+      "length": 66,
+      "noun_count": 5,
+      "verb_count": 2,
+      "persons": [
+        "孝惠",
+        "文帝",
+        "周勃"
+      ],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷003",
+      "title": "高后纪第三",
+      "para": "17",
+      "length": 84,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "高后",
+        "孝惠",
+        "惠帝"
+      ],
+      "prev": "16"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    }
+  ]
+}

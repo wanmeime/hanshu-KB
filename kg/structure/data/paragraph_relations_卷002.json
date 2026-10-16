@@ -1,0 +1,501 @@
+{
+  "chapter": "卷002",
+  "title": "惠帝纪第二",
+  "paragraphs": [
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "0",
+      "length": 5,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "1",
+      "length": 674,
+      "noun_count": 80,
+      "verb_count": 2,
+      "persons": [
+        "高祖",
+        "吕皇后",
+        "孝惠皇帝"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "2",
+      "length": 15,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "3",
+      "length": 56,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "赵隐王如意"
+      ],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "4",
+      "length": 14,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "5",
+      "length": 56,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "齐悼惠王",
+        "鲁元公主"
+      ],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "6",
+      "length": 47,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "7",
+      "length": 21,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "仲"
+      ],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "8",
+      "length": 23,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "何"
+      ],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "9",
+      "length": 49,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "10",
+      "length": 26,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "11",
+      "length": 29,
+      "noun_count": 4,
+      "verb_count": 1,
+      "persons": [
+        "摇"
+      ],
+      "prev": "10"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "12",
+      "length": 34,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "13",
+      "length": 30,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "南越王赵佗"
+      ],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "14",
+      "length": 29,
+      "noun_count": 4,
+      "verb_count": 1,
+      "persons": [
+        "张氏"
+      ],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "15",
+      "length": 19,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "16",
+      "length": 59,
+      "noun_count": 6,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "17",
+      "length": 35,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "16"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "18",
+      "length": 33,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "17"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "19",
+      "length": 50,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "18"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "20",
+      "length": 8,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "19"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "21",
+      "length": 23,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "参"
+      ],
+      "prev": "20"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "22",
+      "length": 25,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "21"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "23",
+      "length": 28,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "肥"
+      ],
+      "prev": "22"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "24",
+      "length": 31,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "23"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "25",
+      "length": 22,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "哙"
+      ],
+      "prev": "24"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "26",
+      "length": 19,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "25"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "27",
+      "length": 43,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "灌婴"
+      ],
+      "prev": "26"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "28",
+      "length": 43,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "27"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "29",
+      "length": 34,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "28"
+    },
+    {
+      "chapter": "卷002",
+      "title": "惠帝纪第二",
+      "para": "30",
+      "length": 98,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "吕太后",
+        "孝惠",
+        "叔孙通",
+        "赵隐",
+        "齐悼"
+      ],
+      "prev": "29"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    },
+    {
+      "from": "17",
+      "to": "18",
+      "relation": "next"
+    },
+    {
+      "from": "18",
+      "to": "19",
+      "relation": "next"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "relation": "next"
+    },
+    {
+      "from": "20",
+      "to": "21",
+      "relation": "next"
+    },
+    {
+      "from": "21",
+      "to": "22",
+      "relation": "next"
+    },
+    {
+      "from": "22",
+      "to": "23",
+      "relation": "next"
+    },
+    {
+      "from": "23",
+      "to": "24",
+      "relation": "next"
+    },
+    {
+      "from": "24",
+      "to": "25",
+      "relation": "next"
+    },
+    {
+      "from": "25",
+      "to": "26",
+      "relation": "next"
+    },
+    {
+      "from": "26",
+      "to": "27",
+      "relation": "next"
+    },
+    {
+      "from": "27",
+      "to": "28",
+      "relation": "next"
+    },
+    {
+      "from": "28",
+      "to": "29",
+      "relation": "next"
+    },
+    {
+      "from": "29",
+      "to": "30",
+      "relation": "next"
+    }
+  ]
+}

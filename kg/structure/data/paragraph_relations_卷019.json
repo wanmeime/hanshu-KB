@@ -1,0 +1,841 @@
+{
+  "chapter": "卷019",
+  "title": "百官公卿表第七上",
+  "paragraphs": [
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "0",
+      "length": 8,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "1.1",
+      "length": 137,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "黄帝",
+        "颛顼",
+        "宓羲",
+        "少昊",
+        "神农"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "1.2",
+      "length": 193,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "禼",
+        "龙",
+        "伯夷",
+        "夔",
+        "禹",
+        "咎繇",
+        "弃",
+        "唐虞",
+        "垂",
+        "𠍳"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "1.3",
+      "length": 158,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "1.4",
+      "length": 176,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "周公",
+        "召公",
+        "汤",
+        "伊尹",
+        "舜",
+        "尧"
+      ],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "1.5",
+      "length": 96,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "王莽"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "2",
+      "length": 189,
+      "noun_count": 24,
+      "verb_count": 0,
+      "persons": [
+        "孝惠",
+        "高帝",
+        "武帝",
+        "文帝",
+        "高后",
+        "哀帝"
+      ],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "3",
+      "length": 227,
+      "noun_count": 26,
+      "verb_count": 0,
+      "persons": [
+        "成帝",
+        "哀帝",
+        "宣帝",
+        "武帝"
+      ],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "4",
+      "length": 224,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "武帝",
+        "成帝",
+        "哀帝"
+      ],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "5",
+      "length": 65,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "高后",
+        "哀帝"
+      ],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "6",
+      "length": 63,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "平帝"
+      ],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "7",
+      "length": 73,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "8",
+      "length": 198,
+      "noun_count": 24,
+      "verb_count": 0,
+      "persons": [
+        "景帝",
+        "武帝"
+      ],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "9",
+      "length": 114,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "王莽",
+        "元帝",
+        "宣帝",
+        "武帝"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "10",
+      "length": 682,
+      "noun_count": 75,
+      "verb_count": 0,
+      "persons": [
+        "平帝",
+        "宣帝",
+        "武帝"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "11",
+      "length": 143,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "景帝"
+      ],
+      "prev": "10"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "12",
+      "length": 201,
+      "noun_count": 24,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "13",
+      "length": 130,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "宣帝",
+        "武帝",
+        "景帝",
+        "王莽",
+        "哀帝"
+      ],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "14",
+      "length": 176,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "王莽",
+        "景帝",
+        "武帝"
+      ],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "15",
+      "length": 114,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "王莽",
+        "平帝"
+      ],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "16",
+      "length": 219,
+      "noun_count": 27,
+      "verb_count": 0,
+      "persons": [
+        "王莽",
+        "景帝",
+        "武帝"
+      ],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "17",
+      "length": 502,
+      "noun_count": 66,
+      "verb_count": 0,
+      "persons": [
+        "哀帝",
+        "王莽",
+        "成帝",
+        "武帝"
+      ],
+      "prev": "16"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "18",
+      "length": 172,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "17"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "19",
+      "length": 32,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "18"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "20",
+      "length": 47,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "19"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "21",
+      "length": 138,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "成帝",
+        "景帝",
+        "武帝"
+      ],
+      "prev": "20"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "22",
+      "length": 188,
+      "noun_count": 21,
+      "verb_count": 0,
+      "persons": [
+        "景帝",
+        "平帝",
+        "成帝"
+      ],
+      "prev": "21"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "23",
+      "length": 42,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "景帝"
+      ],
+      "prev": "22"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "24",
+      "length": 89,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "昆邪王",
+        "成帝",
+        "武帝"
+      ],
+      "prev": "23"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "25",
+      "length": 280,
+      "noun_count": 38,
+      "verb_count": 0,
+      "persons": [
+        "王莽",
+        "成帝",
+        "武帝"
+      ],
+      "prev": "24"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "26",
+      "length": 165,
+      "noun_count": 21,
+      "verb_count": 0,
+      "persons": [
+        "景帝",
+        "武帝"
+      ],
+      "prev": "25"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "27",
+      "length": 165,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "景帝",
+        "武帝"
+      ],
+      "prev": "26"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "28",
+      "length": 33,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "27"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "29",
+      "length": 101,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "哀帝",
+        "平帝",
+        "成帝",
+        "武帝"
+      ],
+      "prev": "28"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "30",
+      "length": 151,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "成帝",
+        "哀帝",
+        "元帝",
+        "武帝"
+      ],
+      "prev": "29"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "31",
+      "length": 179,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "30"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "32",
+      "length": 160,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "元帝",
+        "宣帝"
+      ],
+      "prev": "31"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "33",
+      "length": 245,
+      "noun_count": 24,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "32"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "34",
+      "length": 234,
+      "noun_count": 26,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "33"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "35",
+      "length": 301,
+      "noun_count": 35,
+      "verb_count": 0,
+      "persons": [
+        "成帝",
+        "高帝",
+        "景帝",
+        "武帝"
+      ],
+      "prev": "34"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "36",
+      "length": 143,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "哀帝",
+        "成帝",
+        "武帝"
+      ],
+      "prev": "35"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "37",
+      "length": 70,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "景帝"
+      ],
+      "prev": "36"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "38",
+      "length": 61,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "景帝"
+      ],
+      "prev": "37"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "39",
+      "length": 37,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "武帝"
+      ],
+      "prev": "38"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "40",
+      "length": 285,
+      "noun_count": 19,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "39"
+    },
+    {
+      "chapter": "卷019",
+      "title": "百官公卿表第七上",
+      "para": "41",
+      "length": 199,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "成帝",
+        "哀帝"
+      ],
+      "prev": "40"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    },
+    {
+      "from": "17",
+      "to": "18",
+      "relation": "next"
+    },
+    {
+      "from": "18",
+      "to": "19",
+      "relation": "next"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "relation": "next"
+    },
+    {
+      "from": "20",
+      "to": "21",
+      "relation": "next"
+    },
+    {
+      "from": "21",
+      "to": "22",
+      "relation": "next"
+    },
+    {
+      "from": "22",
+      "to": "23",
+      "relation": "next"
+    },
+    {
+      "from": "23",
+      "to": "24",
+      "relation": "next"
+    },
+    {
+      "from": "24",
+      "to": "25",
+      "relation": "next"
+    },
+    {
+      "from": "25",
+      "to": "26",
+      "relation": "next"
+    },
+    {
+      "from": "26",
+      "to": "27",
+      "relation": "next"
+    },
+    {
+      "from": "27",
+      "to": "28",
+      "relation": "next"
+    },
+    {
+      "from": "28",
+      "to": "29",
+      "relation": "next"
+    },
+    {
+      "from": "29",
+      "to": "30",
+      "relation": "next"
+    },
+    {
+      "from": "30",
+      "to": "31",
+      "relation": "next"
+    },
+    {
+      "from": "31",
+      "to": "32",
+      "relation": "next"
+    },
+    {
+      "from": "32",
+      "to": "33",
+      "relation": "next"
+    },
+    {
+      "from": "33",
+      "to": "34",
+      "relation": "next"
+    },
+    {
+      "from": "34",
+      "to": "35",
+      "relation": "next"
+    },
+    {
+      "from": "35",
+      "to": "36",
+      "relation": "next"
+    },
+    {
+      "from": "36",
+      "to": "37",
+      "relation": "next"
+    },
+    {
+      "from": "37",
+      "to": "38",
+      "relation": "next"
+    },
+    {
+      "from": "38",
+      "to": "39",
+      "relation": "next"
+    },
+    {
+      "from": "39",
+      "to": "40",
+      "relation": "next"
+    },
+    {
+      "from": "40",
+      "to": "41",
+      "relation": "next"
+    }
+  ]
+}

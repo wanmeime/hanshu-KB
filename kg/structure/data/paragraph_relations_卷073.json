@@ -1,0 +1,1525 @@
+{
+  "chapter": "卷073",
+  "title": "韦贤传第四十三",
+  "paragraphs": [
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "0",
+      "length": 7,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.1",
+      "length": 168,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "韦孟",
+        "夷王",
+        "楚元王",
+        "戊",
+        "孟",
+        "王戊",
+        "韦贤"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.2",
+      "length": 134,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "王赧"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.3",
+      "length": 146,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "元王",
+        "夷王"
+      ],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.4",
+      "length": 132,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.5",
+      "length": 136,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "秦缪"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.6",
+      "length": 128,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.7",
+      "length": 118,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.6"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.8",
+      "length": 121,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "孟",
+        "贤",
+        "仲尼"
+      ],
+      "prev": "1.7"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.9",
+      "length": 185,
+      "noun_count": 20,
+      "verb_count": 1,
+      "persons": [
+        "贤",
+        "孝宣帝",
+        "昭帝",
+        "霍光"
+      ],
+      "prev": "1.8"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.10",
+      "length": 157,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "节侯",
+        "贤",
+        "蔡义",
+        "先帝"
+      ],
+      "prev": "1.9"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.11",
+      "length": 161,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "方山",
+        "弘",
+        "贤",
+        "玄成",
+        "舜"
+      ],
+      "prev": "1.10"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.12",
+      "length": 152,
+      "noun_count": 9,
+      "verb_count": 2,
+      "persons": [
+        "玄成",
+        "弘",
+        "贤"
+      ],
+      "prev": "1.11"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.13",
+      "length": 198,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "义倩",
+        "弘",
+        "贤",
+        "玄成"
+      ],
+      "prev": "1.12"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.14",
+      "length": 148,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "玄成"
+      ],
+      "prev": "1.13"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.15",
+      "length": 150,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "玄成",
+        "章"
+      ],
+      "prev": "1.14"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.16",
+      "length": 173,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [
+        "弘",
+        "恽",
+        "孝惠",
+        "玄成",
+        "宣帝",
+        "杨恽"
+      ],
+      "prev": "1.15"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.17",
+      "length": 148,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "玄成",
+        "元",
+        "夷"
+      ],
+      "prev": "1.16"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.18",
+      "length": 139,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "节侯",
+        "昭",
+        "宣"
+      ],
+      "prev": "1.17"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.19",
+      "length": 123,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.18"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.20",
+      "length": 83,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.19"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.21",
+      "length": 111,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "玄成",
+        "宣帝",
+        "宪王",
+        "淮阳宪王",
+        "张婕妤"
+      ],
+      "prev": "1.20"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.22",
+      "length": 161,
+      "noun_count": 14,
+      "verb_count": 3,
+      "persons": [
+        "玄成",
+        "于定国",
+        "萧望之",
+        "元帝"
+      ],
+      "prev": "1.21"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.23",
+      "length": 111,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [
+        "玄成"
+      ],
+      "prev": "1.22"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.24",
+      "length": 120,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.23"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.25",
+      "length": 142,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "玄成",
+        "贤",
+        "共侯"
+      ],
+      "prev": "1.24"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.26",
+      "length": 141,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "贤",
+        "节侯沉",
+        "玄成",
+        "僖侯育",
+        "玄孙",
+        "顷侯宽",
+        "昭帝"
+      ],
+      "prev": "1.25"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.27",
+      "length": 196,
+      "noun_count": 20,
+      "verb_count": 1,
+      "persons": [
+        "方山",
+        "弘",
+        "玄成",
+        "安世",
+        "赏",
+        "哀帝"
+      ],
+      "prev": "1.26"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.28",
+      "length": 163,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "高帝",
+        "宣帝",
+        "高祖",
+        "孝武",
+        "景帝",
+        "惠帝",
+        "太上皇",
+        "孝文"
+      ],
+      "prev": "1.27"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.29",
+      "length": 116,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "悼皇考",
+        "宣帝",
+        "太上皇"
+      ],
+      "prev": "1.28"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.30",
+      "length": 137,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "昭哀后",
+        "孝昭太后",
+        "戾太子",
+        "武哀王",
+        "戾后",
+        "卫思后",
+        "昭灵后",
+        "孝文太后"
+      ],
+      "prev": "1.29"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.31",
+      "length": 118,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "贡禹",
+        "孝景",
+        "孝惠",
+        "禹",
+        "元帝"
+      ],
+      "prev": "1.30"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.32",
+      "length": 104,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.31"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.33",
+      "length": 162,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "郑弘",
+        "严彭祖",
+        "玄成",
+        "尹更始",
+        "欧阳地馀"
+      ],
+      "prev": "1.32"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.34",
+      "length": 123,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "五帝",
+        "三王"
+      ],
+      "prev": "1.33"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.35",
+      "length": 130,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "昭哀后",
+        "戾太子",
+        "武哀王",
+        "戾后",
+        "卫思后",
+        "昭灵后"
+      ],
+      "prev": "1.34"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.36",
+      "length": 143,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "玄成"
+      ],
+      "prev": "1.35"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.37",
+      "length": 117,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.36"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.38",
+      "length": 138,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "武王",
+        "武",
+        "成王",
+        "文",
+        "文王",
+        "后稷"
+      ],
+      "prev": "1.37"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.39",
+      "length": 109,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "孝景",
+        "孝惠",
+        "高帝",
+        "太上皇",
+        "孝文"
+      ],
+      "prev": "1.38"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.40",
+      "length": 140,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "许嘉",
+        "孝武皇帝",
+        "忠",
+        "孝文皇帝"
+      ],
+      "prev": "1.39"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.41",
+      "length": 112,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "尹更始",
+        "高皇帝"
+      ],
+      "prev": "1.40"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.42",
+      "length": 126,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "高皇帝",
+        "孝文皇帝"
+      ],
+      "prev": "1.41"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.43",
+      "length": 158,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "孝昭皇帝",
+        "孝文皇帝",
+        "玄成",
+        "高皇帝",
+        "孝景皇帝",
+        "孝武皇帝",
+        "孝宣皇帝"
+      ],
+      "prev": "1.42"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.44",
+      "length": 123,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "孝惠",
+        "孝惠皇帝",
+        "太上"
+      ],
+      "prev": "1.43"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.45",
+      "length": 134,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "玄成",
+        "孝昭太后",
+        "孝文太后"
+      ],
+      "prev": "1.44"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.46",
+      "length": 155,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "楚孝王",
+        "玄成",
+        "匡衡",
+        "高祖",
+        "孝武",
+        "孝文",
+        "衡"
+      ],
+      "prev": "1.45"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.47",
+      "length": 110,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.46"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.48",
+      "length": 115,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "楚王",
+        "衡"
+      ],
+      "prev": "1.47"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.49",
+      "length": 88,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "衡"
+      ],
+      "prev": "1.48"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.50",
+      "length": 129,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "高皇帝",
+        "孝武皇帝",
+        "孝文皇帝"
+      ],
+      "prev": "1.49"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.51",
+      "length": 105,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [
+        "太上皇"
+      ],
+      "prev": "1.50"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.52",
+      "length": 125,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "高皇帝"
+      ],
+      "prev": "1.51"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.53",
+      "length": 106,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "孝昭太后",
+        "孝惠",
+        "太上",
+        "孝文太后",
+        "衡"
+      ],
+      "prev": "1.52"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.54",
+      "length": 114,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "孝昭太后",
+        "孝昭皇帝",
+        "孝惠皇帝",
+        "孝文皇帝",
+        "高皇帝",
+        "孝武皇帝",
+        "太上皇",
+        "孝文太后",
+        "孝宣皇帝",
+        "衡"
+      ],
+      "prev": "1.53"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.55",
+      "length": 141,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "衡"
+      ],
+      "prev": "1.54"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.56",
+      "length": 128,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "孝文",
+        "孝宣皇帝",
+        "孝武"
+      ],
+      "prev": "1.55"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.57",
+      "length": 136,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "孝昭太后",
+        "孝景",
+        "昭哀后",
+        "孝惠",
+        "戾太子",
+        "武哀王",
+        "昭灵后",
+        "元帝",
+        "太上皇",
+        "戾后"
+      ],
+      "prev": "1.56"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.58",
+      "length": 147,
+      "noun_count": 12,
+      "verb_count": 1,
+      "persons": [
+        "昭哀后",
+        "武哀王",
+        "成帝",
+        "元帝",
+        "太上皇",
+        "高后",
+        "昭灵后",
+        "哀帝"
+      ],
+      "prev": "1.57"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.59",
+      "length": 139,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "孝文皇帝",
+        "高皇帝",
+        "何武",
+        "孔光",
+        "孝武皇帝"
+      ],
+      "prev": "1.58"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.60",
+      "length": 106,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "满昌",
+        "左咸",
+        "彭宣",
+        "孝武皇帝"
+      ],
+      "prev": "1.59"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.61",
+      "length": 158,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "宣王",
+        "王舜",
+        "刘歆",
+        "方叔",
+        "幽王"
+      ],
+      "prev": "1.60"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.62",
+      "length": 173,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "齐桓",
+        "孔子",
+        "管仲",
+        "冒顿",
+        "尉佗",
+        "桓"
+      ],
+      "prev": "1.61"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.63",
+      "length": 130,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "孝文皇帝"
+      ],
+      "prev": "1.62"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.64",
+      "length": 23,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.63"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.65",
+      "length": 191,
+      "noun_count": 21,
+      "verb_count": 0,
+      "persons": [
+        "昆邪",
+        "孝武皇帝"
+      ],
+      "prev": "1.64"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.66",
+      "length": 144,
+      "noun_count": 7,
+      "verb_count": 1,
+      "persons": [
+        "单于"
+      ],
+      "prev": "1.65"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.67",
+      "length": 144,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "孝文皇帝",
+        "高帝",
+        "孝武皇帝",
+        "单于",
+        "孝宣帝"
+      ],
+      "prev": "1.66"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.68",
+      "length": 118,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.67"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.69",
+      "length": 148,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "成王",
+        "武丁",
+        "周公",
+        "太甲",
+        "大戊"
+      ],
+      "prev": "1.68"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.70",
+      "length": 111,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "孝武皇帝"
+      ],
+      "prev": "1.69"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.71",
+      "length": 125,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "邵伯"
+      ],
+      "prev": "1.70"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.72",
+      "length": 147,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "歆",
+        "舜",
+        "孝武皇帝",
+        "孝宣皇帝"
+      ],
+      "prev": "1.71"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.73",
+      "length": 126,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [
+        "歆"
+      ],
+      "prev": "1.72"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.74",
+      "length": 74,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "惠",
+        "贡禹",
+        "景",
+        "太上"
+      ],
+      "prev": "1.73"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.75",
+      "length": 177,
+      "noun_count": 19,
+      "verb_count": 1,
+      "persons": [
+        "平帝",
+        "相",
+        "悼园",
+        "义",
+        "王莽",
+        "孝宣皇帝"
+      ],
+      "prev": "1.74"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.76",
+      "length": 148,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "孝昭太后",
+        "晏",
+        "孝昭皇帝",
+        "孝景皇帝",
+        "义",
+        "孝文太后",
+        "孝宣皇帝"
+      ],
+      "prev": "1.75"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.77",
+      "length": 151,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "周文",
+        "相",
+        "殷汤",
+        "悼园",
+        "高祖",
+        "虞舜",
+        "夏禹"
+      ],
+      "prev": "1.76"
+    },
+    {
+      "chapter": "卷073",
+      "title": "韦贤传第四十三",
+      "para": "1.78",
+      "length": 141,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "贡禹",
+        "匡衡",
+        "何武",
+        "元",
+        "班彪",
+        "刘歆",
+        "成"
+      ],
+      "prev": "1.77"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "1.6",
+      "relation": "next"
+    },
+    {
+      "from": "1.6",
+      "to": "1.7",
+      "relation": "next"
+    },
+    {
+      "from": "1.7",
+      "to": "1.8",
+      "relation": "next"
+    },
+    {
+      "from": "1.8",
+      "to": "1.9",
+      "relation": "next"
+    },
+    {
+      "from": "1.9",
+      "to": "1.10",
+      "relation": "next"
+    },
+    {
+      "from": "1.10",
+      "to": "1.11",
+      "relation": "next"
+    },
+    {
+      "from": "1.11",
+      "to": "1.12",
+      "relation": "next"
+    },
+    {
+      "from": "1.12",
+      "to": "1.13",
+      "relation": "next"
+    },
+    {
+      "from": "1.13",
+      "to": "1.14",
+      "relation": "next"
+    },
+    {
+      "from": "1.14",
+      "to": "1.15",
+      "relation": "next"
+    },
+    {
+      "from": "1.15",
+      "to": "1.16",
+      "relation": "next"
+    },
+    {
+      "from": "1.16",
+      "to": "1.17",
+      "relation": "next"
+    },
+    {
+      "from": "1.17",
+      "to": "1.18",
+      "relation": "next"
+    },
+    {
+      "from": "1.18",
+      "to": "1.19",
+      "relation": "next"
+    },
+    {
+      "from": "1.19",
+      "to": "1.20",
+      "relation": "next"
+    },
+    {
+      "from": "1.20",
+      "to": "1.21",
+      "relation": "next"
+    },
+    {
+      "from": "1.21",
+      "to": "1.22",
+      "relation": "next"
+    },
+    {
+      "from": "1.22",
+      "to": "1.23",
+      "relation": "next"
+    },
+    {
+      "from": "1.23",
+      "to": "1.24",
+      "relation": "next"
+    },
+    {
+      "from": "1.24",
+      "to": "1.25",
+      "relation": "next"
+    },
+    {
+      "from": "1.25",
+      "to": "1.26",
+      "relation": "next"
+    },
+    {
+      "from": "1.26",
+      "to": "1.27",
+      "relation": "next"
+    },
+    {
+      "from": "1.27",
+      "to": "1.28",
+      "relation": "next"
+    },
+    {
+      "from": "1.28",
+      "to": "1.29",
+      "relation": "next"
+    },
+    {
+      "from": "1.29",
+      "to": "1.30",
+      "relation": "next"
+    },
+    {
+      "from": "1.30",
+      "to": "1.31",
+      "relation": "next"
+    },
+    {
+      "from": "1.31",
+      "to": "1.32",
+      "relation": "next"
+    },
+    {
+      "from": "1.32",
+      "to": "1.33",
+      "relation": "next"
+    },
+    {
+      "from": "1.33",
+      "to": "1.34",
+      "relation": "next"
+    },
+    {
+      "from": "1.34",
+      "to": "1.35",
+      "relation": "next"
+    },
+    {
+      "from": "1.35",
+      "to": "1.36",
+      "relation": "next"
+    },
+    {
+      "from": "1.36",
+      "to": "1.37",
+      "relation": "next"
+    },
+    {
+      "from": "1.37",
+      "to": "1.38",
+      "relation": "next"
+    },
+    {
+      "from": "1.38",
+      "to": "1.39",
+      "relation": "next"
+    },
+    {
+      "from": "1.39",
+      "to": "1.40",
+      "relation": "next"
+    },
+    {
+      "from": "1.40",
+      "to": "1.41",
+      "relation": "next"
+    },
+    {
+      "from": "1.41",
+      "to": "1.42",
+      "relation": "next"
+    },
+    {
+      "from": "1.42",
+      "to": "1.43",
+      "relation": "next"
+    },
+    {
+      "from": "1.43",
+      "to": "1.44",
+      "relation": "next"
+    },
+    {
+      "from": "1.44",
+      "to": "1.45",
+      "relation": "next"
+    },
+    {
+      "from": "1.45",
+      "to": "1.46",
+      "relation": "next"
+    },
+    {
+      "from": "1.46",
+      "to": "1.47",
+      "relation": "next"
+    },
+    {
+      "from": "1.47",
+      "to": "1.48",
+      "relation": "next"
+    },
+    {
+      "from": "1.48",
+      "to": "1.49",
+      "relation": "next"
+    },
+    {
+      "from": "1.49",
+      "to": "1.50",
+      "relation": "next"
+    },
+    {
+      "from": "1.50",
+      "to": "1.51",
+      "relation": "next"
+    },
+    {
+      "from": "1.51",
+      "to": "1.52",
+      "relation": "next"
+    },
+    {
+      "from": "1.52",
+      "to": "1.53",
+      "relation": "next"
+    },
+    {
+      "from": "1.53",
+      "to": "1.54",
+      "relation": "next"
+    },
+    {
+      "from": "1.54",
+      "to": "1.55",
+      "relation": "next"
+    },
+    {
+      "from": "1.55",
+      "to": "1.56",
+      "relation": "next"
+    },
+    {
+      "from": "1.56",
+      "to": "1.57",
+      "relation": "next"
+    },
+    {
+      "from": "1.57",
+      "to": "1.58",
+      "relation": "next"
+    },
+    {
+      "from": "1.58",
+      "to": "1.59",
+      "relation": "next"
+    },
+    {
+      "from": "1.59",
+      "to": "1.60",
+      "relation": "next"
+    },
+    {
+      "from": "1.60",
+      "to": "1.61",
+      "relation": "next"
+    },
+    {
+      "from": "1.61",
+      "to": "1.62",
+      "relation": "next"
+    },
+    {
+      "from": "1.62",
+      "to": "1.63",
+      "relation": "next"
+    },
+    {
+      "from": "1.63",
+      "to": "1.64",
+      "relation": "next"
+    },
+    {
+      "from": "1.64",
+      "to": "1.65",
+      "relation": "next"
+    },
+    {
+      "from": "1.65",
+      "to": "1.66",
+      "relation": "next"
+    },
+    {
+      "from": "1.66",
+      "to": "1.67",
+      "relation": "next"
+    },
+    {
+      "from": "1.67",
+      "to": "1.68",
+      "relation": "next"
+    },
+    {
+      "from": "1.68",
+      "to": "1.69",
+      "relation": "next"
+    },
+    {
+      "from": "1.69",
+      "to": "1.70",
+      "relation": "next"
+    },
+    {
+      "from": "1.70",
+      "to": "1.71",
+      "relation": "next"
+    },
+    {
+      "from": "1.71",
+      "to": "1.72",
+      "relation": "next"
+    },
+    {
+      "from": "1.72",
+      "to": "1.73",
+      "relation": "next"
+    },
+    {
+      "from": "1.73",
+      "to": "1.74",
+      "relation": "next"
+    },
+    {
+      "from": "1.74",
+      "to": "1.75",
+      "relation": "next"
+    },
+    {
+      "from": "1.75",
+      "to": "1.76",
+      "relation": "next"
+    },
+    {
+      "from": "1.76",
+      "to": "1.77",
+      "relation": "next"
+    },
+    {
+      "from": "1.77",
+      "to": "1.78",
+      "relation": "next"
+    }
+  ]
+}

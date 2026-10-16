@@ -1,0 +1,1250 @@
+{
+  "建元一年": {
+    "ruler": "汉武帝",
+    "ce_year": -140,
+    "era": "建元",
+    "era_year": 1
+  },
+  "建元二年": {
+    "ruler": "汉武帝",
+    "ce_year": -139,
+    "era": "建元",
+    "era_year": 2
+  },
+  "建元三年": {
+    "ruler": "汉武帝",
+    "ce_year": -138,
+    "era": "建元",
+    "era_year": 3
+  },
+  "建元四年": {
+    "ruler": "汉武帝",
+    "ce_year": -137,
+    "era": "建元",
+    "era_year": 4
+  },
+  "建元五年": {
+    "ruler": "汉武帝",
+    "ce_year": -136,
+    "era": "建元",
+    "era_year": 5
+  },
+  "建元六年": {
+    "ruler": "汉武帝",
+    "ce_year": -135,
+    "era": "建元",
+    "era_year": 6
+  },
+  "建元元年": {
+    "ruler": "汉武帝",
+    "ce_year": -140,
+    "era": "建元",
+    "era_year": 1
+  },
+  "元光一年": {
+    "ruler": "汉武帝",
+    "ce_year": -134,
+    "era": "元光",
+    "era_year": 1
+  },
+  "元光二年": {
+    "ruler": "汉武帝",
+    "ce_year": -133,
+    "era": "元光",
+    "era_year": 2
+  },
+  "元光三年": {
+    "ruler": "汉武帝",
+    "ce_year": -132,
+    "era": "元光",
+    "era_year": 3
+  },
+  "元光四年": {
+    "ruler": "汉武帝",
+    "ce_year": -131,
+    "era": "元光",
+    "era_year": 4
+  },
+  "元光五年": {
+    "ruler": "汉武帝",
+    "ce_year": -130,
+    "era": "元光",
+    "era_year": 5
+  },
+  "元光六年": {
+    "ruler": "汉武帝",
+    "ce_year": -129,
+    "era": "元光",
+    "era_year": 6
+  },
+  "元光元年": {
+    "ruler": "汉武帝",
+    "ce_year": -134,
+    "era": "元光",
+    "era_year": 1
+  },
+  "元朔一年": {
+    "ruler": "汉武帝",
+    "ce_year": -128,
+    "era": "元朔",
+    "era_year": 1
+  },
+  "元朔二年": {
+    "ruler": "汉武帝",
+    "ce_year": -127,
+    "era": "元朔",
+    "era_year": 2
+  },
+  "元朔三年": {
+    "ruler": "汉武帝",
+    "ce_year": -126,
+    "era": "元朔",
+    "era_year": 3
+  },
+  "元朔四年": {
+    "ruler": "汉武帝",
+    "ce_year": -125,
+    "era": "元朔",
+    "era_year": 4
+  },
+  "元朔五年": {
+    "ruler": "汉武帝",
+    "ce_year": -124,
+    "era": "元朔",
+    "era_year": 5
+  },
+  "元朔六年": {
+    "ruler": "汉武帝",
+    "ce_year": -123,
+    "era": "元朔",
+    "era_year": 6
+  },
+  "元朔元年": {
+    "ruler": "汉武帝",
+    "ce_year": -128,
+    "era": "元朔",
+    "era_year": 1
+  },
+  "元狩一年": {
+    "ruler": "汉武帝",
+    "ce_year": -122,
+    "era": "元狩",
+    "era_year": 1
+  },
+  "元狩二年": {
+    "ruler": "汉武帝",
+    "ce_year": -121,
+    "era": "元狩",
+    "era_year": 2
+  },
+  "元狩三年": {
+    "ruler": "汉武帝",
+    "ce_year": -120,
+    "era": "元狩",
+    "era_year": 3
+  },
+  "元狩四年": {
+    "ruler": "汉武帝",
+    "ce_year": -119,
+    "era": "元狩",
+    "era_year": 4
+  },
+  "元狩五年": {
+    "ruler": "汉武帝",
+    "ce_year": -118,
+    "era": "元狩",
+    "era_year": 5
+  },
+  "元狩六年": {
+    "ruler": "汉武帝",
+    "ce_year": -117,
+    "era": "元狩",
+    "era_year": 6
+  },
+  "元狩元年": {
+    "ruler": "汉武帝",
+    "ce_year": -122,
+    "era": "元狩",
+    "era_year": 1
+  },
+  "元鼎一年": {
+    "ruler": "汉武帝",
+    "ce_year": -116,
+    "era": "元鼎",
+    "era_year": 1
+  },
+  "元鼎二年": {
+    "ruler": "汉武帝",
+    "ce_year": -115,
+    "era": "元鼎",
+    "era_year": 2
+  },
+  "元鼎三年": {
+    "ruler": "汉武帝",
+    "ce_year": -114,
+    "era": "元鼎",
+    "era_year": 3
+  },
+  "元鼎四年": {
+    "ruler": "汉武帝",
+    "ce_year": -113,
+    "era": "元鼎",
+    "era_year": 4
+  },
+  "元鼎五年": {
+    "ruler": "汉武帝",
+    "ce_year": -112,
+    "era": "元鼎",
+    "era_year": 5
+  },
+  "元鼎六年": {
+    "ruler": "汉武帝",
+    "ce_year": -111,
+    "era": "元鼎",
+    "era_year": 6
+  },
+  "元鼎元年": {
+    "ruler": "汉武帝",
+    "ce_year": -116,
+    "era": "元鼎",
+    "era_year": 1
+  },
+  "元封一年": {
+    "ruler": "汉武帝",
+    "ce_year": -110,
+    "era": "元封",
+    "era_year": 1
+  },
+  "元封二年": {
+    "ruler": "汉武帝",
+    "ce_year": -109,
+    "era": "元封",
+    "era_year": 2
+  },
+  "元封三年": {
+    "ruler": "汉武帝",
+    "ce_year": -108,
+    "era": "元封",
+    "era_year": 3
+  },
+  "元封四年": {
+    "ruler": "汉武帝",
+    "ce_year": -107,
+    "era": "元封",
+    "era_year": 4
+  },
+  "元封五年": {
+    "ruler": "汉武帝",
+    "ce_year": -106,
+    "era": "元封",
+    "era_year": 5
+  },
+  "元封六年": {
+    "ruler": "汉武帝",
+    "ce_year": -105,
+    "era": "元封",
+    "era_year": 6
+  },
+  "元封元年": {
+    "ruler": "汉武帝",
+    "ce_year": -110,
+    "era": "元封",
+    "era_year": 1
+  },
+  "太初一年": {
+    "ruler": "汉武帝",
+    "ce_year": -104,
+    "era": "太初",
+    "era_year": 1
+  },
+  "太初二年": {
+    "ruler": "汉武帝",
+    "ce_year": -103,
+    "era": "太初",
+    "era_year": 2
+  },
+  "太初三年": {
+    "ruler": "汉武帝",
+    "ce_year": -102,
+    "era": "太初",
+    "era_year": 3
+  },
+  "太初四年": {
+    "ruler": "汉武帝",
+    "ce_year": -101,
+    "era": "太初",
+    "era_year": 4
+  },
+  "太初元年": {
+    "ruler": "汉武帝",
+    "ce_year": -104,
+    "era": "太初",
+    "era_year": 1
+  },
+  "天汉一年": {
+    "ruler": "汉武帝",
+    "ce_year": -100,
+    "era": "天汉",
+    "era_year": 1
+  },
+  "天汉二年": {
+    "ruler": "汉武帝",
+    "ce_year": -99,
+    "era": "天汉",
+    "era_year": 2
+  },
+  "天汉三年": {
+    "ruler": "汉武帝",
+    "ce_year": -98,
+    "era": "天汉",
+    "era_year": 3
+  },
+  "天汉四年": {
+    "ruler": "汉武帝",
+    "ce_year": -97,
+    "era": "天汉",
+    "era_year": 4
+  },
+  "天汉元年": {
+    "ruler": "汉武帝",
+    "ce_year": -100,
+    "era": "天汉",
+    "era_year": 1
+  },
+  "太始一年": {
+    "ruler": "汉武帝",
+    "ce_year": -96,
+    "era": "太始",
+    "era_year": 1
+  },
+  "太始二年": {
+    "ruler": "汉武帝",
+    "ce_year": -95,
+    "era": "太始",
+    "era_year": 2
+  },
+  "太始三年": {
+    "ruler": "汉武帝",
+    "ce_year": -94,
+    "era": "太始",
+    "era_year": 3
+  },
+  "太始四年": {
+    "ruler": "汉武帝",
+    "ce_year": -93,
+    "era": "太始",
+    "era_year": 4
+  },
+  "太始元年": {
+    "ruler": "汉武帝",
+    "ce_year": -96,
+    "era": "太始",
+    "era_year": 1
+  },
+  "征和一年": {
+    "ruler": "汉武帝",
+    "ce_year": -92,
+    "era": "征和",
+    "era_year": 1
+  },
+  "征和二年": {
+    "ruler": "汉武帝",
+    "ce_year": -91,
+    "era": "征和",
+    "era_year": 2
+  },
+  "征和三年": {
+    "ruler": "汉武帝",
+    "ce_year": -90,
+    "era": "征和",
+    "era_year": 3
+  },
+  "征和四年": {
+    "ruler": "汉武帝",
+    "ce_year": -89,
+    "era": "征和",
+    "era_year": 4
+  },
+  "征和元年": {
+    "ruler": "汉武帝",
+    "ce_year": -92,
+    "era": "征和",
+    "era_year": 1
+  },
+  "后元一年": {
+    "ruler": "汉武帝",
+    "ce_year": -88,
+    "era": "后元",
+    "era_year": 1
+  },
+  "后元二年": {
+    "ruler": "汉武帝",
+    "ce_year": -87,
+    "era": "后元",
+    "era_year": 2
+  },
+  "后元元年": {
+    "ruler": "汉武帝",
+    "ce_year": -88,
+    "era": "后元",
+    "era_year": 1
+  },
+  "始元一年": {
+    "ruler": "汉昭帝",
+    "ce_year": -86,
+    "era": "始元",
+    "era_year": 1
+  },
+  "始元二年": {
+    "ruler": "汉昭帝",
+    "ce_year": -85,
+    "era": "始元",
+    "era_year": 2
+  },
+  "始元三年": {
+    "ruler": "汉昭帝",
+    "ce_year": -84,
+    "era": "始元",
+    "era_year": 3
+  },
+  "始元四年": {
+    "ruler": "汉昭帝",
+    "ce_year": -83,
+    "era": "始元",
+    "era_year": 4
+  },
+  "始元五年": {
+    "ruler": "汉昭帝",
+    "ce_year": -82,
+    "era": "始元",
+    "era_year": 5
+  },
+  "始元六年": {
+    "ruler": "汉昭帝",
+    "ce_year": -81,
+    "era": "始元",
+    "era_year": 6
+  },
+  "始元元年": {
+    "ruler": "汉昭帝",
+    "ce_year": -86,
+    "era": "始元",
+    "era_year": 1
+  },
+  "元凤一年": {
+    "ruler": "汉昭帝",
+    "ce_year": -80,
+    "era": "元凤",
+    "era_year": 1
+  },
+  "元凤二年": {
+    "ruler": "汉昭帝",
+    "ce_year": -79,
+    "era": "元凤",
+    "era_year": 2
+  },
+  "元凤三年": {
+    "ruler": "汉昭帝",
+    "ce_year": -78,
+    "era": "元凤",
+    "era_year": 3
+  },
+  "元凤四年": {
+    "ruler": "汉昭帝",
+    "ce_year": -77,
+    "era": "元凤",
+    "era_year": 4
+  },
+  "元凤五年": {
+    "ruler": "汉昭帝",
+    "ce_year": -76,
+    "era": "元凤",
+    "era_year": 5
+  },
+  "元凤六年": {
+    "ruler": "汉昭帝",
+    "ce_year": -75,
+    "era": "元凤",
+    "era_year": 6
+  },
+  "元凤元年": {
+    "ruler": "汉昭帝",
+    "ce_year": -80,
+    "era": "元凤",
+    "era_year": 1
+  },
+  "元平一年": {
+    "ruler": "汉昭帝",
+    "ce_year": -74,
+    "era": "元平",
+    "era_year": 1
+  },
+  "元平元年": {
+    "ruler": "汉昭帝",
+    "ce_year": -74,
+    "era": "元平",
+    "era_year": 1
+  },
+  "本始一年": {
+    "ruler": "汉宣帝",
+    "ce_year": -73,
+    "era": "本始",
+    "era_year": 1
+  },
+  "本始二年": {
+    "ruler": "汉宣帝",
+    "ce_year": -72,
+    "era": "本始",
+    "era_year": 2
+  },
+  "本始三年": {
+    "ruler": "汉宣帝",
+    "ce_year": -71,
+    "era": "本始",
+    "era_year": 3
+  },
+  "本始四年": {
+    "ruler": "汉宣帝",
+    "ce_year": -70,
+    "era": "本始",
+    "era_year": 4
+  },
+  "本始元年": {
+    "ruler": "汉宣帝",
+    "ce_year": -73,
+    "era": "本始",
+    "era_year": 1
+  },
+  "地节一年": {
+    "ruler": "汉宣帝",
+    "ce_year": -69,
+    "era": "地节",
+    "era_year": 1
+  },
+  "地节二年": {
+    "ruler": "汉宣帝",
+    "ce_year": -68,
+    "era": "地节",
+    "era_year": 2
+  },
+  "地节三年": {
+    "ruler": "汉宣帝",
+    "ce_year": -67,
+    "era": "地节",
+    "era_year": 3
+  },
+  "地节四年": {
+    "ruler": "汉宣帝",
+    "ce_year": -66,
+    "era": "地节",
+    "era_year": 4
+  },
+  "地节元年": {
+    "ruler": "汉宣帝",
+    "ce_year": -69,
+    "era": "地节",
+    "era_year": 1
+  },
+  "元康一年": {
+    "ruler": "汉宣帝",
+    "ce_year": -65,
+    "era": "元康",
+    "era_year": 1
+  },
+  "元康二年": {
+    "ruler": "汉宣帝",
+    "ce_year": -64,
+    "era": "元康",
+    "era_year": 2
+  },
+  "元康三年": {
+    "ruler": "汉宣帝",
+    "ce_year": -63,
+    "era": "元康",
+    "era_year": 3
+  },
+  "元康四年": {
+    "ruler": "汉宣帝",
+    "ce_year": -62,
+    "era": "元康",
+    "era_year": 4
+  },
+  "元康元年": {
+    "ruler": "汉宣帝",
+    "ce_year": -65,
+    "era": "元康",
+    "era_year": 1
+  },
+  "神爵一年": {
+    "ruler": "汉宣帝",
+    "ce_year": -61,
+    "era": "神爵",
+    "era_year": 1
+  },
+  "神爵二年": {
+    "ruler": "汉宣帝",
+    "ce_year": -60,
+    "era": "神爵",
+    "era_year": 2
+  },
+  "神爵三年": {
+    "ruler": "汉宣帝",
+    "ce_year": -59,
+    "era": "神爵",
+    "era_year": 3
+  },
+  "神爵四年": {
+    "ruler": "汉宣帝",
+    "ce_year": -58,
+    "era": "神爵",
+    "era_year": 4
+  },
+  "神爵元年": {
+    "ruler": "汉宣帝",
+    "ce_year": -61,
+    "era": "神爵",
+    "era_year": 1
+  },
+  "五凤一年": {
+    "ruler": "汉宣帝",
+    "ce_year": -57,
+    "era": "五凤",
+    "era_year": 1
+  },
+  "五凤二年": {
+    "ruler": "汉宣帝",
+    "ce_year": -56,
+    "era": "五凤",
+    "era_year": 2
+  },
+  "五凤三年": {
+    "ruler": "汉宣帝",
+    "ce_year": -55,
+    "era": "五凤",
+    "era_year": 3
+  },
+  "五凤四年": {
+    "ruler": "汉宣帝",
+    "ce_year": -54,
+    "era": "五凤",
+    "era_year": 4
+  },
+  "五凤元年": {
+    "ruler": "汉宣帝",
+    "ce_year": -57,
+    "era": "五凤",
+    "era_year": 1
+  },
+  "甘露一年": {
+    "ruler": "汉宣帝",
+    "ce_year": -53,
+    "era": "甘露",
+    "era_year": 1
+  },
+  "甘露二年": {
+    "ruler": "汉宣帝",
+    "ce_year": -52,
+    "era": "甘露",
+    "era_year": 2
+  },
+  "甘露三年": {
+    "ruler": "汉宣帝",
+    "ce_year": -51,
+    "era": "甘露",
+    "era_year": 3
+  },
+  "甘露四年": {
+    "ruler": "汉宣帝",
+    "ce_year": -50,
+    "era": "甘露",
+    "era_year": 4
+  },
+  "甘露元年": {
+    "ruler": "汉宣帝",
+    "ce_year": -53,
+    "era": "甘露",
+    "era_year": 1
+  },
+  "黄龙一年": {
+    "ruler": "汉宣帝",
+    "ce_year": -49,
+    "era": "黄龙",
+    "era_year": 1
+  },
+  "黄龙元年": {
+    "ruler": "汉宣帝",
+    "ce_year": -49,
+    "era": "黄龙",
+    "era_year": 1
+  },
+  "初元一年": {
+    "ruler": "汉元帝",
+    "ce_year": -48,
+    "era": "初元",
+    "era_year": 1
+  },
+  "初元二年": {
+    "ruler": "汉元帝",
+    "ce_year": -47,
+    "era": "初元",
+    "era_year": 2
+  },
+  "初元三年": {
+    "ruler": "汉元帝",
+    "ce_year": -46,
+    "era": "初元",
+    "era_year": 3
+  },
+  "初元四年": {
+    "ruler": "汉元帝",
+    "ce_year": -45,
+    "era": "初元",
+    "era_year": 4
+  },
+  "初元五年": {
+    "ruler": "汉元帝",
+    "ce_year": -44,
+    "era": "初元",
+    "era_year": 5
+  },
+  "初元元年": {
+    "ruler": "汉元帝",
+    "ce_year": -48,
+    "era": "初元",
+    "era_year": 1
+  },
+  "永光一年": {
+    "ruler": "汉元帝",
+    "ce_year": -43,
+    "era": "永光",
+    "era_year": 1
+  },
+  "永光二年": {
+    "ruler": "汉元帝",
+    "ce_year": -42,
+    "era": "永光",
+    "era_year": 2
+  },
+  "永光三年": {
+    "ruler": "汉元帝",
+    "ce_year": -41,
+    "era": "永光",
+    "era_year": 3
+  },
+  "永光四年": {
+    "ruler": "汉元帝",
+    "ce_year": -40,
+    "era": "永光",
+    "era_year": 4
+  },
+  "永光五年": {
+    "ruler": "汉元帝",
+    "ce_year": -39,
+    "era": "永光",
+    "era_year": 5
+  },
+  "永光元年": {
+    "ruler": "汉元帝",
+    "ce_year": -43,
+    "era": "永光",
+    "era_year": 1
+  },
+  "建昭一年": {
+    "ruler": "汉元帝",
+    "ce_year": -38,
+    "era": "建昭",
+    "era_year": 1
+  },
+  "建昭二年": {
+    "ruler": "汉元帝",
+    "ce_year": -37,
+    "era": "建昭",
+    "era_year": 2
+  },
+  "建昭三年": {
+    "ruler": "汉元帝",
+    "ce_year": -36,
+    "era": "建昭",
+    "era_year": 3
+  },
+  "建昭四年": {
+    "ruler": "汉元帝",
+    "ce_year": -35,
+    "era": "建昭",
+    "era_year": 4
+  },
+  "建昭五年": {
+    "ruler": "汉元帝",
+    "ce_year": -34,
+    "era": "建昭",
+    "era_year": 5
+  },
+  "建昭元年": {
+    "ruler": "汉元帝",
+    "ce_year": -38,
+    "era": "建昭",
+    "era_year": 1
+  },
+  "竟宁一年": {
+    "ruler": "汉元帝",
+    "ce_year": -33,
+    "era": "竟宁",
+    "era_year": 1
+  },
+  "竟宁元年": {
+    "ruler": "汉元帝",
+    "ce_year": -33,
+    "era": "竟宁",
+    "era_year": 1
+  },
+  "建始一年": {
+    "ruler": "汉成帝",
+    "ce_year": -32,
+    "era": "建始",
+    "era_year": 1
+  },
+  "建始二年": {
+    "ruler": "汉成帝",
+    "ce_year": -31,
+    "era": "建始",
+    "era_year": 2
+  },
+  "建始三年": {
+    "ruler": "汉成帝",
+    "ce_year": -30,
+    "era": "建始",
+    "era_year": 3
+  },
+  "建始四年": {
+    "ruler": "汉成帝",
+    "ce_year": -29,
+    "era": "建始",
+    "era_year": 4
+  },
+  "建始元年": {
+    "ruler": "汉成帝",
+    "ce_year": -32,
+    "era": "建始",
+    "era_year": 1
+  },
+  "河平一年": {
+    "ruler": "汉成帝",
+    "ce_year": -28,
+    "era": "河平",
+    "era_year": 1
+  },
+  "河平二年": {
+    "ruler": "汉成帝",
+    "ce_year": -27,
+    "era": "河平",
+    "era_year": 2
+  },
+  "河平三年": {
+    "ruler": "汉成帝",
+    "ce_year": -26,
+    "era": "河平",
+    "era_year": 3
+  },
+  "河平四年": {
+    "ruler": "汉成帝",
+    "ce_year": -25,
+    "era": "河平",
+    "era_year": 4
+  },
+  "河平元年": {
+    "ruler": "汉成帝",
+    "ce_year": -28,
+    "era": "河平",
+    "era_year": 1
+  },
+  "阳朔一年": {
+    "ruler": "汉成帝",
+    "ce_year": -24,
+    "era": "阳朔",
+    "era_year": 1
+  },
+  "阳朔二年": {
+    "ruler": "汉成帝",
+    "ce_year": -23,
+    "era": "阳朔",
+    "era_year": 2
+  },
+  "阳朔三年": {
+    "ruler": "汉成帝",
+    "ce_year": -22,
+    "era": "阳朔",
+    "era_year": 3
+  },
+  "阳朔四年": {
+    "ruler": "汉成帝",
+    "ce_year": -21,
+    "era": "阳朔",
+    "era_year": 4
+  },
+  "阳朔元年": {
+    "ruler": "汉成帝",
+    "ce_year": -24,
+    "era": "阳朔",
+    "era_year": 1
+  },
+  "鸿嘉一年": {
+    "ruler": "汉成帝",
+    "ce_year": -20,
+    "era": "鸿嘉",
+    "era_year": 1
+  },
+  "鸿嘉二年": {
+    "ruler": "汉成帝",
+    "ce_year": -19,
+    "era": "鸿嘉",
+    "era_year": 2
+  },
+  "鸿嘉三年": {
+    "ruler": "汉成帝",
+    "ce_year": -18,
+    "era": "鸿嘉",
+    "era_year": 3
+  },
+  "鸿嘉四年": {
+    "ruler": "汉成帝",
+    "ce_year": -17,
+    "era": "鸿嘉",
+    "era_year": 4
+  },
+  "鸿嘉元年": {
+    "ruler": "汉成帝",
+    "ce_year": -20,
+    "era": "鸿嘉",
+    "era_year": 1
+  },
+  "永始一年": {
+    "ruler": "汉成帝",
+    "ce_year": -16,
+    "era": "永始",
+    "era_year": 1
+  },
+  "永始二年": {
+    "ruler": "汉成帝",
+    "ce_year": -15,
+    "era": "永始",
+    "era_year": 2
+  },
+  "永始三年": {
+    "ruler": "汉成帝",
+    "ce_year": -14,
+    "era": "永始",
+    "era_year": 3
+  },
+  "永始四年": {
+    "ruler": "汉成帝",
+    "ce_year": -13,
+    "era": "永始",
+    "era_year": 4
+  },
+  "永始元年": {
+    "ruler": "汉成帝",
+    "ce_year": -16,
+    "era": "永始",
+    "era_year": 1
+  },
+  "元延一年": {
+    "ruler": "汉成帝",
+    "ce_year": -12,
+    "era": "元延",
+    "era_year": 1
+  },
+  "元延二年": {
+    "ruler": "汉成帝",
+    "ce_year": -11,
+    "era": "元延",
+    "era_year": 2
+  },
+  "元延三年": {
+    "ruler": "汉成帝",
+    "ce_year": -10,
+    "era": "元延",
+    "era_year": 3
+  },
+  "元延四年": {
+    "ruler": "汉成帝",
+    "ce_year": -9,
+    "era": "元延",
+    "era_year": 4
+  },
+  "元延元年": {
+    "ruler": "汉成帝",
+    "ce_year": -12,
+    "era": "元延",
+    "era_year": 1
+  },
+  "绥和一年": {
+    "ruler": "汉成帝",
+    "ce_year": -8,
+    "era": "绥和",
+    "era_year": 1
+  },
+  "绥和二年": {
+    "ruler": "汉成帝",
+    "ce_year": -7,
+    "era": "绥和",
+    "era_year": 2
+  },
+  "绥和元年": {
+    "ruler": "汉成帝",
+    "ce_year": -8,
+    "era": "绥和",
+    "era_year": 1
+  },
+  "建平一年": {
+    "ruler": "汉哀帝",
+    "ce_year": -6,
+    "era": "建平",
+    "era_year": 1
+  },
+  "建平二年": {
+    "ruler": "汉哀帝",
+    "ce_year": -5,
+    "era": "建平",
+    "era_year": 2
+  },
+  "建平三年": {
+    "ruler": "汉哀帝",
+    "ce_year": -4,
+    "era": "建平",
+    "era_year": 3
+  },
+  "建平四年": {
+    "ruler": "汉哀帝",
+    "ce_year": -3,
+    "era": "建平",
+    "era_year": 4
+  },
+  "建平元年": {
+    "ruler": "汉哀帝",
+    "ce_year": -6,
+    "era": "建平",
+    "era_year": 1
+  },
+  "元寿一年": {
+    "ruler": "汉哀帝",
+    "ce_year": -2,
+    "era": "元寿",
+    "era_year": 1
+  },
+  "元寿二年": {
+    "ruler": "汉哀帝",
+    "ce_year": -1,
+    "era": "元寿",
+    "era_year": 2
+  },
+  "元寿元年": {
+    "ruler": "汉哀帝",
+    "ce_year": -2,
+    "era": "元寿",
+    "era_year": 1
+  },
+  "元始一年": {
+    "ruler": "汉平帝",
+    "ce_year": 1,
+    "era": "元始",
+    "era_year": 1
+  },
+  "元始二年": {
+    "ruler": "汉平帝",
+    "ce_year": 2,
+    "era": "元始",
+    "era_year": 2
+  },
+  "元始三年": {
+    "ruler": "汉平帝",
+    "ce_year": 3,
+    "era": "元始",
+    "era_year": 3
+  },
+  "元始四年": {
+    "ruler": "汉平帝",
+    "ce_year": 4,
+    "era": "元始",
+    "era_year": 4
+  },
+  "元始五年": {
+    "ruler": "汉平帝",
+    "ce_year": 5,
+    "era": "元始",
+    "era_year": 5
+  },
+  "元始元年": {
+    "ruler": "汉平帝",
+    "ce_year": 1,
+    "era": "元始",
+    "era_year": 1
+  },
+  "居摄一年": {
+    "ruler": "孺子婴",
+    "ce_year": 6,
+    "era": "居摄",
+    "era_year": 1
+  },
+  "居摄二年": {
+    "ruler": "孺子婴",
+    "ce_year": 7,
+    "era": "居摄",
+    "era_year": 2
+  },
+  "居摄三年": {
+    "ruler": "孺子婴",
+    "ce_year": 8,
+    "era": "居摄",
+    "era_year": 3
+  },
+  "居摄元年": {
+    "ruler": "孺子婴",
+    "ce_year": 6,
+    "era": "居摄",
+    "era_year": 1
+  },
+  "初始一年": {
+    "ruler": "孺子婴",
+    "ce_year": 8,
+    "era": "初始",
+    "era_year": 1
+  },
+  "初始元年": {
+    "ruler": "孺子婴",
+    "ce_year": 8,
+    "era": "初始",
+    "era_year": 1
+  },
+  "始建国一年": {
+    "ruler": "王莽",
+    "ce_year": 9,
+    "era": "始建国",
+    "era_year": 1
+  },
+  "始建国二年": {
+    "ruler": "王莽",
+    "ce_year": 10,
+    "era": "始建国",
+    "era_year": 2
+  },
+  "始建国三年": {
+    "ruler": "王莽",
+    "ce_year": 11,
+    "era": "始建国",
+    "era_year": 3
+  },
+  "始建国四年": {
+    "ruler": "王莽",
+    "ce_year": 12,
+    "era": "始建国",
+    "era_year": 4
+  },
+  "始建国五年": {
+    "ruler": "王莽",
+    "ce_year": 13,
+    "era": "始建国",
+    "era_year": 5
+  },
+  "始建国元年": {
+    "ruler": "王莽",
+    "ce_year": 9,
+    "era": "始建国",
+    "era_year": 1
+  },
+  "天凤一年": {
+    "ruler": "王莽",
+    "ce_year": 14,
+    "era": "天凤",
+    "era_year": 1
+  },
+  "天凤二年": {
+    "ruler": "王莽",
+    "ce_year": 15,
+    "era": "天凤",
+    "era_year": 2
+  },
+  "天凤三年": {
+    "ruler": "王莽",
+    "ce_year": 16,
+    "era": "天凤",
+    "era_year": 3
+  },
+  "天凤四年": {
+    "ruler": "王莽",
+    "ce_year": 17,
+    "era": "天凤",
+    "era_year": 4
+  },
+  "天凤五年": {
+    "ruler": "王莽",
+    "ce_year": 18,
+    "era": "天凤",
+    "era_year": 5
+  },
+  "天凤六年": {
+    "ruler": "王莽",
+    "ce_year": 19,
+    "era": "天凤",
+    "era_year": 6
+  },
+  "天凤元年": {
+    "ruler": "王莽",
+    "ce_year": 14,
+    "era": "天凤",
+    "era_year": 1
+  },
+  "地皇一年": {
+    "ruler": "王莽",
+    "ce_year": 20,
+    "era": "地皇",
+    "era_year": 1
+  },
+  "地皇二年": {
+    "ruler": "王莽",
+    "ce_year": 21,
+    "era": "地皇",
+    "era_year": 2
+  },
+  "地皇三年": {
+    "ruler": "王莽",
+    "ce_year": 22,
+    "era": "地皇",
+    "era_year": 3
+  },
+  "地皇四年": {
+    "ruler": "王莽",
+    "ce_year": 23,
+    "era": "地皇",
+    "era_year": 4
+  },
+  "地皇元年": {
+    "ruler": "王莽",
+    "ce_year": 20,
+    "era": "地皇",
+    "era_year": 1
+  },
+  "更始一年": {
+    "ruler": "更始帝",
+    "ce_year": 23,
+    "era": "更始",
+    "era_year": 1
+  },
+  "更始二年": {
+    "ruler": "更始帝",
+    "ce_year": 24,
+    "era": "更始",
+    "era_year": 2
+  },
+  "更始三年": {
+    "ruler": "更始帝",
+    "ce_year": 25,
+    "era": "更始",
+    "era_year": 3
+  },
+  "更始元年": {
+    "ruler": "更始帝",
+    "ce_year": 23,
+    "era": "更始",
+    "era_year": 1
+  }
+}

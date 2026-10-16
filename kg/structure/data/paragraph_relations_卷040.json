@@ -1,0 +1,2203 @@
+{
+  "chapter": "卷040",
+  "title": "张陈王周传第十",
+  "paragraphs": [
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "0",
+      "length": 7,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.1",
+      "length": 208,
+      "noun_count": 20,
+      "verb_count": 2,
+      "persons": [
+        "襄哀王",
+        "开地",
+        "悼惠王",
+        "宣惠王",
+        "张良",
+        "韩昭侯",
+        "良",
+        "秦王",
+        "厘王",
+        "平"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.2",
+      "length": 124,
+      "noun_count": 12,
+      "verb_count": 1,
+      "persons": [
+        "仓海君",
+        "良",
+        "秦皇帝"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.3",
+      "length": 129,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "良"
+      ],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.4",
+      "length": 134,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.5",
+      "length": 167,
+      "noun_count": 15,
+      "verb_count": 1,
+      "persons": [
+        "陈涉",
+        "项伯",
+        "沛公",
+        "景驹"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.6",
+      "length": 171,
+      "noun_count": 11,
+      "verb_count": 4,
+      "persons": [
+        "项梁",
+        "楚怀王",
+        "沛公",
+        "横阳君成"
+      ],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.7",
+      "length": 178,
+      "noun_count": 19,
+      "verb_count": 3,
+      "persons": [
+        "项梁",
+        "杨熊",
+        "成",
+        "韩成"
+      ],
+      "prev": "1.6"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.8",
+      "length": 150,
+      "noun_count": 8,
+      "verb_count": 1,
+      "persons": [
+        "良",
+        "郦食其"
+      ],
+      "prev": "1.7"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.9",
+      "length": 161,
+      "noun_count": 9,
+      "verb_count": 4,
+      "persons": [
+        "秦王子婴",
+        "樊哙",
+        "沛公"
+      ],
+      "prev": "1.8"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.10",
+      "length": 141,
+      "noun_count": 8,
+      "verb_count": 1,
+      "persons": [
+        "项羽",
+        "项伯",
+        "樊哙",
+        "桀"
+      ],
+      "prev": "1.9"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.11",
+      "length": 117,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "项王",
+        "项伯",
+        "良"
+      ],
+      "prev": "1.10"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.12",
+      "length": 195,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "项王",
+        "项伯",
+        "伯",
+        "良",
+        "沛公"
+      ],
+      "prev": "1.11"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.13",
+      "length": 166,
+      "noun_count": 15,
+      "verb_count": 3,
+      "persons": [
+        "项王",
+        "成",
+        "项羽"
+      ],
+      "prev": "1.12"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.14",
+      "length": 147,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "项羽",
+        "羽"
+      ],
+      "prev": "1.13"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.15",
+      "length": 196,
+      "noun_count": 20,
+      "verb_count": 1,
+      "persons": [
+        "项王",
+        "九江王布",
+        "韩信",
+        "齐王田荣",
+        "魏王豹",
+        "良",
+        "随何",
+        "彭越"
+      ],
+      "prev": "1.14"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.16",
+      "length": 171,
+      "noun_count": 16,
+      "verb_count": 6,
+      "persons": [
+        "武王",
+        "郦食其",
+        "汤",
+        "项羽",
+        "纣",
+        "桀"
+      ],
+      "prev": "1.15"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.17",
+      "length": 153,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "郦生"
+      ],
+      "prev": "1.16"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.18",
+      "length": 171,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "比干",
+        "武王",
+        "武",
+        "汤",
+        "商容",
+        "纣",
+        "项籍",
+        "箕子",
+        "桀"
+      ],
+      "prev": "1.17"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.19",
+      "length": 138,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.18"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.20",
+      "length": 141,
+      "noun_count": 7,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "1.19"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.21",
+      "length": 183,
+      "noun_count": 20,
+      "verb_count": 2,
+      "persons": [
+        "韩信",
+        "信"
+      ],
+      "prev": "1.20"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.22",
+      "length": 152,
+      "noun_count": 12,
+      "verb_count": 2,
+      "persons": [
+        "萧何",
+        "高帝"
+      ],
+      "prev": "1.21"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.23",
+      "length": 103,
+      "noun_count": 4,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "1.22"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.24",
+      "length": 132,
+      "noun_count": 6,
+      "verb_count": 2,
+      "persons": [
+        "曹",
+        "萧"
+      ],
+      "prev": "1.23"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.25",
+      "length": 138,
+      "noun_count": 7,
+      "verb_count": 2,
+      "persons": [
+        "雍齿"
+      ],
+      "prev": "1.24"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.26",
+      "length": 152,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "雍齿",
+        "刘敬"
+      ],
+      "prev": "1.25"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.27",
+      "length": 157,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "刘敬"
+      ],
+      "prev": "1.26"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.28",
+      "length": 156,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "吕泽",
+        "吕后",
+        "赵王如意",
+        "戚夫人"
+      ],
+      "prev": "1.27"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.29",
+      "length": 128,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "吕泽"
+      ],
+      "prev": "1.28"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.30",
+      "length": 138,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [
+        "黥布",
+        "吕泽",
+        "吕后"
+      ],
+      "prev": "1.29"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.31",
+      "length": 120,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.30"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.32",
+      "length": 137,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "布",
+        "黥布",
+        "吕后",
+        "戚夫人"
+      ],
+      "prev": "1.31"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.33",
+      "length": 138,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "吕泽",
+        "吕后"
+      ],
+      "prev": "1.32"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.34",
+      "length": 173,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "布",
+        "叔孙通",
+        "子房",
+        "叔孙"
+      ],
+      "prev": "1.33"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.35",
+      "length": 118,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.34"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.36",
+      "length": 144,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "戚夫人"
+      ],
+      "prev": "1.35"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.37",
+      "length": 90,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "戚夫人"
+      ],
+      "prev": "1.36"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.38",
+      "length": 159,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "萧相国"
+      ],
+      "prev": "1.37"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.39",
+      "length": 168,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "吕后",
+        "高帝",
+        "文成侯"
+      ],
+      "prev": "1.38"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.40",
+      "length": 160,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "陈平",
+        "不疑",
+        "平"
+      ],
+      "prev": "1.39"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.41",
+      "length": 120,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "张负"
+      ],
+      "prev": "1.40"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.42",
+      "length": 125,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "陈平",
+        "张负"
+      ],
+      "prev": "1.41"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.43",
+      "length": 115,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "陈孺子"
+      ],
+      "prev": "1.42"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.44",
+      "length": 173,
+      "noun_count": 19,
+      "verb_count": 2,
+      "persons": [
+        "咎",
+        "周市",
+        "陈涉",
+        "魏咎",
+        "项羽",
+        "平"
+      ],
+      "prev": "1.43"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.45",
+      "length": 158,
+      "noun_count": 15,
+      "verb_count": 4,
+      "persons": [
+        "项羽",
+        "项王",
+        "项悍"
+      ],
+      "prev": "1.44"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.46",
+      "length": 150,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [
+        "魏无知",
+        "万石君石奋"
+      ],
+      "prev": "1.45"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.47",
+      "length": 156,
+      "noun_count": 10,
+      "verb_count": 2,
+      "persons": [
+        "项王"
+      ],
+      "prev": "1.46"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.48",
+      "length": 153,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "绛",
+        "灌",
+        "韩王信"
+      ],
+      "prev": "1.47"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.49",
+      "length": 121,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "无知"
+      ],
+      "prev": "1.48"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.50",
+      "length": 125,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "孝已",
+        "尾生"
+      ],
+      "prev": "1.49"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.51",
+      "length": 155,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "项王"
+      ],
+      "prev": "1.50"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.52",
+      "length": 161,
+      "noun_count": 12,
+      "verb_count": 3,
+      "persons": [
+        "项王"
+      ],
+      "prev": "1.51"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.53",
+      "length": 103,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.52"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.54",
+      "length": 169,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [
+        "项王",
+        "亚父",
+        "周殷",
+        "钟离眛",
+        "龙且"
+      ],
+      "prev": "1.53"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.55",
+      "length": 161,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "项王",
+        "亚父",
+        "钟离眛"
+      ],
+      "prev": "1.54"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.56",
+      "length": 179,
+      "noun_count": 13,
+      "verb_count": 2,
+      "persons": [
+        "项王",
+        "亚父"
+      ],
+      "prev": "1.55"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.57",
+      "length": 182,
+      "noun_count": 15,
+      "verb_count": 3,
+      "persons": [
+        "高帝",
+        "楚王韩信",
+        "淮阴侯信",
+        "张良",
+        "信"
+      ],
+      "prev": "1.56"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.58",
+      "length": 147,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "信",
+        "高帝",
+        "韩信"
+      ],
+      "prev": "1.57"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.59",
+      "length": 165,
+      "noun_count": 13,
+      "verb_count": 1,
+      "persons": [
+        "信"
+      ],
+      "prev": "1.58"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.60",
+      "length": 153,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "信",
+        "高帝",
+        "楚王信"
+      ],
+      "prev": "1.59"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.61",
+      "length": 160,
+      "noun_count": 11,
+      "verb_count": 2,
+      "persons": [
+        "魏无知",
+        "韩王信",
+        "高帝"
+      ],
+      "prev": "1.60"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.62",
+      "length": 143,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "高帝"
+      ],
+      "prev": "1.61"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.63",
+      "length": 171,
+      "noun_count": 13,
+      "verb_count": 3,
+      "persons": [
+        "布",
+        "燕王卢绾",
+        "哙",
+        "臧荼",
+        "樊哙",
+        "高帝",
+        "陈豨",
+        "黥布"
+      ],
+      "prev": "1.62"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.64",
+      "length": 171,
+      "noun_count": 11,
+      "verb_count": 3,
+      "persons": [
+        "哙",
+        "吕须",
+        "樊哙",
+        "周勃",
+        "陈平",
+        "吕后",
+        "勃"
+      ],
+      "prev": "1.63"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.65",
+      "length": 145,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "哙",
+        "吕须",
+        "高帝",
+        "吕后",
+        "灌婴",
+        "周勃"
+      ],
+      "prev": "1.64"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.66",
+      "length": 182,
+      "noun_count": 21,
+      "verb_count": 1,
+      "persons": [
+        "吕须",
+        "樊哙",
+        "曹参",
+        "高祖",
+        "王陵",
+        "沛公",
+        "平"
+      ],
+      "prev": "1.65"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.67",
+      "length": 173,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "项王",
+        "陵",
+        "陵母",
+        "项羽",
+        "项籍"
+      ],
+      "prev": "1.66"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.68",
+      "length": 166,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [
+        "陵",
+        "高皇帝",
+        "高祖",
+        "雍齿",
+        "惠帝",
+        "高后"
+      ],
+      "prev": "1.67"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.69",
+      "length": 159,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "陵",
+        "高帝",
+        "平",
+        "周勃"
+      ],
+      "prev": "1.68"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.70",
+      "length": 162,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "吕太后",
+        "食其",
+        "审食其",
+        "陵"
+      ],
+      "prev": "1.69"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.71",
+      "length": 158,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "吕太后",
+        "吕须",
+        "樊哙",
+        "高帝",
+        "食其",
+        "吕后",
+        "太上皇",
+        "项籍"
+      ],
+      "prev": "1.70"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.72",
+      "length": 155,
+      "noun_count": 12,
+      "verb_count": 3,
+      "persons": [
+        "吕太后",
+        "吕须",
+        "审食其",
+        "文帝",
+        "勃"
+      ],
+      "prev": "1.71"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.73",
+      "length": 155,
+      "noun_count": 12,
+      "verb_count": 2,
+      "persons": [
+        "高帝",
+        "文帝",
+        "勃"
+      ],
+      "prev": "1.72"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.74",
+      "length": 109,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "勃"
+      ],
+      "prev": "1.73"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.75",
+      "length": 141,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.74"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.76",
+      "length": 148,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "献侯",
+        "何",
+        "绛侯"
+      ],
+      "prev": "1.75"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.77",
+      "length": 159,
+      "noun_count": 11,
+      "verb_count": 2,
+      "persons": [
+        "食其",
+        "文帝",
+        "平"
+      ],
+      "prev": "1.76"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.78",
+      "length": 200,
+      "noun_count": 21,
+      "verb_count": 5,
+      "persons": [
+        "高祖",
+        "陈掌",
+        "周勃",
+        "沛公",
+        "勃"
+      ],
+      "prev": "1.77"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.79",
+      "length": 207,
+      "noun_count": 25,
+      "verb_count": 7,
+      "persons": [
+        "章邯",
+        "李由"
+      ],
+      "prev": "1.78"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.80",
+      "length": 209,
+      "noun_count": 23,
+      "verb_count": 7,
+      "persons": [
+        "赵贲",
+        "楚怀王",
+        "沛公",
+        "项梁",
+        "项羽",
+        "章邯",
+        "勃"
+      ],
+      "prev": "1.79"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.81",
+      "length": 237,
+      "noun_count": 29,
+      "verb_count": 7,
+      "persons": [
+        "赵贲",
+        "齮",
+        "内史保",
+        "章平",
+        "项羽",
+        "姚卬",
+        "沛公",
+        "勃"
+      ],
+      "prev": "1.80"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.82",
+      "length": 193,
+      "noun_count": 21,
+      "verb_count": 6,
+      "persons": [
+        "高祖",
+        "臧荼",
+        "章邯",
+        "项籍"
+      ],
+      "prev": "1.81"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.83",
+      "length": 186,
+      "noun_count": 21,
+      "verb_count": 5,
+      "persons": [
+        "韩信",
+        "高帝",
+        "韩王信"
+      ],
+      "prev": "1.82"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.84",
+      "length": 237,
+      "noun_count": 29,
+      "verb_count": 6,
+      "persons": [
+        "韩信",
+        "乘马降",
+        "圂",
+        "博",
+        "豨",
+        "陈豨",
+        "宋最",
+        "箕肄",
+        "赵利",
+        "勃"
+      ],
+      "prev": "1.83"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.85",
+      "length": 232,
+      "noun_count": 29,
+      "verb_count": 4,
+      "persons": [
+        "燕王卢绾",
+        "抵",
+        "程纵",
+        "绾",
+        "樊哙",
+        "施屠浑都",
+        "豨",
+        "陈武",
+        "高肄",
+        "弱"
+      ],
+      "prev": "1.84"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.86",
+      "length": 169,
+      "noun_count": 21,
+      "verb_count": 0,
+      "persons": [
+        "高帝",
+        "勃"
+      ],
+      "prev": "1.85"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.87",
+      "length": 212,
+      "noun_count": 25,
+      "verb_count": 1,
+      "persons": [
+        "勃",
+        "章",
+        "吕产",
+        "高帝",
+        "惠帝",
+        "高后",
+        "平",
+        "吕禄"
+      ],
+      "prev": "1.86"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.88",
+      "length": 160,
+      "noun_count": 13,
+      "verb_count": 3,
+      "persons": [
+        "少帝",
+        "吕太后",
+        "孝惠",
+        "孝文皇帝",
+        "惠帝"
+      ],
+      "prev": "1.87"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.89",
+      "length": 193,
+      "noun_count": 17,
+      "verb_count": 2,
+      "persons": [
+        "少帝",
+        "张释",
+        "章",
+        "滕公",
+        "兴居"
+      ],
+      "prev": "1.88"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.90",
+      "length": 159,
+      "noun_count": 14,
+      "verb_count": 1,
+      "persons": [
+        "少帝",
+        "滕公"
+      ],
+      "prev": "1.89"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.91",
+      "length": 172,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [
+        "陈丞相平",
+        "文帝",
+        "勃"
+      ],
+      "prev": "1.90"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.92",
+      "length": 158,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "绛侯勃",
+        "勃"
+      ],
+      "prev": "1.91"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.93",
+      "length": 126,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "薄太后",
+        "薄昭",
+        "孝文帝",
+        "胜之",
+        "勃"
+      ],
+      "prev": "1.92"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.94",
+      "length": 140,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "绛侯",
+        "文帝"
+      ],
+      "prev": "1.93"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.95",
+      "length": 173,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [
+        "亚夫",
+        "武侯",
+        "许负",
+        "文帝",
+        "胜之"
+      ],
+      "prev": "1.94"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.96",
+      "length": 164,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "亚夫",
+        "负",
+        "绛侯胜之",
+        "文帝"
+      ],
+      "prev": "1.95"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.97",
+      "length": 169,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "亚夫",
+        "徐厉",
+        "刘礼"
+      ],
+      "prev": "1.96"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.98",
+      "length": 161,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "亚夫"
+      ],
+      "prev": "1.97"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.99",
+      "length": 152,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "亚夫",
+        "文帝"
+      ],
+      "prev": "1.98"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.100",
+      "length": 162,
+      "noun_count": 16,
+      "verb_count": 1,
+      "persons": [
+        "周亚夫",
+        "亚夫",
+        "文帝"
+      ],
+      "prev": "1.99"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.101",
+      "length": 154,
+      "noun_count": 14,
+      "verb_count": 1,
+      "persons": [
+        "亚夫",
+        "赵涉",
+        "涉"
+      ],
+      "prev": "1.100"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.102",
+      "length": 180,
+      "noun_count": 18,
+      "verb_count": 2,
+      "persons": [
+        "亚夫",
+        "涉"
+      ],
+      "prev": "1.101"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.103",
+      "length": 188,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "亚夫",
+        "景帝"
+      ],
+      "prev": "1.102"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.104",
+      "length": 189,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "亚夫",
+        "吴王",
+        "吴王濞"
+      ],
+      "prev": "1.103"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.105",
+      "length": 192,
+      "noun_count": 18,
+      "verb_count": 1,
+      "persons": [
+        "亚夫",
+        "栗太子",
+        "窦太后",
+        "王信",
+        "梁孝王",
+        "景帝",
+        "皇后"
+      ],
+      "prev": "1.104"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.106",
+      "length": 167,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "亚夫",
+        "窦太后",
+        "高帝",
+        "窦长君",
+        "信",
+        "彭祖",
+        "先帝"
+      ],
+      "prev": "1.105"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.107",
+      "length": 167,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "亚夫",
+        "信",
+        "皇后",
+        "徐卢"
+      ],
+      "prev": "1.106"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.108",
+      "length": 169,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "亚夫"
+      ],
+      "prev": "1.107"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.109",
+      "length": 136,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "亚夫"
+      ],
+      "prev": "1.108"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.110",
+      "length": 174,
+      "noun_count": 10,
+      "verb_count": 2,
+      "persons": [
+        "亚夫",
+        "坚",
+        "绛侯勃",
+        "建德"
+      ],
+      "prev": "1.109"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.111",
+      "length": 157,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "亚夫",
+        "王信",
+        "恭",
+        "孔子",
+        "张良",
+        "子羽",
+        "勃"
+      ],
+      "prev": "1.110"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.112",
+      "length": 114,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "吕后",
+        "陈平",
+        "良",
+        "王陵"
+      ],
+      "prev": "1.111"
+    },
+    {
+      "chapter": "卷040",
+      "title": "张陈王周传第十",
+      "para": "1.113",
+      "length": 159,
+      "noun_count": 13,
+      "verb_count": 2,
+      "persons": [
+        "勃",
+        "伊",
+        "周",
+        "高祖",
+        "吕后",
+        "陈平",
+        "王陵",
+        "孝文",
+        "周勃"
+      ],
+      "prev": "1.112"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "1.6",
+      "relation": "next"
+    },
+    {
+      "from": "1.6",
+      "to": "1.7",
+      "relation": "next"
+    },
+    {
+      "from": "1.7",
+      "to": "1.8",
+      "relation": "next"
+    },
+    {
+      "from": "1.8",
+      "to": "1.9",
+      "relation": "next"
+    },
+    {
+      "from": "1.9",
+      "to": "1.10",
+      "relation": "next"
+    },
+    {
+      "from": "1.10",
+      "to": "1.11",
+      "relation": "next"
+    },
+    {
+      "from": "1.11",
+      "to": "1.12",
+      "relation": "next"
+    },
+    {
+      "from": "1.12",
+      "to": "1.13",
+      "relation": "next"
+    },
+    {
+      "from": "1.13",
+      "to": "1.14",
+      "relation": "next"
+    },
+    {
+      "from": "1.14",
+      "to": "1.15",
+      "relation": "next"
+    },
+    {
+      "from": "1.15",
+      "to": "1.16",
+      "relation": "next"
+    },
+    {
+      "from": "1.16",
+      "to": "1.17",
+      "relation": "next"
+    },
+    {
+      "from": "1.17",
+      "to": "1.18",
+      "relation": "next"
+    },
+    {
+      "from": "1.18",
+      "to": "1.19",
+      "relation": "next"
+    },
+    {
+      "from": "1.19",
+      "to": "1.20",
+      "relation": "next"
+    },
+    {
+      "from": "1.20",
+      "to": "1.21",
+      "relation": "next"
+    },
+    {
+      "from": "1.21",
+      "to": "1.22",
+      "relation": "next"
+    },
+    {
+      "from": "1.22",
+      "to": "1.23",
+      "relation": "next"
+    },
+    {
+      "from": "1.23",
+      "to": "1.24",
+      "relation": "next"
+    },
+    {
+      "from": "1.24",
+      "to": "1.25",
+      "relation": "next"
+    },
+    {
+      "from": "1.25",
+      "to": "1.26",
+      "relation": "next"
+    },
+    {
+      "from": "1.26",
+      "to": "1.27",
+      "relation": "next"
+    },
+    {
+      "from": "1.27",
+      "to": "1.28",
+      "relation": "next"
+    },
+    {
+      "from": "1.28",
+      "to": "1.29",
+      "relation": "next"
+    },
+    {
+      "from": "1.29",
+      "to": "1.30",
+      "relation": "next"
+    },
+    {
+      "from": "1.30",
+      "to": "1.31",
+      "relation": "next"
+    },
+    {
+      "from": "1.31",
+      "to": "1.32",
+      "relation": "next"
+    },
+    {
+      "from": "1.32",
+      "to": "1.33",
+      "relation": "next"
+    },
+    {
+      "from": "1.33",
+      "to": "1.34",
+      "relation": "next"
+    },
+    {
+      "from": "1.34",
+      "to": "1.35",
+      "relation": "next"
+    },
+    {
+      "from": "1.35",
+      "to": "1.36",
+      "relation": "next"
+    },
+    {
+      "from": "1.36",
+      "to": "1.37",
+      "relation": "next"
+    },
+    {
+      "from": "1.37",
+      "to": "1.38",
+      "relation": "next"
+    },
+    {
+      "from": "1.38",
+      "to": "1.39",
+      "relation": "next"
+    },
+    {
+      "from": "1.39",
+      "to": "1.40",
+      "relation": "next"
+    },
+    {
+      "from": "1.40",
+      "to": "1.41",
+      "relation": "next"
+    },
+    {
+      "from": "1.41",
+      "to": "1.42",
+      "relation": "next"
+    },
+    {
+      "from": "1.42",
+      "to": "1.43",
+      "relation": "next"
+    },
+    {
+      "from": "1.43",
+      "to": "1.44",
+      "relation": "next"
+    },
+    {
+      "from": "1.44",
+      "to": "1.45",
+      "relation": "next"
+    },
+    {
+      "from": "1.45",
+      "to": "1.46",
+      "relation": "next"
+    },
+    {
+      "from": "1.46",
+      "to": "1.47",
+      "relation": "next"
+    },
+    {
+      "from": "1.47",
+      "to": "1.48",
+      "relation": "next"
+    },
+    {
+      "from": "1.48",
+      "to": "1.49",
+      "relation": "next"
+    },
+    {
+      "from": "1.49",
+      "to": "1.50",
+      "relation": "next"
+    },
+    {
+      "from": "1.50",
+      "to": "1.51",
+      "relation": "next"
+    },
+    {
+      "from": "1.51",
+      "to": "1.52",
+      "relation": "next"
+    },
+    {
+      "from": "1.52",
+      "to": "1.53",
+      "relation": "next"
+    },
+    {
+      "from": "1.53",
+      "to": "1.54",
+      "relation": "next"
+    },
+    {
+      "from": "1.54",
+      "to": "1.55",
+      "relation": "next"
+    },
+    {
+      "from": "1.55",
+      "to": "1.56",
+      "relation": "next"
+    },
+    {
+      "from": "1.56",
+      "to": "1.57",
+      "relation": "next"
+    },
+    {
+      "from": "1.57",
+      "to": "1.58",
+      "relation": "next"
+    },
+    {
+      "from": "1.58",
+      "to": "1.59",
+      "relation": "next"
+    },
+    {
+      "from": "1.59",
+      "to": "1.60",
+      "relation": "next"
+    },
+    {
+      "from": "1.60",
+      "to": "1.61",
+      "relation": "next"
+    },
+    {
+      "from": "1.61",
+      "to": "1.62",
+      "relation": "next"
+    },
+    {
+      "from": "1.62",
+      "to": "1.63",
+      "relation": "next"
+    },
+    {
+      "from": "1.63",
+      "to": "1.64",
+      "relation": "next"
+    },
+    {
+      "from": "1.64",
+      "to": "1.65",
+      "relation": "next"
+    },
+    {
+      "from": "1.65",
+      "to": "1.66",
+      "relation": "next"
+    },
+    {
+      "from": "1.66",
+      "to": "1.67",
+      "relation": "next"
+    },
+    {
+      "from": "1.67",
+      "to": "1.68",
+      "relation": "next"
+    },
+    {
+      "from": "1.68",
+      "to": "1.69",
+      "relation": "next"
+    },
+    {
+      "from": "1.69",
+      "to": "1.70",
+      "relation": "next"
+    },
+    {
+      "from": "1.70",
+      "to": "1.71",
+      "relation": "next"
+    },
+    {
+      "from": "1.71",
+      "to": "1.72",
+      "relation": "next"
+    },
+    {
+      "from": "1.72",
+      "to": "1.73",
+      "relation": "next"
+    },
+    {
+      "from": "1.73",
+      "to": "1.74",
+      "relation": "next"
+    },
+    {
+      "from": "1.74",
+      "to": "1.75",
+      "relation": "next"
+    },
+    {
+      "from": "1.75",
+      "to": "1.76",
+      "relation": "next"
+    },
+    {
+      "from": "1.76",
+      "to": "1.77",
+      "relation": "next"
+    },
+    {
+      "from": "1.77",
+      "to": "1.78",
+      "relation": "next"
+    },
+    {
+      "from": "1.78",
+      "to": "1.79",
+      "relation": "next"
+    },
+    {
+      "from": "1.79",
+      "to": "1.80",
+      "relation": "next"
+    },
+    {
+      "from": "1.80",
+      "to": "1.81",
+      "relation": "next"
+    },
+    {
+      "from": "1.81",
+      "to": "1.82",
+      "relation": "next"
+    },
+    {
+      "from": "1.82",
+      "to": "1.83",
+      "relation": "next"
+    },
+    {
+      "from": "1.83",
+      "to": "1.84",
+      "relation": "next"
+    },
+    {
+      "from": "1.84",
+      "to": "1.85",
+      "relation": "next"
+    },
+    {
+      "from": "1.85",
+      "to": "1.86",
+      "relation": "next"
+    },
+    {
+      "from": "1.86",
+      "to": "1.87",
+      "relation": "next"
+    },
+    {
+      "from": "1.87",
+      "to": "1.88",
+      "relation": "next"
+    },
+    {
+      "from": "1.88",
+      "to": "1.89",
+      "relation": "next"
+    },
+    {
+      "from": "1.89",
+      "to": "1.90",
+      "relation": "next"
+    },
+    {
+      "from": "1.90",
+      "to": "1.91",
+      "relation": "next"
+    },
+    {
+      "from": "1.91",
+      "to": "1.92",
+      "relation": "next"
+    },
+    {
+      "from": "1.92",
+      "to": "1.93",
+      "relation": "next"
+    },
+    {
+      "from": "1.93",
+      "to": "1.94",
+      "relation": "next"
+    },
+    {
+      "from": "1.94",
+      "to": "1.95",
+      "relation": "next"
+    },
+    {
+      "from": "1.95",
+      "to": "1.96",
+      "relation": "next"
+    },
+    {
+      "from": "1.96",
+      "to": "1.97",
+      "relation": "next"
+    },
+    {
+      "from": "1.97",
+      "to": "1.98",
+      "relation": "next"
+    },
+    {
+      "from": "1.98",
+      "to": "1.99",
+      "relation": "next"
+    },
+    {
+      "from": "1.99",
+      "to": "1.100",
+      "relation": "next"
+    },
+    {
+      "from": "1.100",
+      "to": "1.101",
+      "relation": "next"
+    },
+    {
+      "from": "1.101",
+      "to": "1.102",
+      "relation": "next"
+    },
+    {
+      "from": "1.102",
+      "to": "1.103",
+      "relation": "next"
+    },
+    {
+      "from": "1.103",
+      "to": "1.104",
+      "relation": "next"
+    },
+    {
+      "from": "1.104",
+      "to": "1.105",
+      "relation": "next"
+    },
+    {
+      "from": "1.105",
+      "to": "1.106",
+      "relation": "next"
+    },
+    {
+      "from": "1.106",
+      "to": "1.107",
+      "relation": "next"
+    },
+    {
+      "from": "1.107",
+      "to": "1.108",
+      "relation": "next"
+    },
+    {
+      "from": "1.108",
+      "to": "1.109",
+      "relation": "next"
+    },
+    {
+      "from": "1.109",
+      "to": "1.110",
+      "relation": "next"
+    },
+    {
+      "from": "1.110",
+      "to": "1.111",
+      "relation": "next"
+    },
+    {
+      "from": "1.111",
+      "to": "1.112",
+      "relation": "next"
+    },
+    {
+      "from": "1.112",
+      "to": "1.113",
+      "relation": "next"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "dynasty": "西汉",
+    "emperor_count": 14,
+    "source": "汉书本纪"
+  },
+  "emperors": [
+    {
+      "name": "汉高祖",
+      "alias": "刘邦",
+      "title": "高帝",
+      "father": "刘太公",
+      "mother": "刘媪",
+      "spouse": [
+        "吕后"
+      ],
+      "start_bce": -202,
+      "end_bce": -195,
+      "reign": 8
+    },
+    {
+      "name": "汉惠帝",
+      "alias": "刘盈",
+      "title": "惠帝",
+      "father": "汉高祖",
+      "mother": "吕后",
+      "spouse": [
+        "张皇后"
+      ],
+      "start_bce": -195,
+      "end_bce": -188,
+      "reign": 7
+    },
+    {
+      "name": "汉文帝",
+      "alias": "刘恒",
+      "title": "文帝",
+      "father": "汉高祖",
+      "mother": "薄姬",
+      "spouse": [
+        "窦皇后"
+      ],
+      "start_bce": -180,
+      "end_bce": -157,
+      "reign": 23
+    },
+    {
+      "name": "汉景帝",
+      "alias": "刘启",
+      "title": "景帝",
+      "father": "汉文帝",
+      "mother": "窦皇后",
+      "spouse": [
+        "王皇后",
+        "栗姬"
+      ],
+      "start_bce": -157,
+      "end_bce": -141,
+      "reign": 16
+    },
+    {
+      "name": "汉武帝",
+      "alias": "刘彻",
+      "title": "武帝",
+      "father": "汉景帝",
+      "mother": "王皇后",
+      "spouse": [
+        "陈皇后",
+        "卫皇后",
+        "李皇后"
+      ],
+      "start_bce": -141,
+      "end_bce": -87,
+      "reign": 54
+    },
+    {
+      "name": "汉昭帝",
+      "alias": "刘弗陵",
+      "title": "昭帝",
+      "father": "汉武帝",
+      "mother": "赵倢伃",
+      "spouse": [
+        "上官皇后"
+      ],
+      "start_bce": -87,
+      "end_bce": -74,
+      "reign": 13
+    },
+    {
+      "name": "汉宣帝",
+      "alias": "刘询",
+      "title": "宣帝",
+      "father": "刘进",
+      "mother": "王翁须",
+      "spouse": [
+        "许皇后",
+        "霍皇后",
+        "王皇后"
+      ],
+      "start_bce": -74,
+      "end_bce": -49,
+      "reign": 25
+    },
+    {
+      "name": "汉元帝",
+      "alias": "刘奭",
+      "title": "元帝",
+      "father": "汉宣帝",
+      "mother": "许皇后",
+      "spouse": [
+        "王皇后",
+        "傅昭仪"
+      ],
+      "start_bce": -49,
+      "end_bce": -33,
+      "reign": 16
+    },
+    {
+      "name": "汉成帝",
+      "alias": "刘骜",
+      "title": "成帝",
+      "father": "汉元帝",
+      "mother": "王皇后",
+      "spouse": [
+        "许皇后",
+        "赵皇后"
+      ],
+      "start_bce": -33,
+      "end_bce": -7,
+      "reign": 26
+    },
+    {
+      "name": "汉哀帝",
+      "alias": "刘欣",
+      "title": "哀帝",
+      "father": "刘康",
+      "mother": "丁姬",
+      "spouse": [
+        "傅皇后"
+      ],
+      "start_bce": -7,
+      "end_bce": -1,
+      "reign": 6
+    },
+    {
+      "name": "汉平帝",
+      "alias": "刘衎",
+      "title": "平帝",
+      "father": "刘兴",
+      "mother": "卫姬",
+      "spouse": [
+        "王皇后"
+      ],
+      "start_bce": -1,
+      "end_bce": 5,
+      "reign": 5
+    },
+    {
+      "name": "孺子婴",
+      "alias": "刘婴",
+      "title": "孺子",
+      "father": "刘显",
+      "mother": null,
+      "spouse": [],
+      "start_bce": 6,
+      "end_bce": 8,
+      "reign": 3,
+      "note": "王莽摄政"
+    },
+    {
+      "name": "王莽",
+      "alias": "王莽",
+      "title": "新皇帝",
+      "father": "王曼",
+      "mother": "渠氏",
+      "spouse": [
+        "王皇后"
+      ],
+      "start_bce": 9,
+      "end_bce": 23,
+      "reign": 15,
+      "note": "新朝"
+    },
+    {
+      "name": "更始帝",
+      "alias": "刘玄",
+      "title": "更始",
+      "father": "刘子张",
+      "mother": null,
+      "spouse": [],
+      "start_bce": 23,
+      "end_bce": 25,
+      "reign": 3,
+      "note": "更始政权"
+    }
+  ]
+}

@@ -1,0 +1,1622 @@
+{
+  "chapter": "卷027",
+  "title": "五行志第七上",
+  "paragraphs": [
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "0",
+      "length": 6,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "1",
+      "length": 380,
+      "noun_count": 32,
+      "verb_count": 0,
+      "persons": [
+        "武王",
+        "禹",
+        "虙羲氏",
+        "刘歆",
+        "鲧",
+        "箕子"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "2",
+      "length": 277,
+      "noun_count": 28,
+      "verb_count": 0,
+      "persons": [
+        "孔子",
+        "禹",
+        "文王"
+      ],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "3",
+      "length": 277,
+      "noun_count": 28,
+      "verb_count": 0,
+      "persons": [
+        "武",
+        "眭孟",
+        "歆",
+        "宣",
+        "刘向",
+        "景",
+        "李寻",
+        "王莽",
+        "元",
+        "促舒"
+      ],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "4",
+      "length": 95,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "5",
+      "length": 39,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "6",
+      "length": 207,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "7",
+      "length": 267,
+      "noun_count": 21,
+      "verb_count": 1,
+      "persons": [
+        "公子偃",
+        "叔孙乔如",
+        "刘向",
+        "楚王",
+        "刘歆",
+        "成公",
+        "季孙行父"
+      ],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "8",
+      "length": 43,
+      "noun_count": 4,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "9",
+      "length": 224,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "孔子",
+        "舜",
+        "尧"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "10",
+      "length": 322,
+      "noun_count": 32,
+      "verb_count": 3,
+      "persons": [
+        "桓公",
+        "齐侯",
+        "刘向",
+        "刘歆",
+        "董仲舒",
+        "桓"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "11",
+      "length": 189,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "桓公",
+        "齐桓",
+        "刘向",
+        "严公",
+        "董仲舒"
+      ],
+      "prev": "10"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "12",
+      "length": 284,
+      "noun_count": 27,
+      "verb_count": 1,
+      "persons": [
+        "釐",
+        "刘向",
+        "釐公",
+        "董仲舒",
+        "愍公"
+      ],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "13",
+      "length": 184,
+      "noun_count": 20,
+      "verb_count": 2,
+      "persons": [
+        "刘向",
+        "宣公",
+        "召伯",
+        "毛伯",
+        "董仲舒",
+        "王札子"
+      ],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "14",
+      "length": 331,
+      "noun_count": 26,
+      "verb_count": 5,
+      "persons": [
+        "归父",
+        "刘向",
+        "宣公",
+        "子赤",
+        "公孙归父",
+        "成公",
+        "董仲舒"
+      ],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "15",
+      "length": 623,
+      "noun_count": 57,
+      "verb_count": 0,
+      "persons": [
+        "华弱",
+        "陶唐氏",
+        "帝喾",
+        "尧",
+        "宋公",
+        "刘向",
+        "晋侯",
+        "阏伯",
+        "襄公",
+        "相土"
+      ],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "16",
+      "length": 142,
+      "noun_count": 14,
+      "verb_count": 1,
+      "persons": [
+        "伯姬",
+        "大子座",
+        "宋恭公",
+        "宋公",
+        "刘向",
+        "董仲舒"
+      ],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "17",
+      "length": 230,
+      "noun_count": 26,
+      "verb_count": 0,
+      "persons": [
+        "昭公",
+        "士文伯"
+      ],
+      "prev": "16"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "18.1",
+      "length": 164,
+      "noun_count": 16,
+      "verb_count": 4,
+      "persons": [
+        "楚严王",
+        "夏征舒",
+        "刘向",
+        "陈侯",
+        "董仲舒",
+        "偃师",
+        "招"
+      ],
+      "prev": "17"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "18.2",
+      "length": 197,
+      "noun_count": 25,
+      "verb_count": 2,
+      "persons": [
+        "子产",
+        "郑裨灶"
+      ],
+      "prev": "18.1"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "18.3",
+      "length": 181,
+      "noun_count": 24,
+      "verb_count": 1,
+      "persons": [
+        "颛顼"
+      ],
+      "prev": "18.2"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "18.4",
+      "length": 245,
+      "noun_count": 42,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "18.3"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "18.5",
+      "length": 209,
+      "noun_count": 25,
+      "verb_count": 1,
+      "persons": [
+        "哀公"
+      ],
+      "prev": "18.4"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "19",
+      "length": 372,
+      "noun_count": 44,
+      "verb_count": 4,
+      "persons": [
+        "周景王",
+        "王子猛",
+        "刘向",
+        "召伯",
+        "毛伯",
+        "王子晁",
+        "景王",
+        "董仲舒",
+        "单子",
+        "子晁"
+      ],
+      "prev": "18.5"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "20",
+      "length": 206,
+      "noun_count": 16,
+      "verb_count": 1,
+      "persons": [
+        "定公",
+        "刘向",
+        "昭公",
+        "孔子",
+        "董仲舒",
+        "京房"
+      ],
+      "prev": "19"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "21",
+      "length": 169,
+      "noun_count": 21,
+      "verb_count": 0,
+      "persons": [
+        "哀公",
+        "刘向",
+        "釐",
+        "孔子",
+        "董仲舒",
+        "桓"
+      ],
+      "prev": "20"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "22",
+      "length": 164,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "刘向",
+        "定",
+        "孔子",
+        "董仲舒",
+        "哀"
+      ],
+      "prev": "21"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "23",
+      "length": 87,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "赵王",
+        "王",
+        "刘向"
+      ],
+      "prev": "22"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "24",
+      "length": 377,
+      "noun_count": 43,
+      "verb_count": 9,
+      "persons": [
+        "吕太后",
+        "弘",
+        "赵王如意",
+        "刘向",
+        "惠后",
+        "惠帝",
+        "戚夫人",
+        "鲁元公主",
+        "文帝",
+        "太后"
+      ],
+      "prev": "23"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "25",
+      "length": 195,
+      "noun_count": 22,
+      "verb_count": 3,
+      "persons": [
+        "淮南王",
+        "刘向",
+        "贾谊",
+        "文帝",
+        "济北"
+      ],
+      "prev": "24"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "26",
+      "length": 107,
+      "noun_count": 12,
+      "verb_count": 2,
+      "persons": [
+        "栗太子",
+        "周亚夫",
+        "临江王",
+        "景帝"
+      ],
+      "prev": "25"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "27.1",
+      "length": 139,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "董仲舒",
+        "武帝"
+      ],
+      "prev": "26"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "27.2",
+      "length": 177,
+      "noun_count": 16,
+      "verb_count": 1,
+      "persons": [
+        "孔子",
+        "定公",
+        "字公",
+        "哀公"
+      ],
+      "prev": "27.1"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "27.3",
+      "length": 151,
+      "noun_count": 15,
+      "verb_count": 2,
+      "persons": [
+        "哀公"
+      ],
+      "prev": "27.2"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "27.4",
+      "length": 167,
+      "noun_count": 12,
+      "verb_count": 1,
+      "persons": [
+        "哀",
+        "昭公",
+        "定"
+      ],
+      "prev": "27.3"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "27.5",
+      "length": 118,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "27.4"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "27.6",
+      "length": 162,
+      "noun_count": 8,
+      "verb_count": 7,
+      "persons": [],
+      "prev": "27.5"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "27.7",
+      "length": 88,
+      "noun_count": 3,
+      "verb_count": 5,
+      "persons": [],
+      "prev": "27.6"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.1",
+      "length": 189,
+      "noun_count": 15,
+      "verb_count": 5,
+      "persons": [
+        "胶东",
+        "衡山",
+        "淮南王安",
+        "田蚡",
+        "胶西于王",
+        "赵敬肃王",
+        "淮南",
+        "江都",
+        "帝舅",
+        "常山宪王"
+      ],
+      "prev": "27.7"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.2",
+      "length": 151,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "仲舒",
+        "卫太子",
+        "夏侯始昌",
+        "江充",
+        "吕步舒"
+      ],
+      "prev": "28.1"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.3",
+      "length": 152,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "刘屈釐",
+        "公孙贺",
+        "敬声",
+        "帝",
+        "曹宗"
+      ],
+      "prev": "28.2"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.4",
+      "length": 207,
+      "noun_count": 23,
+      "verb_count": 5,
+      "persons": [
+        "成帝",
+        "刘屈釐",
+        "屈釐",
+        "充",
+        "江充",
+        "者数万人"
+      ],
+      "prev": "28.3"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.5",
+      "length": 162,
+      "noun_count": 19,
+      "verb_count": 2,
+      "persons": [
+        "凤",
+        "元舅",
+        "王商",
+        "帝舅",
+        "王凤"
+      ],
+      "prev": "28.4"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.6",
+      "length": 203,
+      "noun_count": 23,
+      "verb_count": 4,
+      "persons": [
+        "凤",
+        "商",
+        "王章",
+        "章",
+        "许皇后",
+        "成帝",
+        "赵飞燕",
+        "昭帝"
+      ],
+      "prev": "28.5"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.7",
+      "length": 163,
+      "noun_count": 16,
+      "verb_count": 2,
+      "persons": [
+        "太宗",
+        "孝文",
+        "刘向",
+        "燕王"
+      ],
+      "prev": "28.6"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.8",
+      "length": 203,
+      "noun_count": 20,
+      "verb_count": 3,
+      "persons": [
+        "光",
+        "安",
+        "周公",
+        "上官安",
+        "昭帝",
+        "霍光",
+        "桀"
+      ],
+      "prev": "28.7"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.9",
+      "length": 155,
+      "noun_count": 16,
+      "verb_count": 1,
+      "persons": [
+        "光",
+        "周公"
+      ],
+      "prev": "28.8"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.10",
+      "length": 161,
+      "noun_count": 16,
+      "verb_count": 4,
+      "persons": [
+        "光",
+        "许皇后",
+        "元帝",
+        "宣帝",
+        "显"
+      ],
+      "prev": "28.9"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.11",
+      "length": 184,
+      "noun_count": 19,
+      "verb_count": 2,
+      "persons": [
+        "石显",
+        "望之",
+        "章",
+        "击堪",
+        "刘向",
+        "萧望之",
+        "许章",
+        "堪"
+      ],
+      "prev": "28.10"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.12",
+      "length": 194,
+      "noun_count": 23,
+      "verb_count": 1,
+      "persons": [
+        "张猛",
+        "石显",
+        "周堪",
+        "刘向",
+        "孝宣",
+        "猛",
+        "堪"
+      ],
+      "prev": "28.11"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.13",
+      "length": 222,
+      "noun_count": 20,
+      "verb_count": 3,
+      "persons": [
+        "张猛",
+        "成帝",
+        "宣帝",
+        "孝宣",
+        "昭帝",
+        "显",
+        "堪"
+      ],
+      "prev": "28.12"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.14",
+      "length": 162,
+      "noun_count": 19,
+      "verb_count": 1,
+      "persons": [
+        "田蚡",
+        "许皇后",
+        "王凤"
+      ],
+      "prev": "28.13"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.15",
+      "length": 167,
+      "noun_count": 14,
+      "verb_count": 3,
+      "persons": [
+        "卫太子",
+        "宣帝",
+        "赵飞燕",
+        "惠帝",
+        "戾后",
+        "许后"
+      ],
+      "prev": "28.14"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.16",
+      "length": 190,
+      "noun_count": 21,
+      "verb_count": 3,
+      "persons": [
+        "赵皇后",
+        "成帝",
+        "帝",
+        "太宗",
+        "孝文",
+        "王太后"
+      ],
+      "prev": "28.15"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.17",
+      "length": 184,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "根",
+        "成都侯商",
+        "傅太后",
+        "帝",
+        "曲阳侯根",
+        "新都侯莽",
+        "太后",
+        "哀帝"
+      ],
+      "prev": "28.16"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.18",
+      "length": 194,
+      "noun_count": 20,
+      "verb_count": 2,
+      "persons": [
+        "平帝",
+        "师丹",
+        "高皇帝",
+        "叔孙通",
+        "成帝",
+        "傅太后",
+        "孔光",
+        "帝"
+      ],
+      "prev": "28.17"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "28.19",
+      "length": 126,
+      "noun_count": 11,
+      "verb_count": 3,
+      "persons": [
+        "平帝",
+        "成帝",
+        "高祖",
+        "王莽",
+        "王太后",
+        "莽"
+      ],
+      "prev": "28.18"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "29",
+      "length": 43,
+      "noun_count": 3,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "28.19"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "30",
+      "length": 433,
+      "noun_count": 40,
+      "verb_count": 1,
+      "persons": [
+        "禹",
+        "哀姜",
+        "刘向",
+        "孔子",
+        "文王",
+        "董仲舒"
+      ],
+      "prev": "29"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "31",
+      "length": 42,
+      "noun_count": 3,
+      "verb_count": 2,
+      "persons": [],
+      "prev": "30"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "32.1",
+      "length": 156,
+      "noun_count": 7,
+      "verb_count": 7,
+      "persons": [],
+      "prev": "31"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "32.2",
+      "length": 143,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "师旷",
+        "晋平公"
+      ],
+      "prev": "32.1"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "32.3",
+      "length": 136,
+      "noun_count": 6,
+      "verb_count": 2,
+      "persons": [
+        "刘歆",
+        "叔向",
+        "刘向",
+        "晋侯"
+      ],
+      "prev": "32.2"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "32.4",
+      "length": 111,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "成帝"
+      ],
+      "prev": "32.3"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "32.5",
+      "length": 206,
+      "noun_count": 23,
+      "verb_count": 5,
+      "persons": [
+        "钳子",
+        "严普",
+        "苏令",
+        "郑躬",
+        "樊并"
+      ],
+      "prev": "32.4"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "32.6",
+      "length": 168,
+      "noun_count": 16,
+      "verb_count": 1,
+      "persons": [
+        "师旷"
+      ],
+      "prev": "32.5"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "33",
+      "length": 42,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "32.6"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.1",
+      "length": 160,
+      "noun_count": 14,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "33"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.2",
+      "length": 120,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "34.1"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.3",
+      "length": 179,
+      "noun_count": 15,
+      "verb_count": 7,
+      "persons": [
+        "京房"
+      ],
+      "prev": "34.2"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.4",
+      "length": 202,
+      "noun_count": 19,
+      "verb_count": 8,
+      "persons": [
+        "隐公",
+        "刘向",
+        "宋督",
+        "董仲舒",
+        "桓"
+      ],
+      "prev": "34.3"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.5",
+      "length": 159,
+      "noun_count": 13,
+      "verb_count": 8,
+      "persons": [
+        "刘歆",
+        "周公",
+        "桓"
+      ],
+      "prev": "34.4"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.6",
+      "length": 203,
+      "noun_count": 22,
+      "verb_count": 4,
+      "persons": [
+        "桓公",
+        "文姜",
+        "严",
+        "刘向",
+        "董仲舒",
+        "齐襄公"
+      ],
+      "prev": "34.5"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.7",
+      "length": 177,
+      "noun_count": 18,
+      "verb_count": 2,
+      "persons": [
+        "哀姜",
+        "刘向",
+        "宋万",
+        "董仲舒",
+        "愍公"
+      ],
+      "prev": "34.6"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.8",
+      "length": 206,
+      "noun_count": 20,
+      "verb_count": 6,
+      "persons": [
+        "严",
+        "刘向",
+        "宣",
+        "宣公",
+        "子赤",
+        "刘歆",
+        "董仲舒",
+        "玃且"
+      ],
+      "prev": "34.7"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.9",
+      "length": 177,
+      "noun_count": 20,
+      "verb_count": 3,
+      "persons": [
+        "刘向",
+        "董仲舒",
+        "叔孙侨",
+        "成",
+        "仲孙蔑"
+      ],
+      "prev": "34.8"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.10",
+      "length": 186,
+      "noun_count": 17,
+      "verb_count": 7,
+      "persons": [
+        "董仲舒",
+        "襄",
+        "刘向"
+      ],
+      "prev": "34.9"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.11",
+      "length": 214,
+      "noun_count": 31,
+      "verb_count": 3,
+      "persons": [
+        "文帝"
+      ],
+      "prev": "34.10"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.12",
+      "length": 177,
+      "noun_count": 20,
+      "verb_count": 9,
+      "persons": [
+        "新垣平"
+      ],
+      "prev": "34.11"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.13",
+      "length": 160,
+      "noun_count": 19,
+      "verb_count": 7,
+      "persons": [
+        "公主",
+        "元帝"
+      ],
+      "prev": "34.12"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.14",
+      "length": 191,
+      "noun_count": 24,
+      "verb_count": 4,
+      "persons": [
+        "孝惠帝",
+        "成帝"
+      ],
+      "prev": "34.13"
+    },
+    {
+      "chapter": "卷027",
+      "title": "五行志第七上",
+      "para": "34.15",
+      "length": 96,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [],
+      "prev": "34.14"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    },
+    {
+      "from": "17",
+      "to": "18.1",
+      "relation": "next"
+    },
+    {
+      "from": "18.1",
+      "to": "18.2",
+      "relation": "next"
+    },
+    {
+      "from": "18.2",
+      "to": "18.3",
+      "relation": "next"
+    },
+    {
+      "from": "18.3",
+      "to": "18.4",
+      "relation": "next"
+    },
+    {
+      "from": "18.4",
+      "to": "18.5",
+      "relation": "next"
+    },
+    {
+      "from": "18.5",
+      "to": "19",
+      "relation": "next"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "relation": "next"
+    },
+    {
+      "from": "20",
+      "to": "21",
+      "relation": "next"
+    },
+    {
+      "from": "21",
+      "to": "22",
+      "relation": "next"
+    },
+    {
+      "from": "22",
+      "to": "23",
+      "relation": "next"
+    },
+    {
+      "from": "23",
+      "to": "24",
+      "relation": "next"
+    },
+    {
+      "from": "24",
+      "to": "25",
+      "relation": "next"
+    },
+    {
+      "from": "25",
+      "to": "26",
+      "relation": "next"
+    },
+    {
+      "from": "26",
+      "to": "27.1",
+      "relation": "next"
+    },
+    {
+      "from": "27.1",
+      "to": "27.2",
+      "relation": "next"
+    },
+    {
+      "from": "27.2",
+      "to": "27.3",
+      "relation": "next"
+    },
+    {
+      "from": "27.3",
+      "to": "27.4",
+      "relation": "next"
+    },
+    {
+      "from": "27.4",
+      "to": "27.5",
+      "relation": "next"
+    },
+    {
+      "from": "27.5",
+      "to": "27.6",
+      "relation": "next"
+    },
+    {
+      "from": "27.6",
+      "to": "27.7",
+      "relation": "next"
+    },
+    {
+      "from": "27.7",
+      "to": "28.1",
+      "relation": "next"
+    },
+    {
+      "from": "28.1",
+      "to": "28.2",
+      "relation": "next"
+    },
+    {
+      "from": "28.2",
+      "to": "28.3",
+      "relation": "next"
+    },
+    {
+      "from": "28.3",
+      "to": "28.4",
+      "relation": "next"
+    },
+    {
+      "from": "28.4",
+      "to": "28.5",
+      "relation": "next"
+    },
+    {
+      "from": "28.5",
+      "to": "28.6",
+      "relation": "next"
+    },
+    {
+      "from": "28.6",
+      "to": "28.7",
+      "relation": "next"
+    },
+    {
+      "from": "28.7",
+      "to": "28.8",
+      "relation": "next"
+    },
+    {
+      "from": "28.8",
+      "to": "28.9",
+      "relation": "next"
+    },
+    {
+      "from": "28.9",
+      "to": "28.10",
+      "relation": "next"
+    },
+    {
+      "from": "28.10",
+      "to": "28.11",
+      "relation": "next"
+    },
+    {
+      "from": "28.11",
+      "to": "28.12",
+      "relation": "next"
+    },
+    {
+      "from": "28.12",
+      "to": "28.13",
+      "relation": "next"
+    },
+    {
+      "from": "28.13",
+      "to": "28.14",
+      "relation": "next"
+    },
+    {
+      "from": "28.14",
+      "to": "28.15",
+      "relation": "next"
+    },
+    {
+      "from": "28.15",
+      "to": "28.16",
+      "relation": "next"
+    },
+    {
+      "from": "28.16",
+      "to": "28.17",
+      "relation": "next"
+    },
+    {
+      "from": "28.17",
+      "to": "28.18",
+      "relation": "next"
+    },
+    {
+      "from": "28.18",
+      "to": "28.19",
+      "relation": "next"
+    },
+    {
+      "from": "28.19",
+      "to": "29",
+      "relation": "next"
+    },
+    {
+      "from": "29",
+      "to": "30",
+      "relation": "next"
+    },
+    {
+      "from": "30",
+      "to": "31",
+      "relation": "next"
+    },
+    {
+      "from": "31",
+      "to": "32.1",
+      "relation": "next"
+    },
+    {
+      "from": "32.1",
+      "to": "32.2",
+      "relation": "next"
+    },
+    {
+      "from": "32.2",
+      "to": "32.3",
+      "relation": "next"
+    },
+    {
+      "from": "32.3",
+      "to": "32.4",
+      "relation": "next"
+    },
+    {
+      "from": "32.4",
+      "to": "32.5",
+      "relation": "next"
+    },
+    {
+      "from": "32.5",
+      "to": "32.6",
+      "relation": "next"
+    },
+    {
+      "from": "32.6",
+      "to": "33",
+      "relation": "next"
+    },
+    {
+      "from": "33",
+      "to": "34.1",
+      "relation": "next"
+    },
+    {
+      "from": "34.1",
+      "to": "34.2",
+      "relation": "next"
+    },
+    {
+      "from": "34.2",
+      "to": "34.3",
+      "relation": "next"
+    },
+    {
+      "from": "34.3",
+      "to": "34.4",
+      "relation": "next"
+    },
+    {
+      "from": "34.4",
+      "to": "34.5",
+      "relation": "next"
+    },
+    {
+      "from": "34.5",
+      "to": "34.6",
+      "relation": "next"
+    },
+    {
+      "from": "34.6",
+      "to": "34.7",
+      "relation": "next"
+    },
+    {
+      "from": "34.7",
+      "to": "34.8",
+      "relation": "next"
+    },
+    {
+      "from": "34.8",
+      "to": "34.9",
+      "relation": "next"
+    },
+    {
+      "from": "34.9",
+      "to": "34.10",
+      "relation": "next"
+    },
+    {
+      "from": "34.10",
+      "to": "34.11",
+      "relation": "next"
+    },
+    {
+      "from": "34.11",
+      "to": "34.12",
+      "relation": "next"
+    },
+    {
+      "from": "34.12",
+      "to": "34.13",
+      "relation": "next"
+    },
+    {
+      "from": "34.13",
+      "to": "34.14",
+      "relation": "next"
+    },
+    {
+      "from": "34.14",
+      "to": "34.15",
+      "relation": "next"
+    }
+  ]
+}

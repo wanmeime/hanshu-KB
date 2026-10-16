@@ -1,0 +1,836 @@
+{
+  "chapter": "卷012",
+  "title": "平帝纪第十二",
+  "paragraphs": [
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "0",
+      "length": 6,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "1",
+      "length": 340,
+      "noun_count": 40,
+      "verb_count": 4,
+      "persons": [
+        "贤",
+        "左咸",
+        "孝平皇帝",
+        "卫姬",
+        "哀帝皇后傅氏",
+        "元帝",
+        "王舜",
+        "王葬",
+        "傅晏",
+        "董恭"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "2",
+      "length": 245,
+      "noun_count": 8,
+      "verb_count": 1,
+      "persons": [
+        "莽"
+      ],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "3",
+      "length": 58,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "4",
+      "length": 94,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [
+        "孔光",
+        "周公",
+        "莽"
+      ],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "5",
+      "length": 518,
+      "noun_count": 51,
+      "verb_count": 2,
+      "persons": [
+        "任岑",
+        "刘不恶",
+        "东平王云",
+        "王恽",
+        "姚恂",
+        "孔永",
+        "宣帝",
+        "成都",
+        "石诩",
+        "开明"
+      ],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "6",
+      "length": 60,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "7",
+      "length": 55,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "8",
+      "length": 59,
+      "noun_count": 5,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "9",
+      "length": 109,
+      "noun_count": 12,
+      "verb_count": 1,
+      "persons": [
+        "宝弟玄",
+        "卫宝",
+        "中山孝王姬",
+        "中山孝王后",
+        "丰"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "10",
+      "length": 71,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [
+        "周公",
+        "孔子",
+        "孔均",
+        "公孙相如",
+        "褒成宣尼公"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "11",
+      "length": 19,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "10"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "12",
+      "length": 91,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "13",
+      "length": 42,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "14",
+      "length": 15,
+      "noun_count": 1,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "15",
+      "length": 28,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "中山孝王后"
+      ],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "16",
+      "length": 20,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "17",
+      "length": 57,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "光"
+      ],
+      "prev": "16"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "18",
+      "length": 253,
+      "noun_count": 30,
+      "verb_count": 2,
+      "persons": [
+        "张敖",
+        "宫",
+        "代孝王",
+        "郦明友",
+        "广川惠王",
+        "郦商",
+        "章",
+        "樊哙",
+        "如意",
+        "周勃"
+      ],
+      "prev": "17"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "19",
+      "length": 312,
+      "noun_count": 33,
+      "verb_count": 2,
+      "persons": [],
+      "prev": "18"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "20",
+      "length": 28,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "19"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "21",
+      "length": 28,
+      "noun_count": 2,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "20"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "22",
+      "length": 29,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "21"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "23",
+      "length": 98,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "重",
+        "陈茂",
+        "成重"
+      ],
+      "prev": "22"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "24",
+      "length": 21,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "23"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "25",
+      "length": 104,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "刘歆",
+        "莽"
+      ],
+      "prev": "24"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "26",
+      "length": 127,
+      "noun_count": 13,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "25"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "27",
+      "length": 54,
+      "noun_count": 5,
+      "verb_count": 2,
+      "persons": [
+        "任横"
+      ],
+      "prev": "26"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "28",
+      "length": 48,
+      "noun_count": 5,
+      "verb_count": 1,
+      "persons": [
+        "宇"
+      ],
+      "prev": "27"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "29",
+      "length": 41,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "孝文"
+      ],
+      "prev": "28"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "30",
+      "length": 29,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "29"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "31",
+      "length": 166,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "30"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "32",
+      "length": 31,
+      "noun_count": 3,
+      "verb_count": 2,
+      "persons": [
+        "王氏"
+      ],
+      "prev": "31"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "33",
+      "length": 36,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "王恽"
+      ],
+      "prev": "32"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "34",
+      "length": 66,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "33"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "35",
+      "length": 81,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "临",
+        "安"
+      ],
+      "prev": "34"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "36",
+      "length": 66,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [],
+      "prev": "35"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "37",
+      "length": 17,
+      "noun_count": 1,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "36"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "38",
+      "length": 21,
+      "noun_count": 2,
+      "verb_count": 1,
+      "persons": [
+        "立"
+      ],
+      "prev": "37"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "39",
+      "length": 85,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "38"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "40",
+      "length": 24,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "39"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "41",
+      "length": 12,
+      "noun_count": 2,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "40"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "42",
+      "length": 75,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "41"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "43",
+      "length": 287,
+      "noun_count": 23,
+      "verb_count": 0,
+      "persons": [
+        "楚元",
+        "太祖高皇帝",
+        "舜",
+        "吴顷",
+        "太上皇",
+        "尧"
+      ],
+      "prev": "42"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "44",
+      "length": 103,
+      "noun_count": 14,
+      "verb_count": 1,
+      "persons": [
+        "王恽",
+        "刘歆",
+        "周公",
+        "文王"
+      ],
+      "prev": "43"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "45",
+      "length": 107,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "44"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "46",
+      "length": 31,
+      "noun_count": 3,
+      "verb_count": 1,
+      "persons": [
+        "音",
+        "梁孝王"
+      ],
+      "prev": "45"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "47",
+      "length": 143,
+      "noun_count": 8,
+      "verb_count": 1,
+      "persons": [
+        "孝文"
+      ],
+      "prev": "46"
+    },
+    {
+      "chapter": "卷012",
+      "title": "平帝纪第十二",
+      "para": "48",
+      "length": 86,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "莽",
+        "孝平"
+      ],
+      "prev": "47"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    },
+    {
+      "from": "17",
+      "to": "18",
+      "relation": "next"
+    },
+    {
+      "from": "18",
+      "to": "19",
+      "relation": "next"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "relation": "next"
+    },
+    {
+      "from": "20",
+      "to": "21",
+      "relation": "next"
+    },
+    {
+      "from": "21",
+      "to": "22",
+      "relation": "next"
+    },
+    {
+      "from": "22",
+      "to": "23",
+      "relation": "next"
+    },
+    {
+      "from": "23",
+      "to": "24",
+      "relation": "next"
+    },
+    {
+      "from": "24",
+      "to": "25",
+      "relation": "next"
+    },
+    {
+      "from": "25",
+      "to": "26",
+      "relation": "next"
+    },
+    {
+      "from": "26",
+      "to": "27",
+      "relation": "next"
+    },
+    {
+      "from": "27",
+      "to": "28",
+      "relation": "next"
+    },
+    {
+      "from": "28",
+      "to": "29",
+      "relation": "next"
+    },
+    {
+      "from": "29",
+      "to": "30",
+      "relation": "next"
+    },
+    {
+      "from": "30",
+      "to": "31",
+      "relation": "next"
+    },
+    {
+      "from": "31",
+      "to": "32",
+      "relation": "next"
+    },
+    {
+      "from": "32",
+      "to": "33",
+      "relation": "next"
+    },
+    {
+      "from": "33",
+      "to": "34",
+      "relation": "next"
+    },
+    {
+      "from": "34",
+      "to": "35",
+      "relation": "next"
+    },
+    {
+      "from": "35",
+      "to": "36",
+      "relation": "next"
+    },
+    {
+      "from": "36",
+      "to": "37",
+      "relation": "next"
+    },
+    {
+      "from": "37",
+      "to": "38",
+      "relation": "next"
+    },
+    {
+      "from": "38",
+      "to": "39",
+      "relation": "next"
+    },
+    {
+      "from": "39",
+      "to": "40",
+      "relation": "next"
+    },
+    {
+      "from": "40",
+      "to": "41",
+      "relation": "next"
+    },
+    {
+      "from": "41",
+      "to": "42",
+      "relation": "next"
+    },
+    {
+      "from": "42",
+      "to": "43",
+      "relation": "next"
+    },
+    {
+      "from": "43",
+      "to": "44",
+      "relation": "next"
+    },
+    {
+      "from": "44",
+      "to": "45",
+      "relation": "next"
+    },
+    {
+      "from": "45",
+      "to": "46",
+      "relation": "next"
+    },
+    {
+      "from": "46",
+      "to": "47",
+      "relation": "next"
+    },
+    {
+      "from": "47",
+      "to": "48",
+      "relation": "next"
+    }
+  ]
+}

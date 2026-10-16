@@ -1,0 +1,44 @@
+{
+  "chapter": "卷020",
+  "title": "古今人表第八",
+  "paragraphs": [
+    {
+      "chapter": "卷020",
+      "title": "古今人表第八",
+      "para": "0",
+      "length": 6,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷020",
+      "title": "古今人表第八",
+      "para": "1",
+      "length": 377,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "比干",
+        "禼",
+        "龙逢",
+        "于莘",
+        "竖貂",
+        "禹",
+        "讙兜",
+        "唐虞",
+        "孔子",
+        "鮌"
+      ],
+      "prev": "0"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    }
+  ]
+}

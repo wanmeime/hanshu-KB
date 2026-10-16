@@ -1,0 +1,289 @@
+{
+  "建元": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -140,
+    "end_ce": -135,
+    "duration": 6
+  },
+  "元光": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -134,
+    "end_ce": -129,
+    "duration": 6
+  },
+  "元朔": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -128,
+    "end_ce": -123,
+    "duration": 6
+  },
+  "元狩": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -122,
+    "end_ce": -117,
+    "duration": 6
+  },
+  "元鼎": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -116,
+    "end_ce": -111,
+    "duration": 6
+  },
+  "元封": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -110,
+    "end_ce": -105,
+    "duration": 6
+  },
+  "太初": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -104,
+    "end_ce": -101,
+    "duration": 4
+  },
+  "天汉": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -100,
+    "end_ce": -97,
+    "duration": 4
+  },
+  "太始": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -96,
+    "end_ce": -93,
+    "duration": 4
+  },
+  "征和": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -92,
+    "end_ce": -89,
+    "duration": 4
+  },
+  "后元": {
+    "ruler": "汉武帝",
+    "state": "汉",
+    "start_ce": -88,
+    "end_ce": -87,
+    "duration": 2
+  },
+  "始元": {
+    "ruler": "汉昭帝",
+    "state": "汉",
+    "start_ce": -86,
+    "end_ce": -81,
+    "duration": 6
+  },
+  "元凤": {
+    "ruler": "汉昭帝",
+    "state": "汉",
+    "start_ce": -80,
+    "end_ce": -75,
+    "duration": 6
+  },
+  "元平": {
+    "ruler": "汉昭帝",
+    "state": "汉",
+    "start_ce": -74,
+    "end_ce": -74,
+    "duration": 1
+  },
+  "本始": {
+    "ruler": "汉宣帝",
+    "state": "汉",
+    "start_ce": -73,
+    "end_ce": -70,
+    "duration": 4
+  },
+  "地节": {
+    "ruler": "汉宣帝",
+    "state": "汉",
+    "start_ce": -69,
+    "end_ce": -66,
+    "duration": 4
+  },
+  "元康": {
+    "ruler": "汉宣帝",
+    "state": "汉",
+    "start_ce": -65,
+    "end_ce": -62,
+    "duration": 4
+  },
+  "神爵": {
+    "ruler": "汉宣帝",
+    "state": "汉",
+    "start_ce": -61,
+    "end_ce": -58,
+    "duration": 4
+  },
+  "五凤": {
+    "ruler": "汉宣帝",
+    "state": "汉",
+    "start_ce": -57,
+    "end_ce": -54,
+    "duration": 4
+  },
+  "甘露": {
+    "ruler": "汉宣帝",
+    "state": "汉",
+    "start_ce": -53,
+    "end_ce": -50,
+    "duration": 4
+  },
+  "黄龙": {
+    "ruler": "汉宣帝",
+    "state": "汉",
+    "start_ce": -49,
+    "end_ce": -49,
+    "duration": 1
+  },
+  "初元": {
+    "ruler": "汉元帝",
+    "state": "汉",
+    "start_ce": -48,
+    "end_ce": -44,
+    "duration": 5
+  },
+  "永光": {
+    "ruler": "汉元帝",
+    "state": "汉",
+    "start_ce": -43,
+    "end_ce": -39,
+    "duration": 5
+  },
+  "建昭": {
+    "ruler": "汉元帝",
+    "state": "汉",
+    "start_ce": -38,
+    "end_ce": -34,
+    "duration": 5
+  },
+  "竟宁": {
+    "ruler": "汉元帝",
+    "state": "汉",
+    "start_ce": -33,
+    "end_ce": -33,
+    "duration": 1
+  },
+  "建始": {
+    "ruler": "汉成帝",
+    "state": "汉",
+    "start_ce": -32,
+    "end_ce": -29,
+    "duration": 4
+  },
+  "河平": {
+    "ruler": "汉成帝",
+    "state": "汉",
+    "start_ce": -28,
+    "end_ce": -25,
+    "duration": 4
+  },
+  "阳朔": {
+    "ruler": "汉成帝",
+    "state": "汉",
+    "start_ce": -24,
+    "end_ce": -21,
+    "duration": 4
+  },
+  "鸿嘉": {
+    "ruler": "汉成帝",
+    "state": "汉",
+    "start_ce": -20,
+    "end_ce": -17,
+    "duration": 4
+  },
+  "永始": {
+    "ruler": "汉成帝",
+    "state": "汉",
+    "start_ce": -16,
+    "end_ce": -13,
+    "duration": 4
+  },
+  "元延": {
+    "ruler": "汉成帝",
+    "state": "汉",
+    "start_ce": -12,
+    "end_ce": -9,
+    "duration": 4
+  },
+  "绥和": {
+    "ruler": "汉成帝",
+    "state": "汉",
+    "start_ce": -8,
+    "end_ce": -7,
+    "duration": 2
+  },
+  "建平": {
+    "ruler": "汉哀帝",
+    "state": "汉",
+    "start_ce": -6,
+    "end_ce": -3,
+    "duration": 4
+  },
+  "元寿": {
+    "ruler": "汉哀帝",
+    "state": "汉",
+    "start_ce": -2,
+    "end_ce": -1,
+    "duration": 2
+  },
+  "元始": {
+    "ruler": "汉平帝",
+    "state": "汉",
+    "start_ce": 1,
+    "end_ce": 5,
+    "duration": 5
+  },
+  "居摄": {
+    "ruler": "孺子婴",
+    "state": "汉",
+    "start_ce": 6,
+    "end_ce": 8,
+    "duration": 3
+  },
+  "初始": {
+    "ruler": "孺子婴",
+    "state": "汉",
+    "start_ce": 8,
+    "end_ce": 8,
+    "duration": 1
+  },
+  "始建国": {
+    "ruler": "王莽",
+    "state": "新",
+    "start_ce": 9,
+    "end_ce": 13,
+    "duration": 5
+  },
+  "天凤": {
+    "ruler": "王莽",
+    "state": "新",
+    "start_ce": 14,
+    "end_ce": 19,
+    "duration": 6
+  },
+  "地皇": {
+    "ruler": "王莽",
+    "state": "新",
+    "start_ce": 20,
+    "end_ce": 23,
+    "duration": 4
+  },
+  "更始": {
+    "ruler": "更始帝",
+    "state": "汉",
+    "start_ce": 23,
+    "end_ce": 25,
+    "duration": 3
+  }
+}

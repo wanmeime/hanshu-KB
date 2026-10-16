@@ -1,0 +1,751 @@
+{
+  "chapter": "卷032",
+  "title": "张耳陈馀传第二",
+  "paragraphs": [
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "0",
+      "length": 7,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.1",
+      "length": 178,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "张耳",
+        "魏公子毋忌",
+        "陈馀",
+        "耳"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.2",
+      "length": 197,
+      "noun_count": 18,
+      "verb_count": 2,
+      "persons": [
+        "高祖",
+        "耳",
+        "馀"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.3",
+      "length": 195,
+      "noun_count": 18,
+      "verb_count": 2,
+      "persons": [
+        "陈涉",
+        "涉",
+        "耳",
+        "馀"
+      ],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.4",
+      "length": 185,
+      "noun_count": 16,
+      "verb_count": 3,
+      "persons": [
+        "涉",
+        "耳",
+        "馀"
+      ],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.5",
+      "length": 163,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "武臣",
+        "耳",
+        "馀"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.6",
+      "length": 152,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "周文",
+        "吴广"
+      ],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.7",
+      "length": 141,
+      "noun_count": 16,
+      "verb_count": 2,
+      "persons": [
+        "徐公",
+        "蒯通",
+        "武信君"
+      ],
+      "prev": "1.6"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.8",
+      "length": 175,
+      "noun_count": 18,
+      "verb_count": 1,
+      "persons": [
+        "周章",
+        "耳",
+        "馀",
+        "武臣"
+      ],
+      "prev": "1.7"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.9",
+      "length": 207,
+      "noun_count": 21,
+      "verb_count": 6,
+      "persons": [
+        "敖",
+        "房君",
+        "馀",
+        "武臣",
+        "耳"
+      ],
+      "prev": "1.8"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.10",
+      "length": 190,
+      "noun_count": 21,
+      "verb_count": 1,
+      "persons": [
+        "韩广",
+        "耳馀",
+        "武臣",
+        "李良",
+        "张黡"
+      ],
+      "prev": "1.9"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.11",
+      "length": 195,
+      "noun_count": 18,
+      "verb_count": 2,
+      "persons": [
+        "厮养卒",
+        "韩广",
+        "馀",
+        "耳",
+        "广"
+      ],
+      "prev": "1.10"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.12",
+      "length": 133,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "张耳",
+        "除馀",
+        "陈馀",
+        "武臣"
+      ],
+      "prev": "1.11"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.13",
+      "length": 135,
+      "noun_count": 4,
+      "verb_count": 4,
+      "persons": [
+        "武臣"
+      ],
+      "prev": "1.12"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.14",
+      "length": 172,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "李良",
+        "二世",
+        "良"
+      ],
+      "prev": "1.13"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.15",
+      "length": 141,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "王姊",
+        "良"
+      ],
+      "prev": "1.14"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.16",
+      "length": 186,
+      "noun_count": 15,
+      "verb_count": 4,
+      "persons": [
+        "馀",
+        "王姊",
+        "良",
+        "耳",
+        "武臣",
+        "赵歇"
+      ],
+      "prev": "1.15"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.17",
+      "length": 221,
+      "noun_count": 25,
+      "verb_count": 7,
+      "persons": [
+        "歇",
+        "馀",
+        "良",
+        "耳",
+        "王离",
+        "李良",
+        "章邯"
+      ],
+      "prev": "1.16"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.18",
+      "length": 197,
+      "noun_count": 19,
+      "verb_count": 0,
+      "persons": [
+        "陈释",
+        "馀",
+        "张君",
+        "耳",
+        "张黡"
+      ],
+      "prev": "1.17"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.19",
+      "length": 153,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [
+        "张敖",
+        "张黡",
+        "陈释",
+        "馀"
+      ],
+      "prev": "1.18"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.20",
+      "length": 226,
+      "noun_count": 24,
+      "verb_count": 4,
+      "persons": [
+        "陈释",
+        "歇",
+        "黡",
+        "馀",
+        "张耳",
+        "项羽",
+        "耳",
+        "王离",
+        "释",
+        "张黡"
+      ],
+      "prev": "1.19"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.21",
+      "length": 121,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [
+        "馀"
+      ],
+      "prev": "1.20"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.22",
+      "length": 186,
+      "noun_count": 20,
+      "verb_count": 2,
+      "persons": [
+        "歇",
+        "馀",
+        "张耳",
+        "项羽",
+        "陈馀",
+        "耳"
+      ],
+      "prev": "1.21"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.23",
+      "length": 158,
+      "noun_count": 13,
+      "verb_count": 1,
+      "persons": [
+        "夏说",
+        "歇",
+        "项羽",
+        "耳",
+        "田荣",
+        "羽"
+      ],
+      "prev": "1.22"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.24",
+      "length": 186,
+      "noun_count": 17,
+      "verb_count": 4,
+      "persons": [
+        "田荣",
+        "项王",
+        "甘公",
+        "耳"
+      ],
+      "prev": "1.23"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.25",
+      "length": 185,
+      "noun_count": 20,
+      "verb_count": 4,
+      "persons": [
+        "夏说",
+        "章邯",
+        "耳"
+      ],
+      "prev": "1.24"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.26",
+      "length": 199,
+      "noun_count": 19,
+      "verb_count": 6,
+      "persons": [
+        "敖",
+        "歇",
+        "韩信",
+        "高祖",
+        "耳",
+        "鲁元公主",
+        "景王"
+      ],
+      "prev": "1.25"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.27",
+      "length": 148,
+      "noun_count": 12,
+      "verb_count": 1,
+      "persons": [
+        "高祖",
+        "敖",
+        "贯高",
+        "赵午"
+      ],
+      "prev": "1.26"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.28",
+      "length": 147,
+      "noun_count": 7,
+      "verb_count": 1,
+      "persons": [
+        "敖",
+        "贯高",
+        "先王"
+      ],
+      "prev": "1.27"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.29",
+      "length": 138,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "贯高",
+        "赵午"
+      ],
+      "prev": "1.28"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.30",
+      "length": 155,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [
+        "张敖",
+        "贯高",
+        "鲁元",
+        "吕后",
+        "高",
+        "张王"
+      ],
+      "prev": "1.29"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.31",
+      "length": 150,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "张王",
+        "泄公",
+        "卬",
+        "高"
+      ],
+      "prev": "1.30"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.32",
+      "length": 159,
+      "noun_count": 8,
+      "verb_count": 1,
+      "persons": [
+        "张王",
+        "泄公",
+        "高"
+      ],
+      "prev": "1.31"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.33",
+      "length": 191,
+      "noun_count": 20,
+      "verb_count": 1,
+      "persons": [
+        "敖",
+        "孝惠",
+        "张王",
+        "景",
+        "文",
+        "鲁元太后",
+        "齐悼惠王",
+        "鲁元公主",
+        "高后"
+      ],
+      "prev": "1.32"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.34",
+      "length": 226,
+      "noun_count": 25,
+      "verb_count": 5,
+      "persons": [
+        "敖",
+        "吕太后",
+        "侈",
+        "寿",
+        "武帝",
+        "偃",
+        "高后",
+        "孝文",
+        "生"
+      ],
+      "prev": "1.33"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.35",
+      "length": 196,
+      "noun_count": 16,
+      "verb_count": 3,
+      "persons": [
+        "敖",
+        "昌",
+        "广国",
+        "张耳",
+        "陈馀",
+        "庆忌",
+        "孝平",
+        "偃"
+      ],
+      "prev": "1.34"
+    },
+    {
+      "chapter": "卷032",
+      "title": "张耳陈馀传第二",
+      "para": "1.36",
+      "length": 41,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1.35"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "1.6",
+      "relation": "next"
+    },
+    {
+      "from": "1.6",
+      "to": "1.7",
+      "relation": "next"
+    },
+    {
+      "from": "1.7",
+      "to": "1.8",
+      "relation": "next"
+    },
+    {
+      "from": "1.8",
+      "to": "1.9",
+      "relation": "next"
+    },
+    {
+      "from": "1.9",
+      "to": "1.10",
+      "relation": "next"
+    },
+    {
+      "from": "1.10",
+      "to": "1.11",
+      "relation": "next"
+    },
+    {
+      "from": "1.11",
+      "to": "1.12",
+      "relation": "next"
+    },
+    {
+      "from": "1.12",
+      "to": "1.13",
+      "relation": "next"
+    },
+    {
+      "from": "1.13",
+      "to": "1.14",
+      "relation": "next"
+    },
+    {
+      "from": "1.14",
+      "to": "1.15",
+      "relation": "next"
+    },
+    {
+      "from": "1.15",
+      "to": "1.16",
+      "relation": "next"
+    },
+    {
+      "from": "1.16",
+      "to": "1.17",
+      "relation": "next"
+    },
+    {
+      "from": "1.17",
+      "to": "1.18",
+      "relation": "next"
+    },
+    {
+      "from": "1.18",
+      "to": "1.19",
+      "relation": "next"
+    },
+    {
+      "from": "1.19",
+      "to": "1.20",
+      "relation": "next"
+    },
+    {
+      "from": "1.20",
+      "to": "1.21",
+      "relation": "next"
+    },
+    {
+      "from": "1.21",
+      "to": "1.22",
+      "relation": "next"
+    },
+    {
+      "from": "1.22",
+      "to": "1.23",
+      "relation": "next"
+    },
+    {
+      "from": "1.23",
+      "to": "1.24",
+      "relation": "next"
+    },
+    {
+      "from": "1.24",
+      "to": "1.25",
+      "relation": "next"
+    },
+    {
+      "from": "1.25",
+      "to": "1.26",
+      "relation": "next"
+    },
+    {
+      "from": "1.26",
+      "to": "1.27",
+      "relation": "next"
+    },
+    {
+      "from": "1.27",
+      "to": "1.28",
+      "relation": "next"
+    },
+    {
+      "from": "1.28",
+      "to": "1.29",
+      "relation": "next"
+    },
+    {
+      "from": "1.29",
+      "to": "1.30",
+      "relation": "next"
+    },
+    {
+      "from": "1.30",
+      "to": "1.31",
+      "relation": "next"
+    },
+    {
+      "from": "1.31",
+      "to": "1.32",
+      "relation": "next"
+    },
+    {
+      "from": "1.32",
+      "to": "1.33",
+      "relation": "next"
+    },
+    {
+      "from": "1.33",
+      "to": "1.34",
+      "relation": "next"
+    },
+    {
+      "from": "1.34",
+      "to": "1.35",
+      "relation": "next"
+    },
+    {
+      "from": "1.35",
+      "to": "1.36",
+      "relation": "next"
+    }
+  ]
+}

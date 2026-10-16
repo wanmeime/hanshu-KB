@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "total_nouns": 131887,
+    "total_verbs": 10966,
+    "total_entities": 31698,
+    "chapters": 120
+  },
+  "vocabularies": {
+    "人名": {
+      "symbol": "@",
+      "count": 8944,
+      "total_occurrences": 38675
+    },
+    "地名": {
+      "symbol": "=",
+      "count": 5387,
+      "total_occurrences": 18000
+    },
+    "官职": {
+      "symbol": ";",
+      "count": 3307,
+      "total_occurrences": 19386
+    },
+    "时间": {
+      "symbol": "%",
+      "count": 2114,
+      "total_occurrences": 11358
+    },
+    "朝代": {
+      "symbol": "&",
+      "count": 192,
+      "total_occurrences": 786
+    },
+    "制度": {
+      "symbol": "^",
+      "count": 849,
+      "total_occurrences": 2369
+    },
+    "族群": {
+      "symbol": "~",
+      "count": 302,
+      "total_occurrences": 2117
+    },
+    "器物": {
+      "symbol": "•",
+      "count": 808,
+      "total_occurrences": 1803
+    },
+    "天文": {
+      "symbol": "!",
+      "count": 501,
+      "total_occurrences": 2234
+    },
+    "身份": {
+      "symbol": "#",
+      "count": 676,
+      "total_occurrences": 5274
+    },
+    "生物": {
+      "symbol": "+",
+      "count": 348,
+      "total_occurrences": 975
+    },
+    "神话": {
+      "symbol": "?",
+      "count": 2652,
+      "total_occurrences": 8137
+    },
+    "典籍": {
+      "symbol": "{",
+      "count": 1360,
+      "total_occurrences": 3281
+    },
+    "礼仪": {
+      "symbol": ":",
+      "count": 267,
+      "total_occurrences": 1147
+    },
+    "刑法": {
+      "symbol": "[",
+      "count": 262,
+      "total_occurrences": 848
+    },
+    "思想": {
+      "symbol": "_",
+      "count": 168,
+      "total_occurrences": 791
+    },
+    "邦国": {
+      "symbol": "◆",
+      "count": 261,
+      "total_occurrences": 6068
+    },
+    "数量": {
+      "symbol": "$",
+      "count": 3300,
+      "total_occurrences": 8638
+    }
+  },
+  "verbs": {
+    "政治": {
+      "symbol": "○",
+      "count": 191,
+      "total_occurrences": 5992
+    },
+    "军事": {
+      "symbol": "◈",
+      "count": 435,
+      "total_occurrences": 3175
+    },
+    "刑罚": {
+      "symbol": "◉",
+      "count": 174,
+      "total_occurrences": 1730
+    },
+    "经济": {
+      "symbol": "◇",
+      "count": 44,
+      "total_occurrences": 69
+    }
+  }
+}

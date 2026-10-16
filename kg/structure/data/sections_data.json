@@ -1,0 +1,842 @@
+{
+  "卷001": {
+    "title": "高帝纪第一上",
+    "para_count": 82,
+    "total_length": 16135,
+    "total_nouns": 1668,
+    "total_verbs": 274
+  },
+  "卷001b": {
+    "title": "高帝纪第一下",
+    "para_count": 70,
+    "total_length": 11241,
+    "total_nouns": 991,
+    "total_verbs": 146
+  },
+  "卷002": {
+    "title": "惠帝纪第二",
+    "para_count": 31,
+    "total_length": 1678,
+    "total_nouns": 201,
+    "total_verbs": 5
+  },
+  "卷003": {
+    "title": "高后纪第三",
+    "para_count": 18,
+    "total_length": 3522,
+    "total_nouns": 364,
+    "total_verbs": 38
+  },
+  "卷004": {
+    "title": "文帝纪第四",
+    "para_count": 87,
+    "total_length": 9222,
+    "total_nouns": 824,
+    "total_verbs": 61
+  },
+  "卷005": {
+    "title": "景帝纪第五",
+    "para_count": 83,
+    "total_length": 4737,
+    "total_nouns": 440,
+    "total_verbs": 38
+  },
+  "卷006": {
+    "title": "武帝纪第六",
+    "para_count": 90,
+    "total_length": 15142,
+    "total_nouns": 1617,
+    "total_verbs": 133
+  },
+  "卷007": {
+    "title": "昭帝纪第七",
+    "para_count": 67,
+    "total_length": 5038,
+    "total_nouns": 523,
+    "total_verbs": 52
+  },
+  "卷008": {
+    "title": "宣帝纪第八",
+    "para_count": 147,
+    "total_length": 12380,
+    "total_nouns": 1181,
+    "total_verbs": 72
+  },
+  "卷009": {
+    "title": "元帝纪第九",
+    "para_count": 82,
+    "total_length": 6765,
+    "total_nouns": 552,
+    "total_verbs": 32
+  },
+  "卷010": {
+    "title": "成帝纪第十",
+    "para_count": 115,
+    "total_length": 8403,
+    "total_nouns": 792,
+    "total_verbs": 58
+  },
+  "卷011": {
+    "title": "哀帝纪第十一",
+    "para_count": 28,
+    "total_length": 4271,
+    "total_nouns": 418,
+    "total_verbs": 27
+  },
+  "卷012": {
+    "title": "平帝纪第十二",
+    "para_count": 49,
+    "total_length": 4496,
+    "total_nouns": 442,
+    "total_verbs": 30
+  },
+  "卷013": {
+    "title": "异姓诸侯王表第一",
+    "para_count": 3,
+    "total_length": 1119,
+    "total_nouns": 214,
+    "total_verbs": 0
+  },
+  "卷014": {
+    "title": "诸侯王表第二",
+    "para_count": 12,
+    "total_length": 2099,
+    "total_nouns": 203,
+    "total_verbs": 7
+  },
+  "卷015": {
+    "title": "王子侯表第三上",
+    "para_count": 7,
+    "total_length": 149,
+    "total_nouns": 4,
+    "total_verbs": 0
+  },
+  "卷015b": {
+    "title": "王子侯表第三下",
+    "para_count": 8,
+    "total_length": 112,
+    "total_nouns": 6,
+    "total_verbs": 0
+  },
+  "卷016": {
+    "title": "高惠高后文功臣表第四",
+    "para_count": 15,
+    "total_length": 1151,
+    "total_nouns": 0,
+    "total_verbs": 0
+  },
+  "卷017": {
+    "title": "景武昭宣元成功臣表第五",
+    "para_count": 7,
+    "total_length": 563,
+    "total_nouns": 0,
+    "total_verbs": 0
+  },
+  "卷018": {
+    "title": "外戚恩泽侯表第六",
+    "para_count": 14,
+    "total_length": 626,
+    "total_nouns": 0,
+    "total_verbs": 0
+  },
+  "卷019": {
+    "title": "百官公卿表第七上",
+    "para_count": 46,
+    "total_length": 7605,
+    "total_nouns": 856,
+    "total_verbs": 0
+  },
+  "卷019b": {
+    "title": "百官公卿表第七下",
+    "para_count": 13,
+    "total_length": 128,
+    "total_nouns": 0,
+    "total_verbs": 0
+  },
+  "卷020": {
+    "title": "古今人表第八",
+    "para_count": 2,
+    "total_length": 383,
+    "total_nouns": 16,
+    "total_verbs": 0
+  },
+  "卷021": {
+    "title": "律历志第一上",
+    "para_count": 65,
+    "total_length": 13575,
+    "total_nouns": 1285,
+    "total_verbs": 5
+  },
+  "卷021b": {
+    "title": "律历志第一下",
+    "para_count": 474,
+    "total_length": 20142,
+    "total_nouns": 2316,
+    "total_verbs": 6
+  },
+  "卷022": {
+    "title": "礼乐志第二",
+    "para_count": 115,
+    "total_length": 10074,
+    "total_nouns": 272,
+    "total_verbs": 0
+  },
+  "卷023": {
+    "title": "刑法志第三",
+    "para_count": 56,
+    "total_length": 11481,
+    "total_nouns": 943,
+    "total_verbs": 1
+  },
+  "卷024": {
+    "title": "食货志第四上",
+    "para_count": 31,
+    "total_length": 9357,
+    "total_nouns": 692,
+    "total_verbs": 1
+  },
+  "卷024b": {
+    "title": "食货志第四下",
+    "para_count": 70,
+    "total_length": 12350,
+    "total_nouns": 1012,
+    "total_verbs": 0
+  },
+  "卷025": {
+    "title": "郊祀志第五上",
+    "para_count": 89,
+    "total_length": 17627,
+    "total_nouns": 2002,
+    "total_verbs": 6
+  },
+  "卷025b": {
+    "title": "郊祀志第五下",
+    "para_count": 88,
+    "total_length": 13347,
+    "total_nouns": 1333,
+    "total_verbs": 0
+  },
+  "卷026": {
+    "title": "天文志第六",
+    "para_count": 158,
+    "total_length": 20870,
+    "total_nouns": 1882,
+    "total_verbs": 0
+  },
+  "卷027": {
+    "title": "五行志第七上",
+    "para_count": 82,
+    "total_length": 15251,
+    "total_nouns": 1499,
+    "total_verbs": 192
+  },
+  "卷027b": {
+    "title": "五行志第七中之上",
+    "para_count": 109,
+    "total_length": 20825,
+    "total_nouns": 1940,
+    "total_verbs": 250
+  },
+  "卷027c": {
+    "title": "五行志第七中之下",
+    "para_count": 92,
+    "total_length": 15243,
+    "total_nouns": 1202,
+    "total_verbs": 427
+  },
+  "卷027d": {
+    "title": "五行志第七下之上",
+    "para_count": 73,
+    "total_length": 13387,
+    "total_nouns": 737,
+    "total_verbs": 64
+  },
+  "卷027e": {
+    "title": "五行志第七下之下",
+    "para_count": 109,
+    "total_length": 17286,
+    "total_nouns": 1417,
+    "total_verbs": 332
+  },
+  "卷028": {
+    "title": "地理志第八上",
+    "para_count": 174,
+    "total_length": 32706,
+    "total_nouns": 4388,
+    "total_verbs": 0
+  },
+  "卷028b": {
+    "title": "地理志第八下",
+    "para_count": 136,
+    "total_length": 29102,
+    "total_nouns": 3624,
+    "total_verbs": 0
+  },
+  "卷029": {
+    "title": "沟洫志第九",
+    "para_count": 60,
+    "total_length": 9040,
+    "total_nouns": 799,
+    "total_verbs": 8
+  },
+  "卷030": {
+    "title": "艺文志第十",
+    "para_count": 576,
+    "total_length": 23696,
+    "total_nouns": 2502,
+    "total_verbs": 0
+  },
+  "卷031": {
+    "title": "陈胜项籍传第一",
+    "para_count": 102,
+    "total_length": 18179,
+    "total_nouns": 1847,
+    "total_verbs": 0
+  },
+  "卷032": {
+    "title": "张耳陈馀传第二",
+    "para_count": 37,
+    "total_length": 6135,
+    "total_nouns": 529,
+    "total_verbs": 71
+  },
+  "卷033": {
+    "title": "魏豹田儋韩王信传第三",
+    "para_count": 37,
+    "total_length": 6811,
+    "total_nouns": 675,
+    "total_verbs": 131
+  },
+  "卷034": {
+    "title": "韩彭英卢吴传第四",
+    "para_count": 102,
+    "total_length": 17373,
+    "total_nouns": 1549,
+    "total_verbs": 209
+  },
+  "卷035": {
+    "title": "荆燕吴传第五",
+    "para_count": 57,
+    "total_length": 8600,
+    "total_nouns": 729,
+    "total_verbs": 72
+  },
+  "卷036": {
+    "title": "楚元王传第六",
+    "para_count": 132,
+    "total_length": 18890,
+    "total_nouns": 1344,
+    "total_verbs": 57
+  },
+  "卷037": {
+    "title": "季布栾布田叔传第七",
+    "para_count": 25,
+    "total_length": 3999,
+    "total_nouns": 347,
+    "total_verbs": 40
+  },
+  "卷038": {
+    "title": "高五王传第八",
+    "para_count": 47,
+    "total_length": 7973,
+    "total_nouns": 748,
+    "total_verbs": 104
+  },
+  "卷039": {
+    "title": "萧何曹参传第九",
+    "para_count": 46,
+    "total_length": 7995,
+    "total_nouns": 784,
+    "total_verbs": 98
+  },
+  "卷040": {
+    "title": "张陈王周传第十",
+    "para_count": 114,
+    "total_length": 17956,
+    "total_nouns": 1412,
+    "total_verbs": 161
+  },
+  "卷041": {
+    "title": "樊郦滕灌傅靳周传第十一",
+    "para_count": 61,
+    "total_length": 10883,
+    "total_nouns": 1264,
+    "total_verbs": 75
+  },
+  "卷042": {
+    "title": "张周赵任申屠传第十二",
+    "para_count": 28,
+    "total_length": 4879,
+    "total_nouns": 489,
+    "total_verbs": 38
+  },
+  "卷043": {
+    "title": "郦陆朱刘叔孙传第十三",
+    "para_count": 66,
+    "total_length": 9728,
+    "total_nouns": 711,
+    "total_verbs": 45
+  },
+  "卷044": {
+    "title": "淮南衡山济北王传第十四",
+    "para_count": 66,
+    "total_length": 9472,
+    "total_nouns": 770,
+    "total_verbs": 58
+  },
+  "卷045": {
+    "title": "蒯伍江息夫传第十五",
+    "para_count": 84,
+    "total_length": 10994,
+    "total_nouns": 713,
+    "total_verbs": 40
+  },
+  "卷046": {
+    "title": "万石卫直周张传第十六",
+    "para_count": 28,
+    "total_length": 4224,
+    "total_nouns": 327,
+    "total_verbs": 22
+  },
+  "卷047": {
+    "title": "文三王传第十七",
+    "para_count": 34,
+    "total_length": 5572,
+    "total_nouns": 500,
+    "total_verbs": 56
+  },
+  "卷048": {
+    "title": "贾谊传第十八",
+    "para_count": 101,
+    "total_length": 12457,
+    "total_nouns": 747,
+    "total_verbs": 17
+  },
+  "卷049": {
+    "title": "爰盎晁错传第十九",
+    "para_count": 93,
+    "total_length": 12780,
+    "total_nouns": 759,
+    "total_verbs": 48
+  },
+  "卷050": {
+    "title": "张冯汲郑传第二十",
+    "para_count": 49,
+    "total_length": 7488,
+    "total_nouns": 591,
+    "total_verbs": 32
+  },
+  "卷051": {
+    "title": "贾邹枚路传第二十一",
+    "para_count": 99,
+    "total_length": 13331,
+    "total_nouns": 852,
+    "total_verbs": 41
+  },
+  "卷052": {
+    "title": "窦田灌韩传第二十二",
+    "para_count": 75,
+    "total_length": 11763,
+    "total_nouns": 945,
+    "total_verbs": 51
+  },
+  "卷053": {
+    "title": "景十三王传第二十三",
+    "para_count": 68,
+    "total_length": 12046,
+    "total_nouns": 936,
+    "total_verbs": 179
+  },
+  "卷054": {
+    "title": "李广苏建传第二十四",
+    "para_count": 85,
+    "total_length": 14539,
+    "total_nouns": 1325,
+    "total_verbs": 111
+  },
+  "卷055": {
+    "title": "卫青霍去病传第二十五",
+    "para_count": 60,
+    "total_length": 10974,
+    "total_nouns": 1108,
+    "total_verbs": 233
+  },
+  "卷056": {
+    "title": "董仲舒传第二十六",
+    "para_count": 85,
+    "total_length": 10374,
+    "total_nouns": 392,
+    "total_verbs": 9
+  },
+  "卷057": {
+    "title": "司马相如传第二十七上",
+    "para_count": 57,
+    "total_length": 7298,
+    "total_nouns": 561,
+    "total_verbs": 0
+  },
+  "卷057b": {
+    "title": "司马相如传第二十七下",
+    "para_count": 54,
+    "total_length": 6811,
+    "total_nouns": 367,
+    "total_verbs": 0
+  },
+  "卷058": {
+    "title": "公孙弘卜式儿宽传第二十八",
+    "para_count": 57,
+    "total_length": 7674,
+    "total_nouns": 482,
+    "total_verbs": 16
+  },
+  "卷059": {
+    "title": "张汤传第二十九",
+    "para_count": 52,
+    "total_length": 8548,
+    "total_nouns": 680,
+    "total_verbs": 35
+  },
+  "卷060": {
+    "title": "杜周传第三十",
+    "para_count": 66,
+    "total_length": 9465,
+    "total_nouns": 706,
+    "total_verbs": 19
+  },
+  "卷061": {
+    "title": "张骞李广利传第三十一",
+    "para_count": 45,
+    "total_length": 7194,
+    "total_nouns": 679,
+    "total_verbs": 103
+  },
+  "卷062": {
+    "title": "司马迁传第三十二",
+    "para_count": 75,
+    "total_length": 10668,
+    "total_nouns": 575,
+    "total_verbs": 22
+  },
+  "卷063": {
+    "title": "武五子传第三十三",
+    "para_count": 79,
+    "total_length": 12322,
+    "total_nouns": 931,
+    "total_verbs": 95
+  },
+  "卷064": {
+    "title": "严朱吾丘主父徐严终王贾传第三十四上",
+    "para_count": 82,
+    "total_length": 15868,
+    "total_nouns": 2177,
+    "total_verbs": 0
+  },
+  "卷064b": {
+    "title": "严朱吾丘主父徐严终王贾传第三十四下",
+    "para_count": 71,
+    "total_length": 15950,
+    "total_nouns": 2749,
+    "total_verbs": 0
+  },
+  "卷065": {
+    "title": "东方朔传第三十五",
+    "para_count": 77,
+    "total_length": 10286,
+    "total_nouns": 626,
+    "total_verbs": 21
+  },
+  "卷066": {
+    "title": "公孙刘田王杨蔡陈郑传第三十六",
+    "para_count": 75,
+    "total_length": 11775,
+    "total_nouns": 953,
+    "total_verbs": 82
+  },
+  "卷067": {
+    "title": "杨胡朱梅云传第三十七",
+    "para_count": 58,
+    "total_length": 8022,
+    "total_nouns": 567,
+    "total_verbs": 22
+  },
+  "卷068": {
+    "title": "霍光金日磾传第三十八",
+    "para_count": 97,
+    "total_length": 16811,
+    "total_nouns": 1520,
+    "total_verbs": 105
+  },
+  "卷069": {
+    "title": "赵充国辛庆忌传第三十九",
+    "para_count": 81,
+    "total_length": 12197,
+    "total_nouns": 952,
+    "total_verbs": 118
+  },
+  "卷070": {
+    "title": "傅常郑甘陈段传第四十",
+    "para_count": 93,
+    "total_length": 14394,
+    "total_nouns": 1171,
+    "total_verbs": 163
+  },
+  "卷071": {
+    "title": "隽疏于薛平彭传第四十一",
+    "para_count": 51,
+    "total_length": 7404,
+    "total_nouns": 522,
+    "total_verbs": 48
+  },
+  "卷072": {
+    "title": "王贡两龚鲍传第四十二",
+    "para_count": 118,
+    "total_length": 15591,
+    "total_nouns": 932,
+    "total_verbs": 22
+  },
+  "卷073": {
+    "title": "韦贤传第四十三",
+    "para_count": 79,
+    "total_length": 10515,
+    "total_nouns": 640,
+    "total_verbs": 14
+  },
+  "卷074": {
+    "title": "魏相丙吉传第四十四",
+    "para_count": 57,
+    "total_length": 7557,
+    "total_nouns": 454,
+    "total_verbs": 13
+  },
+  "卷075": {
+    "title": "眭两夏侯京翼李传第四十五",
+    "para_count": 116,
+    "total_length": 15753,
+    "total_nouns": 885,
+    "total_verbs": 8
+  },
+  "卷076": {
+    "title": "赵尹韩张两王传第四十六",
+    "para_count": 116,
+    "total_length": 17108,
+    "total_nouns": 1100,
+    "total_verbs": 71
+  },
+  "卷077": {
+    "title": "盖诸葛刘郑孙毋将何传第四十七",
+    "para_count": 70,
+    "total_length": 10416,
+    "total_nouns": 687,
+    "total_verbs": 42
+  },
+  "卷078": {
+    "title": "萧望之传第四十八",
+    "para_count": 63,
+    "total_length": 9347,
+    "total_nouns": 684,
+    "total_verbs": 24
+  },
+  "卷079": {
+    "title": "冯奉世传第四十九",
+    "para_count": 46,
+    "total_length": 6868,
+    "total_nouns": 539,
+    "total_verbs": 31
+  },
+  "卷080": {
+    "title": "宣元六王传第五十",
+    "para_count": 46,
+    "total_length": 6674,
+    "total_nouns": 490,
+    "total_verbs": 26
+  },
+  "卷081": {
+    "title": "匡张孔马传第五十一",
+    "para_count": 103,
+    "total_length": 13609,
+    "total_nouns": 748,
+    "total_verbs": 65
+  },
+  "卷082": {
+    "title": "王商史丹傅喜传第五十二",
+    "para_count": 43,
+    "total_length": 5601,
+    "total_nouns": 332,
+    "total_verbs": 27
+  },
+  "卷083": {
+    "title": "薛宣朱博传第五十三",
+    "para_count": 75,
+    "total_length": 9144,
+    "total_nouns": 414,
+    "total_verbs": 35
+  },
+  "卷084": {
+    "title": "翟方进传第五十四",
+    "para_count": 80,
+    "total_length": 10054,
+    "total_nouns": 534,
+    "total_verbs": 27
+  },
+  "卷085": {
+    "title": "谷永杜邺传第五十五",
+    "para_count": 90,
+    "total_length": 9846,
+    "total_nouns": 259,
+    "total_verbs": 0
+  },
+  "卷086": {
+    "title": "何武王嘉师丹传第五十六",
+    "para_count": 94,
+    "total_length": 13487,
+    "total_nouns": 969,
+    "total_verbs": 66
+  },
+  "卷087": {
+    "title": "扬雄传第五十七上",
+    "para_count": 59,
+    "total_length": 6967,
+    "total_nouns": 288,
+    "total_verbs": 0
+  },
+  "卷087b": {
+    "title": "扬雄传第五十七下",
+    "para_count": 57,
+    "total_length": 6991,
+    "total_nouns": 345,
+    "total_verbs": 7
+  },
+  "卷088": {
+    "title": "儒林传第五十八",
+    "para_count": 100,
+    "total_length": 17646,
+    "total_nouns": 1856,
+    "total_verbs": 31
+  },
+  "卷089": {
+    "title": "循吏传第五十九",
+    "para_count": 56,
+    "total_length": 8055,
+    "total_nouns": 537,
+    "total_verbs": 47
+  },
+  "卷090": {
+    "title": "酷吏传第六十",
+    "para_count": 77,
+    "total_length": 11526,
+    "total_nouns": 819,
+    "total_verbs": 122
+  },
+  "卷091": {
+    "title": "货殖传第六十一",
+    "para_count": 32,
+    "total_length": 4275,
+    "total_nouns": 314,
+    "total_verbs": 8
+  },
+  "卷092": {
+    "title": "游侠传第六十二",
+    "para_count": 61,
+    "total_length": 9345,
+    "total_nouns": 678,
+    "total_verbs": 63
+  },
+  "卷093": {
+    "title": "佞幸传第六十三",
+    "para_count": 59,
+    "total_length": 9689,
+    "total_nouns": 758,
+    "total_verbs": 50
+  },
+  "卷094": {
+    "title": "匈奴传第六十四上",
+    "para_count": 148,
+    "total_length": 20287,
+    "total_nouns": 1393,
+    "total_verbs": 183
+  },
+  "卷094b": {
+    "title": "匈奴传第六十四下",
+    "para_count": 127,
+    "total_length": 18242,
+    "total_nouns": 1482,
+    "total_verbs": 147
+  },
+  "卷095": {
+    "title": "西南夷两粤朝鲜传第六十五",
+    "para_count": 88,
+    "total_length": 14059,
+    "total_nouns": 1259,
+    "total_verbs": 163
+  },
+  "卷096": {
+    "title": "西域传第六十六上",
+    "para_count": 76,
+    "total_length": 11376,
+    "total_nouns": 1061,
+    "total_verbs": 48
+  },
+  "卷096b": {
+    "title": "西域传第六十六下",
+    "para_count": 96,
+    "total_length": 15212,
+    "total_nouns": 1493,
+    "total_verbs": 92
+  },
+  "卷097": {
+    "title": "外戚传第六十七上",
+    "para_count": 103,
+    "total_length": 16849,
+    "total_nouns": 1438,
+    "total_verbs": 121
+  },
+  "卷097b": {
+    "title": "外戚传第六十七下",
+    "para_count": 111,
+    "total_length": 16394,
+    "total_nouns": 1275,
+    "total_verbs": 126
+  },
+  "卷098": {
+    "title": "元后传第六十八",
+    "para_count": 76,
+    "total_length": 12168,
+    "total_nouns": 1017,
+    "total_verbs": 41
+  },
+  "卷099": {
+    "title": "王莽传第六十九上",
+    "para_count": 171,
+    "total_length": 44303,
+    "total_nouns": 7813,
+    "total_verbs": 1
+  },
+  "卷099b": {
+    "title": "王莽传第六十九中",
+    "para_count": 136,
+    "total_length": 21699,
+    "total_nouns": 2118,
+    "total_verbs": 156
+  },
+  "卷099c": {
+    "title": "王莽传第六十九下",
+    "para_count": 138,
+    "total_length": 22171,
+    "total_nouns": 2139,
+    "total_verbs": 95
+  },
+  "卷100": {
+    "title": "叙传第七十上",
+    "para_count": 69,
+    "total_length": 7362,
+    "total_nouns": 193,
+    "total_verbs": 0
+  },
+  "卷100b": {
+    "title": "叙传第七十下",
+    "para_count": 61,
+    "total_length": 7545,
+    "total_nouns": 316,
+    "total_verbs": 0
+  }
+}

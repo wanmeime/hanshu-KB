@@ -1,0 +1,1017 @@
+{
+  "chapter": "卷023",
+  "title": "刑法志第三",
+  "paragraphs": [
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "0",
+      "length": 5,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "1",
+      "length": 528,
+      "noun_count": 40,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "2.1",
+      "length": 181,
+      "noun_count": 22,
+      "verb_count": 0,
+      "persons": [
+        "黄帝",
+        "颛顼",
+        "灌兜",
+        "鲧",
+        "共工"
+      ],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "2.2",
+      "length": 196,
+      "noun_count": 32,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2.1"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "2.3",
+      "length": 207,
+      "noun_count": 30,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2.2"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "2.4",
+      "length": 153,
+      "noun_count": 21,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2.3"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "2.5",
+      "length": 165,
+      "noun_count": 27,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2.4"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "2.6",
+      "length": 56,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2.5"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "3",
+      "length": 560,
+      "noun_count": 45,
+      "verb_count": 0,
+      "persons": [
+        "公",
+        "鲁成公",
+        "齐桓",
+        "孔子",
+        "管仲",
+        "子路",
+        "晋文",
+        "由",
+        "齐桓公",
+        "哀公"
+      ],
+      "prev": "2.6"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "4.1",
+      "length": 164,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "吴起",
+        "孙膑",
+        "孙武",
+        "商鞅"
+      ],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "4.2",
+      "length": 162,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "孙卿",
+        "孙",
+        "秦昭",
+        "齐愍",
+        "吴",
+        "魏惠"
+      ],
+      "prev": "4.1"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "4.3",
+      "length": 118,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "尧",
+        "桀"
+      ],
+      "prev": "4.2"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "4.4",
+      "length": 104,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "武王"
+      ],
+      "prev": "4.3"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "4.5",
+      "length": 147,
+      "noun_count": 14,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "4.4"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "4.6",
+      "length": 129,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "4.5"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "4.7",
+      "length": 175,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "武",
+        "齐桓",
+        "文",
+        "汤",
+        "晋文",
+        "桓"
+      ],
+      "prev": "4.6"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "5",
+      "length": 551,
+      "noun_count": 36,
+      "verb_count": 0,
+      "persons": [
+        "楚昭王",
+        "武",
+        "白起",
+        "孙",
+        "商",
+        "齐桓",
+        "咎繇",
+        "王翦",
+        "汤",
+        "昭王"
+      ],
+      "prev": "4.7"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "6",
+      "length": 248,
+      "noun_count": 26,
+      "verb_count": 1,
+      "persons": [
+        "贡禹",
+        "陆",
+        "萧",
+        "曹",
+        "叔孙通",
+        "元帝",
+        "武帝",
+        "高祖",
+        "郦",
+        "良"
+      ],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "7",
+      "length": 197,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "孔子"
+      ],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "8",
+      "length": 246,
+      "noun_count": 29,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "9",
+      "length": 147,
+      "noun_count": 20,
+      "verb_count": 0,
+      "persons": [
+        "穆王",
+        "甫侯"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "10.1",
+      "length": 152,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "子产",
+        "叔向"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "10.2",
+      "length": 120,
+      "noun_count": 3,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "10.1"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "10.3",
+      "length": 170,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "文王"
+      ],
+      "prev": "10.2"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "10.4",
+      "length": 146,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "孔子",
+        "子产",
+        "侨",
+        "子"
+      ],
+      "prev": "10.3"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "10.5",
+      "length": 87,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "孟氏",
+        "曾子",
+        "阳肤"
+      ],
+      "prev": "10.4"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "11",
+      "length": 92,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "申子",
+        "商鞅"
+      ],
+      "prev": "10.5"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "12",
+      "length": 108,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "秦始皇"
+      ],
+      "prev": "11"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "13",
+      "length": 117,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "高祖",
+        "萧何"
+      ],
+      "prev": "12"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "14",
+      "length": 81,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "高后",
+        "曹",
+        "孝惠",
+        "萧"
+      ],
+      "prev": "13"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "15",
+      "length": 158,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "孝文",
+        "张释之"
+      ],
+      "prev": "14"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "16",
+      "length": 457,
+      "noun_count": 29,
+      "verb_count": 0,
+      "persons": [
+        "缇萦",
+        "淳于公",
+        "有虞氏"
+      ],
+      "prev": "15"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "17",
+      "length": 501,
+      "noun_count": 54,
+      "verb_count": 0,
+      "persons": [
+        "张仓",
+        "冯敬"
+      ],
+      "prev": "16"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "18",
+      "length": 317,
+      "noun_count": 36,
+      "verb_count": 0,
+      "persons": [
+        "卫绾",
+        "景帝",
+        "刘舍"
+      ],
+      "prev": "17"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "19",
+      "length": 264,
+      "noun_count": 18,
+      "verb_count": 0,
+      "persons": [
+        "张汤",
+        "孝武",
+        "赵禹"
+      ],
+      "prev": "18"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "20",
+      "length": 427,
+      "noun_count": 30,
+      "verb_count": 0,
+      "persons": [
+        "黄霸",
+        "宣帝",
+        "于定国",
+        "路温舒",
+        "郑昌"
+      ],
+      "prev": "19"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "21",
+      "length": 118,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "元席"
+      ],
+      "prev": "20"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "22",
+      "length": 375,
+      "noun_count": 28,
+      "verb_count": 0,
+      "persons": [
+        "仲山父",
+        "成帝"
+      ],
+      "prev": "21"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "23",
+      "length": 132,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "韩信",
+        "彭越"
+      ],
+      "prev": "22"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "24",
+      "length": 31,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "高后"
+      ],
+      "prev": "23"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "25",
+      "length": 441,
+      "noun_count": 26,
+      "verb_count": 0,
+      "persons": [
+        "勃",
+        "陈平",
+        "文帝",
+        "孝文",
+        "新垣平",
+        "平",
+        "周勃"
+      ],
+      "prev": "24"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "26.1",
+      "length": 144,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "25"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "26.2",
+      "length": 130,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "高皇帝"
+      ],
+      "prev": "26.1"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "26.3",
+      "length": 158,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "孝景"
+      ],
+      "prev": "26.2"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "26.4",
+      "length": 135,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "26.3"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "26.5",
+      "length": 154,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "孝宣"
+      ],
+      "prev": "26.4"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "26.6",
+      "length": 87,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "成帝"
+      ],
+      "prev": "26.5"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "27",
+      "length": 349,
+      "noun_count": 23,
+      "verb_count": 0,
+      "persons": [
+        "昭",
+        "宣",
+        "孔子",
+        "元",
+        "哀",
+        "成",
+        "平"
+      ],
+      "prev": "26.6"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "28",
+      "length": 335,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "孔子",
+        "伯夷"
+      ],
+      "prev": "27"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "29",
+      "length": 140,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "惠",
+        "哀",
+        "高",
+        "成"
+      ],
+      "prev": "28"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "30",
+      "length": 437,
+      "noun_count": 30,
+      "verb_count": 0,
+      "persons": [
+        "孙卿"
+      ],
+      "prev": "29"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "31.1",
+      "length": 150,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "武",
+        "孙卿",
+        "禹",
+        "汤",
+        "舜",
+        "尧"
+      ],
+      "prev": "30"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "31.2",
+      "length": 135,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "31.1"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "31.3",
+      "length": 130,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "31.2"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "31.4",
+      "length": 142,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "31.3"
+    },
+    {
+      "chapter": "卷023",
+      "title": "刑法志第三",
+      "para": "31.5",
+      "length": 122,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "孝文",
+        "康",
+        "成"
+      ],
+      "prev": "31.4"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2.1",
+      "relation": "next"
+    },
+    {
+      "from": "2.1",
+      "to": "2.2",
+      "relation": "next"
+    },
+    {
+      "from": "2.2",
+      "to": "2.3",
+      "relation": "next"
+    },
+    {
+      "from": "2.3",
+      "to": "2.4",
+      "relation": "next"
+    },
+    {
+      "from": "2.4",
+      "to": "2.5",
+      "relation": "next"
+    },
+    {
+      "from": "2.5",
+      "to": "2.6",
+      "relation": "next"
+    },
+    {
+      "from": "2.6",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4.1",
+      "relation": "next"
+    },
+    {
+      "from": "4.1",
+      "to": "4.2",
+      "relation": "next"
+    },
+    {
+      "from": "4.2",
+      "to": "4.3",
+      "relation": "next"
+    },
+    {
+      "from": "4.3",
+      "to": "4.4",
+      "relation": "next"
+    },
+    {
+      "from": "4.4",
+      "to": "4.5",
+      "relation": "next"
+    },
+    {
+      "from": "4.5",
+      "to": "4.6",
+      "relation": "next"
+    },
+    {
+      "from": "4.6",
+      "to": "4.7",
+      "relation": "next"
+    },
+    {
+      "from": "4.7",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10.1",
+      "relation": "next"
+    },
+    {
+      "from": "10.1",
+      "to": "10.2",
+      "relation": "next"
+    },
+    {
+      "from": "10.2",
+      "to": "10.3",
+      "relation": "next"
+    },
+    {
+      "from": "10.3",
+      "to": "10.4",
+      "relation": "next"
+    },
+    {
+      "from": "10.4",
+      "to": "10.5",
+      "relation": "next"
+    },
+    {
+      "from": "10.5",
+      "to": "11",
+      "relation": "next"
+    },
+    {
+      "from": "11",
+      "to": "12",
+      "relation": "next"
+    },
+    {
+      "from": "12",
+      "to": "13",
+      "relation": "next"
+    },
+    {
+      "from": "13",
+      "to": "14",
+      "relation": "next"
+    },
+    {
+      "from": "14",
+      "to": "15",
+      "relation": "next"
+    },
+    {
+      "from": "15",
+      "to": "16",
+      "relation": "next"
+    },
+    {
+      "from": "16",
+      "to": "17",
+      "relation": "next"
+    },
+    {
+      "from": "17",
+      "to": "18",
+      "relation": "next"
+    },
+    {
+      "from": "18",
+      "to": "19",
+      "relation": "next"
+    },
+    {
+      "from": "19",
+      "to": "20",
+      "relation": "next"
+    },
+    {
+      "from": "20",
+      "to": "21",
+      "relation": "next"
+    },
+    {
+      "from": "21",
+      "to": "22",
+      "relation": "next"
+    },
+    {
+      "from": "22",
+      "to": "23",
+      "relation": "next"
+    },
+    {
+      "from": "23",
+      "to": "24",
+      "relation": "next"
+    },
+    {
+      "from": "24",
+      "to": "25",
+      "relation": "next"
+    },
+    {
+      "from": "25",
+      "to": "26.1",
+      "relation": "next"
+    },
+    {
+      "from": "26.1",
+      "to": "26.2",
+      "relation": "next"
+    },
+    {
+      "from": "26.2",
+      "to": "26.3",
+      "relation": "next"
+    },
+    {
+      "from": "26.3",
+      "to": "26.4",
+      "relation": "next"
+    },
+    {
+      "from": "26.4",
+      "to": "26.5",
+      "relation": "next"
+    },
+    {
+      "from": "26.5",
+      "to": "26.6",
+      "relation": "next"
+    },
+    {
+      "from": "26.6",
+      "to": "27",
+      "relation": "next"
+    },
+    {
+      "from": "27",
+      "to": "28",
+      "relation": "next"
+    },
+    {
+      "from": "28",
+      "to": "29",
+      "relation": "next"
+    },
+    {
+      "from": "29",
+      "to": "30",
+      "relation": "next"
+    },
+    {
+      "from": "30",
+      "to": "31.1",
+      "relation": "next"
+    },
+    {
+      "from": "31.1",
+      "to": "31.2",
+      "relation": "next"
+    },
+    {
+      "from": "31.2",
+      "to": "31.3",
+      "relation": "next"
+    },
+    {
+      "from": "31.3",
+      "to": "31.4",
+      "relation": "next"
+    },
+    {
+      "from": "31.4",
+      "to": "31.5",
+      "relation": "next"
+    }
+  ]
+}

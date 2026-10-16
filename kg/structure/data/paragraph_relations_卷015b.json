@@ -1,0 +1,126 @@
+{
+  "chapter": "卷015b",
+  "title": "王子侯表第三下",
+  "paragraphs": [
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "0",
+      "length": 7,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "1",
+      "length": 87,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "王莽",
+        "孝元"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "2",
+      "length": 3,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "3",
+      "length": 3,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "4",
+      "length": 3,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "5",
+      "length": 3,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "6",
+      "length": 3,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷015b",
+      "title": "王子侯表第三下",
+      "para": "7",
+      "length": 3,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": "6"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    }
+  ]
+}

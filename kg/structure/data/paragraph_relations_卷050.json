@@ -1,0 +1,953 @@
+{
+  "chapter": "卷050",
+  "title": "张冯汲郑传第二十",
+  "paragraphs": [
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "0",
+      "length": 8,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.1",
+      "length": 175,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "仲",
+        "释之",
+        "文帝",
+        "爰盎",
+        "张释之"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.2",
+      "length": 174,
+      "noun_count": 16,
+      "verb_count": 1,
+      "persons": [
+        "释之",
+        "文帝"
+      ],
+      "prev": "1.1"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.3",
+      "length": 159,
+      "noun_count": 13,
+      "verb_count": 1,
+      "persons": [
+        "释之",
+        "张相如",
+        "周勃"
+      ],
+      "prev": "1.2"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.4",
+      "length": 134,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "二世",
+        "文帝"
+      ],
+      "prev": "1.3"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.5",
+      "length": 178,
+      "noun_count": 17,
+      "verb_count": 1,
+      "persons": [
+        "薄太后",
+        "释之",
+        "文帝"
+      ],
+      "prev": "1.4"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.6",
+      "length": 165,
+      "noun_count": 14,
+      "verb_count": 2,
+      "persons": [
+        "薄太后",
+        "慎夫人",
+        "释之",
+        "文帝"
+      ],
+      "prev": "1.5"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.7",
+      "length": 187,
+      "noun_count": 17,
+      "verb_count": 2,
+      "persons": [
+        "释之",
+        "文帝"
+      ],
+      "prev": "1.6"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.8",
+      "length": 152,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "释之"
+      ],
+      "prev": "1.7"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.9",
+      "length": 139,
+      "noun_count": 9,
+      "verb_count": 1,
+      "persons": [
+        "文帝"
+      ],
+      "prev": "1.8"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.10",
+      "length": 110,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "释之",
+        "先帝"
+      ],
+      "prev": "1.9"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.11",
+      "length": 183,
+      "noun_count": 19,
+      "verb_count": 2,
+      "persons": [
+        "王恬启",
+        "周亚夫",
+        "文帝",
+        "景帝",
+        "张廷尉",
+        "释之"
+      ],
+      "prev": "1.10"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.12",
+      "length": 157,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "景帝",
+        "张廷尉",
+        "释之",
+        "王生"
+      ],
+      "prev": "1.11"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.13",
+      "length": 174,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "冯唐",
+        "挚",
+        "王生",
+        "景帝",
+        "张廷尉",
+        "释之"
+      ],
+      "prev": "1.12"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.14",
+      "length": 159,
+      "noun_count": 16,
+      "verb_count": 0,
+      "persons": [
+        "唐",
+        "高祛",
+        "李齐",
+        "文帝"
+      ],
+      "prev": "1.13"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.15",
+      "length": 175,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "廉颇",
+        "大父",
+        "李齐",
+        "唐",
+        "李牧"
+      ],
+      "prev": "1.14"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.16",
+      "length": 148,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "唐",
+        "廉颇",
+        "卬",
+        "李牧"
+      ],
+      "prev": "1.15"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.17",
+      "length": 118,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "唐",
+        "李牧",
+        "大父"
+      ],
+      "prev": "1.16"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.18",
+      "length": 181,
+      "noun_count": 19,
+      "verb_count": 4,
+      "persons": [
+        "迁",
+        "郭开",
+        "颜聚",
+        "李牧"
+      ],
+      "prev": "1.17"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.19",
+      "length": 180,
+      "noun_count": 14,
+      "verb_count": 4,
+      "persons": [
+        "尚",
+        "魏尚"
+      ],
+      "prev": "1.18"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.20",
+      "length": 122,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "李牧",
+        "文帝",
+        "尚"
+      ],
+      "prev": "1.19"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.21",
+      "length": 221,
+      "noun_count": 24,
+      "verb_count": 3,
+      "persons": [
+        "汲黯",
+        "武帝",
+        "唐",
+        "遂",
+        "魏尚",
+        "景帝"
+      ],
+      "prev": "1.20"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.22",
+      "length": 160,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "孝景",
+        "黯",
+        "武帝"
+      ],
+      "prev": "1.21"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.23",
+      "length": 146,
+      "noun_count": 13,
+      "verb_count": 1,
+      "persons": [
+        "黯"
+      ],
+      "prev": "1.22"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.24",
+      "length": 147,
+      "noun_count": 12,
+      "verb_count": 0,
+      "persons": [
+        "黯"
+      ],
+      "prev": "1.23"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.25",
+      "length": 162,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "刘弃疾",
+        "田蚡",
+        "郑当时",
+        "灌夫",
+        "黯",
+        "傅伯",
+        "爰盎"
+      ],
+      "prev": "1.24"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.26",
+      "length": 144,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "唐",
+        "黯",
+        "虞",
+        "汲黯"
+      ],
+      "prev": "1.25"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.27",
+      "length": 163,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "严助",
+        "汲黯",
+        "贲",
+        "育",
+        "黯"
+      ],
+      "prev": "1.26"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.28",
+      "length": 106,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "青",
+        "弘",
+        "黯"
+      ],
+      "prev": "1.27"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.29",
+      "length": 182,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "高皇帝",
+        "汤",
+        "张汤",
+        "黯",
+        "先帝"
+      ],
+      "prev": "1.28"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.30",
+      "length": 127,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "公孙弘",
+        "黯",
+        "汤"
+      ],
+      "prev": "1.29"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.31",
+      "length": 168,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "弘",
+        "黯",
+        "汤"
+      ],
+      "prev": "1.30"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.32",
+      "length": 161,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "青",
+        "黯"
+      ],
+      "prev": "1.31"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.33",
+      "length": 210,
+      "noun_count": 20,
+      "verb_count": 1,
+      "persons": [
+        "弘",
+        "淮南王",
+        "公孙弘",
+        "汤",
+        "张汤",
+        "黯"
+      ],
+      "prev": "1.32"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.34",
+      "length": 152,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "黯",
+        "浑邪王",
+        "汲黯"
+      ],
+      "prev": "1.33"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.35",
+      "length": 107,
+      "noun_count": 6,
+      "verb_count": 1,
+      "persons": [
+        "黯",
+        "浑邪王"
+      ],
+      "prev": "1.34"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.36",
+      "length": 155,
+      "noun_count": 10,
+      "verb_count": 1,
+      "persons": [
+        "浑邪",
+        "黯"
+      ],
+      "prev": "1.35"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.37",
+      "length": 160,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "黯",
+        "汲黯"
+      ],
+      "prev": "1.36"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.38",
+      "length": 152,
+      "noun_count": 11,
+      "verb_count": 1,
+      "persons": [
+        "黯"
+      ],
+      "prev": "1.37"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.39",
+      "length": 150,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "李息",
+        "黯",
+        "汤"
+      ],
+      "prev": "1.38"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.40",
+      "length": 147,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "息",
+        "张汤",
+        "黯",
+        "汤"
+      ],
+      "prev": "1.39"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.41",
+      "length": 202,
+      "noun_count": 23,
+      "verb_count": 0,
+      "persons": [
+        "汲黯",
+        "安",
+        "司马安",
+        "仁",
+        "黯",
+        "段宏",
+        "偃",
+        "信"
+      ],
+      "prev": "1.40"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.42",
+      "length": 166,
+      "noun_count": 19,
+      "verb_count": 2,
+      "persons": [
+        "孝景",
+        "郑君",
+        "当时",
+        "郑当时",
+        "张羽",
+        "高祖",
+        "孝文",
+        "籍",
+        "项籍"
+      ],
+      "prev": "1.41"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.43",
+      "length": 157,
+      "noun_count": 13,
+      "verb_count": 0,
+      "persons": [
+        "当时",
+        "武帝",
+        "大父"
+      ],
+      "prev": "1.42"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.44",
+      "length": 132,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "当时"
+      ],
+      "prev": "1.43"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.45",
+      "length": 131,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "当时",
+        "郑庄"
+      ],
+      "prev": "1.44"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.46",
+      "length": 182,
+      "noun_count": 17,
+      "verb_count": 0,
+      "persons": [
+        "司马安",
+        "当时",
+        "汲黯"
+      ],
+      "prev": "1.45"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.47",
+      "length": 119,
+      "noun_count": 6,
+      "verb_count": 0,
+      "persons": [
+        "翟公",
+        "当时"
+      ],
+      "prev": "1.46"
+    },
+    {
+      "chapter": "卷050",
+      "title": "张冯汲郑传第二十",
+      "para": "1.48",
+      "length": 101,
+      "noun_count": 7,
+      "verb_count": 0,
+      "persons": [
+        "亚夫",
+        "冯唐",
+        "汲黯",
+        "郑当时",
+        "孝文帝",
+        "张释之",
+        "扬子"
+      ],
+      "prev": "1.47"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1.1",
+      "relation": "next"
+    },
+    {
+      "from": "1.1",
+      "to": "1.2",
+      "relation": "next"
+    },
+    {
+      "from": "1.2",
+      "to": "1.3",
+      "relation": "next"
+    },
+    {
+      "from": "1.3",
+      "to": "1.4",
+      "relation": "next"
+    },
+    {
+      "from": "1.4",
+      "to": "1.5",
+      "relation": "next"
+    },
+    {
+      "from": "1.5",
+      "to": "1.6",
+      "relation": "next"
+    },
+    {
+      "from": "1.6",
+      "to": "1.7",
+      "relation": "next"
+    },
+    {
+      "from": "1.7",
+      "to": "1.8",
+      "relation": "next"
+    },
+    {
+      "from": "1.8",
+      "to": "1.9",
+      "relation": "next"
+    },
+    {
+      "from": "1.9",
+      "to": "1.10",
+      "relation": "next"
+    },
+    {
+      "from": "1.10",
+      "to": "1.11",
+      "relation": "next"
+    },
+    {
+      "from": "1.11",
+      "to": "1.12",
+      "relation": "next"
+    },
+    {
+      "from": "1.12",
+      "to": "1.13",
+      "relation": "next"
+    },
+    {
+      "from": "1.13",
+      "to": "1.14",
+      "relation": "next"
+    },
+    {
+      "from": "1.14",
+      "to": "1.15",
+      "relation": "next"
+    },
+    {
+      "from": "1.15",
+      "to": "1.16",
+      "relation": "next"
+    },
+    {
+      "from": "1.16",
+      "to": "1.17",
+      "relation": "next"
+    },
+    {
+      "from": "1.17",
+      "to": "1.18",
+      "relation": "next"
+    },
+    {
+      "from": "1.18",
+      "to": "1.19",
+      "relation": "next"
+    },
+    {
+      "from": "1.19",
+      "to": "1.20",
+      "relation": "next"
+    },
+    {
+      "from": "1.20",
+      "to": "1.21",
+      "relation": "next"
+    },
+    {
+      "from": "1.21",
+      "to": "1.22",
+      "relation": "next"
+    },
+    {
+      "from": "1.22",
+      "to": "1.23",
+      "relation": "next"
+    },
+    {
+      "from": "1.23",
+      "to": "1.24",
+      "relation": "next"
+    },
+    {
+      "from": "1.24",
+      "to": "1.25",
+      "relation": "next"
+    },
+    {
+      "from": "1.25",
+      "to": "1.26",
+      "relation": "next"
+    },
+    {
+      "from": "1.26",
+      "to": "1.27",
+      "relation": "next"
+    },
+    {
+      "from": "1.27",
+      "to": "1.28",
+      "relation": "next"
+    },
+    {
+      "from": "1.28",
+      "to": "1.29",
+      "relation": "next"
+    },
+    {
+      "from": "1.29",
+      "to": "1.30",
+      "relation": "next"
+    },
+    {
+      "from": "1.30",
+      "to": "1.31",
+      "relation": "next"
+    },
+    {
+      "from": "1.31",
+      "to": "1.32",
+      "relation": "next"
+    },
+    {
+      "from": "1.32",
+      "to": "1.33",
+      "relation": "next"
+    },
+    {
+      "from": "1.33",
+      "to": "1.34",
+      "relation": "next"
+    },
+    {
+      "from": "1.34",
+      "to": "1.35",
+      "relation": "next"
+    },
+    {
+      "from": "1.35",
+      "to": "1.36",
+      "relation": "next"
+    },
+    {
+      "from": "1.36",
+      "to": "1.37",
+      "relation": "next"
+    },
+    {
+      "from": "1.37",
+      "to": "1.38",
+      "relation": "next"
+    },
+    {
+      "from": "1.38",
+      "to": "1.39",
+      "relation": "next"
+    },
+    {
+      "from": "1.39",
+      "to": "1.40",
+      "relation": "next"
+    },
+    {
+      "from": "1.40",
+      "to": "1.41",
+      "relation": "next"
+    },
+    {
+      "from": "1.41",
+      "to": "1.42",
+      "relation": "next"
+    },
+    {
+      "from": "1.42",
+      "to": "1.43",
+      "relation": "next"
+    },
+    {
+      "from": "1.43",
+      "to": "1.44",
+      "relation": "next"
+    },
+    {
+      "from": "1.44",
+      "to": "1.45",
+      "relation": "next"
+    },
+    {
+      "from": "1.45",
+      "to": "1.46",
+      "relation": "next"
+    },
+    {
+      "from": "1.46",
+      "to": "1.47",
+      "relation": "next"
+    },
+    {
+      "from": "1.47",
+      "to": "1.48",
+      "relation": "next"
+    }
+  ]
+}

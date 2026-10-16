@@ -1,0 +1,239 @@
+{
+  "chapter": "卷014",
+  "title": "诸侯王表第二",
+  "paragraphs": [
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "0",
+      "length": 6,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "1",
+      "length": 402,
+      "noun_count": 31,
+      "verb_count": 4,
+      "persons": [
+        "太公",
+        "周公",
+        "五伯",
+        "康叔",
+        "周",
+        "邵",
+        "王赧",
+        "三圣",
+        "幽",
+        "平"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "2",
+      "length": 168,
+      "noun_count": 11,
+      "verb_count": 0,
+      "persons": [
+        "三代",
+        "陈",
+        "秦",
+        "周",
+        "刘",
+        "项",
+        "吴"
+      ],
+      "prev": "1"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "3",
+      "length": 522,
+      "noun_count": 58,
+      "verb_count": 1,
+      "persons": [
+        "汉",
+        "孝惠",
+        "高祖",
+        "亡秦",
+        "高后",
+        "太宗"
+      ],
+      "prev": "2"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "4",
+      "length": 343,
+      "noun_count": 33,
+      "verb_count": 2,
+      "persons": [
+        "武",
+        "鼌错",
+        "主父",
+        "景",
+        "武帝",
+        "景帝",
+        "文帝",
+        "贾生"
+      ],
+      "prev": "3"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "5",
+      "length": 241,
+      "noun_count": 10,
+      "verb_count": 0,
+      "persons": [
+        "汉",
+        "伊周",
+        "王莽",
+        "哀",
+        "平"
+      ],
+      "prev": "4"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "6",
+      "length": 32,
+      "noun_count": 4,
+      "verb_count": 0,
+      "persons": [
+        "高祖"
+      ],
+      "prev": "5"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "7",
+      "length": 97,
+      "noun_count": 15,
+      "verb_count": 0,
+      "persons": [
+        "孝文"
+      ],
+      "prev": "6"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "8",
+      "length": 61,
+      "noun_count": 9,
+      "verb_count": 0,
+      "persons": [
+        "孝景"
+      ],
+      "prev": "7"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "9",
+      "length": 54,
+      "noun_count": 8,
+      "verb_count": 0,
+      "persons": [
+        "孝武"
+      ],
+      "prev": "8"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "10",
+      "length": 39,
+      "noun_count": 5,
+      "verb_count": 0,
+      "persons": [
+        "孝宣"
+      ],
+      "prev": "9"
+    },
+    {
+      "chapter": "卷014",
+      "title": "诸侯王表第二",
+      "para": "11",
+      "length": 134,
+      "noun_count": 19,
+      "verb_count": 0,
+      "persons": [
+        "孝平",
+        "孝元",
+        "孝哀",
+        "孝成"
+      ],
+      "prev": "10"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    },
+    {
+      "from": "2",
+      "to": "3",
+      "relation": "next"
+    },
+    {
+      "from": "3",
+      "to": "4",
+      "relation": "next"
+    },
+    {
+      "from": "4",
+      "to": "5",
+      "relation": "next"
+    },
+    {
+      "from": "5",
+      "to": "6",
+      "relation": "next"
+    },
+    {
+      "from": "6",
+      "to": "7",
+      "relation": "next"
+    },
+    {
+      "from": "7",
+      "to": "8",
+      "relation": "next"
+    },
+    {
+      "from": "8",
+      "to": "9",
+      "relation": "next"
+    },
+    {
+      "from": "9",
+      "to": "10",
+      "relation": "next"
+    },
+    {
+      "from": "10",
+      "to": "11",
+      "relation": "next"
+    }
+  ]
+}

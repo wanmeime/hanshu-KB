@@ -1,0 +1,67 @@
+{
+  "chapter": "卷013",
+  "title": "异姓诸侯王表第一",
+  "paragraphs": [
+    {
+      "chapter": "卷013",
+      "title": "异姓诸侯王表第一",
+      "para": "0",
+      "length": 8,
+      "noun_count": 0,
+      "verb_count": 0,
+      "persons": [],
+      "prev": null
+    },
+    {
+      "chapter": "卷013",
+      "title": "异姓诸侯王表第一",
+      "para": "1",
+      "length": 410,
+      "noun_count": 71,
+      "verb_count": 0,
+      "persons": [
+        "武",
+        "禹",
+        "献",
+        "六国",
+        "汤",
+        "文",
+        "襄公",
+        "缪",
+        "秦",
+        "周"
+      ],
+      "prev": "0"
+    },
+    {
+      "chapter": "卷013",
+      "title": "异姓诸侯王表第一",
+      "para": "2",
+      "length": 701,
+      "noun_count": 143,
+      "verb_count": 0,
+      "persons": [
+        "汉",
+        "圣王",
+        "书",
+        "秦",
+        "周",
+        "孝文",
+        "王"
+      ],
+      "prev": "1"
+    }
+  ],
+  "relations": [
+    {
+      "from": "0",
+      "to": "1",
+      "relation": "next"
+    },
+    {
+      "from": "1",
+      "to": "2",
+      "relation": "next"
+    }
+  ]
+}
