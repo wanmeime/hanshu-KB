@@ -55,27 +55,38 @@ codebuddy -p --model custom-local:Deepseek-v4-flash --permission-mode bypassPerm
   - 卷100 PASS 名词193（班氏家传+王命论+幽通赋+宾戏）
   - 卷100b PASS 名词316（叙传骈文）
 
-### 🔄 进行中
--C 无
+- [x] M3 全部120卷标注完成并推送（120/120 PASS）
+- [x] 卷048标注损坏修复（9段）+ 非标注文件清理 + LICENSE/README署名
+- [x] GitHub仓库创建并推送：https://github.com/wanmeime/hanshu-KB
+- [x] **M4 事件关系构建**：词表(31698实体) + 年号映射(15帝王41年号) + 事件(11107) + 关系(24787) + 事实(5482) + 家谱(14帝王) + 结构(9681段)
+- [x] **M5 知识库成型**：本体TTL(18类型31698实例) + 分类树(8944人物) + 生卒年(43已知+399推断) + 反常推理(529异常) + 置信度/覆盖度评估
+- [x] **M6 应用构造**：语法高亮(120卷HTML) + 语义搜索(31698实体) + 历史地图(5387地名92坐标) + 可视化(时间线+网络图)
 
-### ⬜ 待完成（2卷大表）
-- [ ] 卷019b《百官公卿表第七下》（461行，年表格式，218数据段）
-- [ ] 卷020《古今人表第八》（1291行，最大卷）
-- [ ] 卷016《高惠高后文功臣表第四》（539行，72K最大表类卷）
-- [ ] M4：事件构建 + 年代映射 + SPO事实 + 关系网
-- [ ] M5：本体/分类树/置信度/覆盖度
-- [ ] M6：应用（人物轨迹/语义检索/地图）
+### 🔄 进行中
+- 无
+
+### ⬜ 待完成
+- 无（M0-M6 全部完成）
 
 ## 关键资产
 - 底本：`data/chapter_numbered/`（120卷带PN编号）
-- 表8篇：`data/raw/hanshu_tables/`（维基文库）
+- 标注：`kg/entities/标注/`（120卷）+ `kg/entities/entity_index.json`（31698实体）
 - 标注规范：`kg/标注规范/汉书版_实体标注规范_v2.md`
-- 错误模式：`docs/M2_错误模式汇总.md`（45条）
+- 词表：`kg/vocabularies/`（18类名词+4类动词）
+- 年号映射：`kg/chronology/data/`（reign_periods + year_ce_map + 编年表）
+- 事件：`kg/events/data/`（120卷事件索引 + all_events.json）
+- 关系：`kg/relations/`（all_relations.json + 按类型分.md）
+- 事实：`kg/facts/data/all_facts.json`（5482条SPO）
+- 家谱：`kg/genealogy/`（imperial_genealogy.json + 汉朝帝王家谱.md）
+- 本体：`kg/ontology/hanshu_ontology.ttl`（OWL/RDF）
+- 分类树：`kg/taxonomy/`（person.ttl + person_taxonomy.md）
+- 评估：`kg/evaluation/`（反常推理 + 置信度 + 覆盖度 + 正确性）
+- 应用：`kg/applications/`（语法高亮 + 语义搜索 + 历史地图 + 可视化）
 - 校验脚本：`scripts/verify_annotation.py`
-- 批量标注脚本：`scripts/ann_batch.py`
-- 交接文档：`docs/标注交接_2026-10-15.md`
-- 已标：`kg/entities/标注/`（113卷）
+- GitHub：https://github.com/wanmeime/hanshu-KB
 
 ## 更新记录
+- 2026-10-16 M4-M6 全部完成并推送（origin + GitHub）：事件关系+知识库成型+应用构造
+- 2026-10-16 120/120卷标注全部PASS + 卷048修复 + GitHub发布
 - 2026-10-15 卷015b/卷017标注完成并推送；卷018阶段进度77/130段推送；写交接文档；113/120卷已标
 - 2026-10-12 M3 50篇标注完成；修正CodeBuddy烧积分坑（漏--model）；更新看板至真实进度
