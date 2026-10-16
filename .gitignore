@@ -24,3 +24,9 @@ Thumbs.db
 shiji-kb-reference/
 
 *.lock
+
+# 标注目录中的临时/进度文件（只保留 卷XXX_标注.txt）
+kg/entities/标注/_*/
+kg/entities/标注/_*.md
+.codeartsdoer/
+.opencode/
