@@ -1,0 +1,114 @@
+[
+  {
+    "name": "汉高祖",
+    "alias": "刘邦",
+    "start": -202,
+    "end": -195,
+    "reign": 8,
+    "father": "刘太公"
+  },
+  {
+    "name": "汉惠帝",
+    "alias": "刘盈",
+    "start": -195,
+    "end": -188,
+    "reign": 7,
+    "father": "汉高祖"
+  },
+  {
+    "name": "汉文帝",
+    "alias": "刘恒",
+    "start": -180,
+    "end": -157,
+    "reign": 23,
+    "father": "汉高祖"
+  },
+  {
+    "name": "汉景帝",
+    "alias": "刘启",
+    "start": -157,
+    "end": -141,
+    "reign": 16,
+    "father": "汉文帝"
+  },
+  {
+    "name": "汉武帝",
+    "alias": "刘彻",
+    "start": -141,
+    "end": -87,
+    "reign": 54,
+    "father": "汉景帝"
+  },
+  {
+    "name": "汉昭帝",
+    "alias": "刘弗陵",
+    "start": -87,
+    "end": -74,
+    "reign": 13,
+    "father": "汉武帝"
+  },
+  {
+    "name": "汉宣帝",
+    "alias": "刘询",
+    "start": -74,
+    "end": -49,
+    "reign": 25,
+    "father": "刘进"
+  },
+  {
+    "name": "汉元帝",
+    "alias": "刘奭",
+    "start": -49,
+    "end": -33,
+    "reign": 16,
+    "father": "汉宣帝"
+  },
+  {
+    "name": "汉成帝",
+    "alias": "刘骜",
+    "start": -33,
+    "end": -7,
+    "reign": 26,
+    "father": "汉元帝"
+  },
+  {
+    "name": "汉哀帝",
+    "alias": "刘欣",
+    "start": -7,
+    "end": -1,
+    "reign": 6,
+    "father": "刘康"
+  },
+  {
+    "name": "汉平帝",
+    "alias": "刘衎",
+    "start": -1,
+    "end": 5,
+    "reign": 5,
+    "father": "刘兴"
+  },
+  {
+    "name": "孺子婴",
+    "alias": "刘婴",
+    "start": 6,
+    "end": 8,
+    "reign": 3,
+    "father": "刘显"
+  },
+  {
+    "name": "王莽",
+    "alias": "王莽",
+    "start": 9,
+    "end": 23,
+    "reign": 15,
+    "father": "王曼"
+  },
+  {
+    "name": "更始帝",
+    "alias": "刘玄",
+    "start": 23,
+    "end": 25,
+    "reign": 3,
+    "father": "刘子张"
+  }
+]

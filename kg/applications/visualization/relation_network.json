@@ -1,0 +1,1236 @@
+{
+  "nodes": [
+    {
+      "id": "莽",
+      "label": "莽",
+      "count": 1452
+    },
+    {
+      "id": "光",
+      "label": "光",
+      "count": 311
+    },
+    {
+      "id": "武帝",
+      "label": "武帝",
+      "count": 284
+    },
+    {
+      "id": "汤",
+      "label": "汤",
+      "count": 271
+    },
+    {
+      "id": "上",
+      "label": "上",
+      "count": 269
+    },
+    {
+      "id": "王莽",
+      "label": "王莽",
+      "count": 258
+    },
+    {
+      "id": "武",
+      "label": "武",
+      "count": 239
+    },
+    {
+      "id": "高祖",
+      "label": "高祖",
+      "count": 233
+    },
+    {
+      "id": "信",
+      "label": "信",
+      "count": 209
+    },
+    {
+      "id": "羽",
+      "label": "羽",
+      "count": 207
+    },
+    {
+      "id": "孔子",
+      "label": "孔子",
+      "count": 204
+    },
+    {
+      "id": "刘向",
+      "label": "刘向",
+      "count": 197
+    },
+    {
+      "id": "宣帝",
+      "label": "宣帝",
+      "count": 178
+    },
+    {
+      "id": "胜",
+      "label": "胜",
+      "count": 175
+    },
+    {
+      "id": "禹",
+      "label": "禹",
+      "count": 174
+    },
+    {
+      "id": "成帝",
+      "label": "成帝",
+      "count": 174
+    },
+    {
+      "id": "高帝",
+      "label": "高帝",
+      "count": 167
+    },
+    {
+      "id": "吉",
+      "label": "吉",
+      "count": 166
+    },
+    {
+      "id": "沛公",
+      "label": "沛公",
+      "count": 164
+    },
+    {
+      "id": "广",
+      "label": "广",
+      "count": 153
+    },
+    {
+      "id": "舜",
+      "label": "舜",
+      "count": 149
+    },
+    {
+      "id": "显",
+      "label": "显",
+      "count": 142
+    },
+    {
+      "id": "文帝",
+      "label": "文帝",
+      "count": 135
+    },
+    {
+      "id": "敞",
+      "label": "敞",
+      "count": 135
+    },
+    {
+      "id": "王",
+      "label": "王",
+      "count": 132
+    },
+    {
+      "id": "哀帝",
+      "label": "哀帝",
+      "count": 130
+    },
+    {
+      "id": "周公",
+      "label": "周公",
+      "count": 128
+    },
+    {
+      "id": "布",
+      "label": "布",
+      "count": 127
+    },
+    {
+      "id": "望之",
+      "label": "望之",
+      "count": 127
+    },
+    {
+      "id": "延年",
+      "label": "延年",
+      "count": 122
+    },
+    {
+      "id": "嘉",
+      "label": "嘉",
+      "count": 120
+    },
+    {
+      "id": "元帝",
+      "label": "元帝",
+      "count": 120
+    },
+    {
+      "id": "建",
+      "label": "建",
+      "count": 118
+    },
+    {
+      "id": "景帝",
+      "label": "景帝",
+      "count": 117
+    },
+    {
+      "id": "项羽",
+      "label": "项羽",
+      "count": 114
+    },
+    {
+      "id": "黄帝",
+      "label": "黄帝",
+      "count": 112
+    },
+    {
+      "id": "陵",
+      "label": "陵",
+      "count": 112
+    },
+    {
+      "id": "贤",
+      "label": "贤",
+      "count": 112
+    },
+    {
+      "id": "凤",
+      "label": "凤",
+      "count": 112
+    },
+    {
+      "id": "章",
+      "label": "章",
+      "count": 110
+    },
+    {
+      "id": "刘歆",
+      "label": "刘歆",
+      "count": 110
+    },
+    {
+      "id": "董仲舒",
+      "label": "董仲舒",
+      "count": 109
+    },
+    {
+      "id": "贺",
+      "label": "贺",
+      "count": 107
+    },
+    {
+      "id": "尧",
+      "label": "尧",
+      "count": 103
+    },
+    {
+      "id": "延寿",
+      "label": "延寿",
+      "count": 100
+    },
+    {
+      "id": "桀",
+      "label": "桀",
+      "count": 98
+    },
+    {
+      "id": "弘",
+      "label": "弘",
+      "count": 96
+    },
+    {
+      "id": "昭帝",
+      "label": "昭帝",
+      "count": 96
+    },
+    {
+      "id": "韩信",
+      "label": "韩信",
+      "count": 92
+    },
+    {
+      "id": "云",
+      "label": "云",
+      "count": 92
+    },
+    {
+      "id": "婴",
+      "label": "婴",
+      "count": 90
+    },
+    {
+      "id": "公",
+      "label": "公",
+      "count": 89
+    },
+    {
+      "id": "盎",
+      "label": "盎",
+      "count": 89
+    },
+    {
+      "id": "咸",
+      "label": "咸",
+      "count": 88
+    },
+    {
+      "id": "京房",
+      "label": "京房",
+      "count": 87
+    },
+    {
+      "id": "涉",
+      "label": "涉",
+      "count": 86
+    },
+    {
+      "id": "何",
+      "label": "何",
+      "count": 86
+    },
+    {
+      "id": "先帝",
+      "label": "先帝",
+      "count": 86
+    },
+    {
+      "id": "青",
+      "label": "青",
+      "count": 86
+    },
+    {
+      "id": "宣",
+      "label": "宣",
+      "count": 86
+    },
+    {
+      "id": "勃",
+      "label": "勃",
+      "count": 84
+    },
+    {
+      "id": "尊",
+      "label": "尊",
+      "count": 84
+    },
+    {
+      "id": "吕后",
+      "label": "吕后",
+      "count": 83
+    },
+    {
+      "id": "立",
+      "label": "立",
+      "count": 82
+    },
+    {
+      "id": "商",
+      "label": "商",
+      "count": 81
+    },
+    {
+      "id": "安",
+      "label": "安",
+      "count": 80
+    },
+    {
+      "id": "霍光",
+      "label": "霍光",
+      "count": 80
+    },
+    {
+      "id": "孝文",
+      "label": "孝文",
+      "count": 79
+    },
+    {
+      "id": "章邯",
+      "label": "章邯",
+      "count": 78
+    },
+    {
+      "id": "项王",
+      "label": "项王",
+      "count": 78
+    },
+    {
+      "id": "长",
+      "label": "长",
+      "count": 76
+    },
+    {
+      "id": "太后",
+      "label": "太后",
+      "count": 76
+    },
+    {
+      "id": "平",
+      "label": "平",
+      "count": 75
+    },
+    {
+      "id": "钦",
+      "label": "钦",
+      "count": 75
+    },
+    {
+      "id": "遂",
+      "label": "遂",
+      "count": 74
+    },
+    {
+      "id": "高皇帝",
+      "label": "高皇帝",
+      "count": 73
+    },
+    {
+      "id": "参",
+      "label": "参",
+      "count": 73
+    },
+    {
+      "id": "霸",
+      "label": "霸",
+      "count": 73
+    },
+    {
+      "id": "房",
+      "label": "房",
+      "count": 71
+    },
+    {
+      "id": "高后",
+      "label": "高后",
+      "count": 70
+    },
+    {
+      "id": "广汉",
+      "label": "广汉",
+      "count": 69
+    },
+    {
+      "id": "错",
+      "label": "错",
+      "count": 67
+    },
+    {
+      "id": "安世",
+      "label": "安世",
+      "count": 66
+    },
+    {
+      "id": "充国",
+      "label": "充国",
+      "count": 66
+    },
+    {
+      "id": "文",
+      "label": "文",
+      "count": 65
+    },
+    {
+      "id": "朔",
+      "label": "朔",
+      "count": 63
+    },
+    {
+      "id": "恽",
+      "label": "恽",
+      "count": 62
+    },
+    {
+      "id": "歆",
+      "label": "歆",
+      "count": 62
+    },
+    {
+      "id": "孝惠",
+      "label": "孝惠",
+      "count": 61
+    },
+    {
+      "id": "绾",
+      "label": "绾",
+      "count": 60
+    },
+    {
+      "id": "傅太后",
+      "label": "傅太后",
+      "count": 60
+    },
+    {
+      "id": "丹",
+      "label": "丹",
+      "count": 60
+    },
+    {
+      "id": "昌",
+      "label": "昌",
+      "count": 59
+    },
+    {
+      "id": "博",
+      "label": "博",
+      "count": 59
+    },
+    {
+      "id": "夫",
+      "label": "夫",
+      "count": 59
+    },
+    {
+      "id": "偃",
+      "label": "偃",
+      "count": 58
+    },
+    {
+      "id": "安国",
+      "label": "安国",
+      "count": 58
+    },
+    {
+      "id": "虒",
+      "label": "虒",
+      "count": 57
+    },
+    {
+      "id": "项籍",
+      "label": "项籍",
+      "count": 55
+    },
+    {
+      "id": "宝",
+      "label": "宝",
+      "count": 55
+    }
+  ],
+  "edges": [
+    {
+      "source": "沛公",
+      "target": "平",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "章邯",
+      "type": "敌对"
+    },
+    {
+      "source": "章邯",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "项羽",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "羽",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "羽",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "羽",
+      "type": "敌对"
+    },
+    {
+      "source": "羽",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "羽",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "羽",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "布",
+      "type": "敌对"
+    },
+    {
+      "source": "布",
+      "target": "项王",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "韩信",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "韩信",
+      "type": "敌对"
+    },
+    {
+      "source": "布",
+      "target": "吕后",
+      "type": "敌对"
+    },
+    {
+      "source": "章",
+      "target": "勃",
+      "type": "敌对"
+    },
+    {
+      "source": "勃",
+      "target": "章",
+      "type": "敌对"
+    },
+    {
+      "source": "孝惠",
+      "target": "文帝",
+      "type": "敌对"
+    },
+    {
+      "source": "章",
+      "target": "长",
+      "type": "敌对"
+    },
+    {
+      "source": "光",
+      "target": "桀",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "刘向",
+      "type": "敌对"
+    },
+    {
+      "source": "弘",
+      "target": "文帝",
+      "type": "敌对"
+    },
+    {
+      "source": "桀",
+      "target": "霍光",
+      "type": "敌对"
+    },
+    {
+      "source": "光",
+      "target": "显",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "刘向",
+      "type": "敌对"
+    },
+    {
+      "source": "元帝",
+      "target": "成帝",
+      "type": "敌对"
+    },
+    {
+      "source": "王莽",
+      "target": "元帝",
+      "type": "敌对"
+    },
+    {
+      "source": "昭帝",
+      "target": "霍光",
+      "type": "敌对"
+    },
+    {
+      "source": "刘向",
+      "target": "长",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "京房",
+      "type": "敌对"
+    },
+    {
+      "source": "武帝",
+      "target": "宣帝",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "刘歆",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "刘向",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "刘向",
+      "type": "敌对"
+    },
+    {
+      "source": "刘向",
+      "target": "刘歆",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "刘向",
+      "type": "敌对"
+    },
+    {
+      "source": "董仲舒",
+      "target": "刘向",
+      "type": "敌对"
+    },
+    {
+      "source": "刘向",
+      "target": "霍光",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "章邯",
+      "type": "敌对"
+    },
+    {
+      "source": "信",
+      "target": "项王",
+      "type": "敌对"
+    },
+    {
+      "source": "信",
+      "target": "吕后",
+      "type": "敌对"
+    },
+    {
+      "source": "信",
+      "target": "高祖",
+      "type": "敌对"
+    },
+    {
+      "source": "项籍",
+      "target": "布",
+      "type": "敌对"
+    },
+    {
+      "source": "项籍",
+      "target": "布",
+      "type": "敌对"
+    },
+    {
+      "source": "何",
+      "target": "布",
+      "type": "敌对"
+    },
+    {
+      "source": "布",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "高后",
+      "target": "布",
+      "type": "敌对"
+    },
+    {
+      "source": "绾",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "项籍",
+      "target": "绾",
+      "type": "敌对"
+    },
+    {
+      "source": "胜",
+      "target": "绾",
+      "type": "敌对"
+    },
+    {
+      "source": "绾",
+      "target": "胜",
+      "type": "敌对"
+    },
+    {
+      "source": "何",
+      "target": "项羽",
+      "type": "敌对"
+    },
+    {
+      "source": "韩信",
+      "target": "吕后",
+      "type": "敌对"
+    },
+    {
+      "source": "吕后",
+      "target": "何",
+      "type": "敌对"
+    },
+    {
+      "source": "高祖",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "项籍",
+      "target": "参",
+      "type": "敌对"
+    },
+    {
+      "source": "项籍",
+      "target": "参",
+      "type": "敌对"
+    },
+    {
+      "source": "参",
+      "target": "项王",
+      "type": "敌对"
+    },
+    {
+      "source": "羽",
+      "target": "项羽",
+      "type": "敌对"
+    },
+    {
+      "source": "汤",
+      "target": "桀",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "项王",
+      "type": "敌对"
+    },
+    {
+      "source": "项籍",
+      "target": "陵",
+      "type": "敌对"
+    },
+    {
+      "source": "勃",
+      "target": "文帝",
+      "type": "敌对"
+    },
+    {
+      "source": "文帝",
+      "target": "高帝",
+      "type": "敌对"
+    },
+    {
+      "source": "高祖",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "章邯",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "章邯",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "勃",
+      "target": "平",
+      "type": "敌对"
+    },
+    {
+      "source": "沛公",
+      "target": "章邯",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "高祖",
+      "type": "敌对"
+    },
+    {
+      "source": "高祖",
+      "target": "沛公",
+      "type": "敌对"
+    },
+    {
+      "source": "昌",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "高祖",
+      "target": "吕后",
+      "type": "敌对"
+    },
+    {
+      "source": "高祖",
+      "target": "项羽",
+      "type": "敌对"
+    },
+    {
+      "source": "高帝",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "嘉",
+      "target": "错",
+      "type": "敌对"
+    },
+    {
+      "source": "建",
+      "target": "高祖",
+      "type": "敌对"
+    },
+    {
+      "source": "尧",
+      "target": "舜",
+      "type": "敌对"
+    },
+    {
+      "source": "立",
+      "target": "哀帝",
+      "type": "敌对"
+    },
+    {
+      "source": "立",
+      "target": "哀帝",
+      "type": "敌对"
+    },
+    {
+      "source": "汤",
+      "target": "弘",
+      "type": "敌对"
+    },
+    {
+      "source": "尧",
+      "target": "舜",
+      "type": "敌对"
+    },
+    {
+      "source": "先帝",
+      "target": "汤",
+      "type": "敌对"
+    },
+    {
+      "source": "婴",
+      "target": "夫",
+      "type": "敌对"
+    },
+    {
+      "source": "安国",
+      "target": "高皇帝",
+      "type": "敌对"
+    },
+    {
+      "source": "安国",
+      "target": "高皇帝",
+      "type": "敌对"
+    },
+    {
+      "source": "广",
+      "target": "文帝",
+      "type": "敌对"
+    },
+    {
+      "source": "武",
+      "target": "桀",
+      "type": "敌对"
+    },
+    {
+      "source": "霸",
+      "target": "建",
+      "type": "敌对"
+    },
+    {
+      "source": "文",
+      "target": "汤",
+      "type": "敌对"
+    },
+    {
+      "source": "安世",
+      "target": "贺",
+      "type": "敌对"
+    },
+    {
+      "source": "霍光",
+      "target": "禹",
+      "type": "敌对"
+    },
+    {
+      "source": "霍光",
+      "target": "禹",
+      "type": "敌对"
+    },
+    {
+      "source": "桀",
+      "target": "光",
+      "type": "敌对"
+    },
+    {
+      "source": "莽",
+      "target": "章",
+      "type": "敌对"
+    },
+    {
+      "source": "昭帝",
+      "target": "宣帝",
+      "type": "敌对"
+    },
+    {
+      "source": "宣帝",
+      "target": "吉",
+      "type": "敌对"
+    },
+    {
+      "source": "宣帝",
+      "target": "吉",
+      "type": "敌对"
+    },
+    {
+      "source": "延寿",
+      "target": "汤",
+      "type": "敌对"
+    },
+    {
+      "source": "延寿",
+      "target": "汤",
+      "type": "敌对"
+    },
+    {
+      "source": "嘉",
+      "target": "上",
+      "type": "敌对"
+    },
+    {
+      "source": "章",
+      "target": "王莽",
+      "type": "敌对"
+    },
+    {
+      "source": "汤",
+      "target": "武",
+      "type": "敌对"
+    },
+    {
+      "source": "王",
+      "target": "遂",
+      "type": "敌对"
+    },
+    {
+      "source": "信",
+      "target": "宣",
+      "type": "敌对"
+    },
+    {
+      "source": "建",
+      "target": "涉",
+      "type": "敌对"
+    },
+    {
+      "source": "韩信",
+      "target": "信",
+      "type": "敌对"
+    },
+    {
+      "source": "信",
+      "target": "高帝",
+      "type": "敌对"
+    },
+    {
+      "source": "高后",
+      "target": "平",
+      "type": "敌对"
+    },
+    {
+      "source": "王莽",
+      "target": "莽",
+      "type": "敌对"
+    },
+    {
+      "source": "王莽",
+      "target": "莽",
+      "type": "敌对"
+    },
+    {
+      "source": "项羽",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "钦",
+      "target": "王莽",
+      "type": "敌对"
+    },
+    {
+      "source": "光",
+      "target": "桀",
+      "type": "敌对"
+    },
+    {
+      "source": "桀",
+      "target": "光",
+      "type": "敌对"
+    },
+    {
+      "source": "光",
+      "target": "显",
+      "type": "敌对"
+    },
+    {
+      "source": "莽",
+      "target": "立",
+      "type": "敌对"
+    },
+    {
+      "source": "高祖",
+      "target": "项籍",
+      "type": "敌对"
+    },
+    {
+      "source": "莽",
+      "target": "立",
+      "type": "敌对"
+    },
+    {
+      "source": "昌",
+      "target": "莽",
+      "type": "敌对"
+    },
+    {
+      "source": "安世",
+      "target": "延寿",
+      "type": "父子"
+    },
+    {
+      "source": "霍光",
+      "target": "禹",
+      "type": "父子"
+    },
+    {
+      "source": "霍光",
+      "target": "禹",
+      "type": "父子"
+    },
+    {
+      "source": "桀",
+      "target": "安",
+      "type": "父子"
+    },
+    {
+      "source": "光",
+      "target": "禹",
+      "type": "父子"
+    },
+    {
+      "source": "光",
+      "target": "禹",
+      "type": "父子"
+    },
+    {
+      "source": "敞",
+      "target": "涉",
+      "type": "父子"
+    },
+    {
+      "source": "吉",
+      "target": "显",
+      "type": "父子"
+    },
+    {
+      "source": "光",
+      "target": "禹",
+      "type": "父子"
+    },
+    {
+      "source": "显",
+      "target": "婴",
+      "type": "父子"
+    },
+    {
+      "source": "霸",
+      "target": "光",
+      "type": "父子"
+    },
+    {
+      "source": "宣",
+      "target": "章",
+      "type": "父子"
+    },
+    {
+      "source": "桀",
+      "target": "安",
+      "type": "父子"
+    },
+    {
+      "source": "武",
+      "target": "商",
+      "type": "父子"
+    },
+    {
+      "source": "舜",
+      "target": "章",
+      "type": "父子"
+    },
+    {
+      "source": "安世",
+      "target": "贺",
+      "type": "兄弟"
+    },
+    {
+      "source": "安世",
+      "target": "贺",
+      "type": "兄弟"
+    },
+    {
+      "source": "敞",
+      "target": "武",
+      "type": "兄弟"
+    },
+    {
+      "source": "武",
+      "target": "显",
+      "type": "兄弟"
+    },
+    {
+      "source": "武",
+      "target": "显",
+      "type": "兄弟"
+    },
+    {
+      "source": "贺",
+      "target": "安世",
+      "type": "兄弟"
+    },
+    {
+      "source": "景帝",
+      "target": "高祖",
+      "type": "夫妻"
+    }
+  ]
+}
