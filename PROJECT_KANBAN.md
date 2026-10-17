@@ -86,6 +86,7 @@ codebuddy -p --model custom-local:Deepseek-v4-flash --permission-mode bypassPerm
 - GitHub：https://github.com/wanmeime/hanshu-KB
 
 ## 更新记录
+- 2026-10-17 M4-M6 质量修复②：事实补"+类"宾语(斩蛇等)、不及物空宾语不再误报、关系正则加误配守卫(删3条伪关系)；异常1837→1059、error清零、置信度high 59.9%、原文校验100%（commit faca544）
 - 2026-10-16 M4-M6 全部完成并推送（origin + GitHub）：事件关系+知识库成型+应用构造
 - 2026-10-16 120/120卷标注全部PASS + 卷048修复 + GitHub发布
 - 2026-10-15 卷015b/卷017标注完成并推送；卷018阶段进度77/130段推送；写交接文档；113/120卷已标
