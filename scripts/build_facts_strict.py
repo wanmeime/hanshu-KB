@@ -79,7 +79,7 @@ INTRANSITIVE = {
     '称制', '听政', '临朝', '居丧', '服丧',
 }
 
-# 动词→宾语符号优先级
+# 动词→宾语符号优先级（+ 名物/动植物 可作杀伐类宾语，如 斩〖+蛇〗）
 def obj_priority(verb_type, verb_content):
     if verb_content in INTRANSITIVE:
         return []
@@ -89,18 +89,18 @@ def obj_priority(verb_type, verb_content):
         if verb_content in ('徙', '迁', '都', '徙至', '迁至'):
             return ['=', '◆', ';', '@']
         if verb_content in ('击', '攻', '破', '围', '救', '伐', '讨'):
-            return ['@', '◆', '=', ';']
-        return [';', '=', '◆', '@']
+            return ['@', '◆', '=', ';', '+']
+        return [';', '=', '◆', '@', '+']
     if verb_type == '◈':
         if verb_content in ('杀', '击', '攻', '破', '围', '斩', '屠', '虏', '禽',
                             '灭', '讨', '侵', '寇', '灌', '烧', '坑', '劫', '略'):
-            return ['@', '◆', '=', ';']
-        return ['@', '◆', '=', ';']
+            return ['@', '◆', '=', ';', '+']
+        return ['@', '◆', '=', ';', '+']
     if verb_type == '◉':
         if verb_content in ('诛', '灭', '族', '杀', '斩', '赦', '免', '废', '罢'):
             return ['@', '◆', '=']
         return []
-    return ['@', '◆', '=', ';']
+    return ['@', '◆', '=', ';', '+']
 
 
 def find_subject(entities, vstart, plain, max_dist=80):
@@ -189,6 +189,7 @@ def extract_facts_from_para(para_text, para, juan_short, juan_title, curr_time=N
             's': s,
             'p': vc,
             'o': o,
+            'intransitive': vc in INTRANSITIVE,
             'ctx': {'time': time, 'place': place},
             'src': f"{juan_short}_{juan_title}",
             'text': para_text,
@@ -253,6 +254,7 @@ def main():
                     's': f['s'],
                     'p': f['p'],
                     'o': f['o'],
+                    'intransitive': f['intransitive'],
                     'ctx': f['ctx'],
                     'src': f['src'],
                     'text': f['text'],

@@ -1,3166 +1,6140 @@
 [
   {
-    "type": "自环关系",
+    "type": "空值事实",
     "severity": "warning",
-    "description": "淮南王 与自己有封赏关系",
-    "chapter": "淮南衡山济北王传第十四",
-    "para": "1.28"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "高祖 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "10"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "沛公 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "12"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "沛公 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "章邯 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "20"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "歇 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "21"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "杨熊 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "27"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "沛公 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "29"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "田都 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "39"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "越 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "39"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "越 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "39"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "羽 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "48"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "咎 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "69"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "咎 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "69"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "羽 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "70.2"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "张良 与自己有敌对关系",
-    "chapter": "高帝纪第一上",
-    "para": "70.6"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "羽 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "3"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "横 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "12"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "利几 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "利几 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "54"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "56"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "56"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "56"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "郦商 与自己有敌对关系",
-    "chapter": "高帝纪第一下",
-    "para": "66"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "勃 与自己有敌对关系",
-    "chapter": "高后纪第三",
-    "para": "14"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "产 与自己有敌对关系",
-    "chapter": "高后纪第三",
-    "para": "14"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "毋波 与自己有敌对关系",
-    "chapter": "昭帝纪第七",
-    "para": "48"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "毋波 与自己有敌对关系",
-    "chapter": "昭帝纪第七",
-    "para": "48"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "宇 与自己有敌对关系",
-    "chapter": "平帝纪第十二",
-    "para": "28"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "昭公 与自己有敌对关系",
-    "chapter": "五行志第七上",
-    "para": "20"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "赵王 与自己有敌对关系",
-    "chapter": "五行志第七上",
-    "para": "23"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "阅 与自己有敌对关系",
-    "chapter": "五行志第七中之上",
-    "para": "87"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "始皇 与自己有敌对关系",
-    "chapter": "五行志第七中之下",
-    "para": "30.4"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "始皇 与自己有敌对关系",
-    "chapter": "五行志第七中之下",
-    "para": "30.4"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "桓 与自己有敌对关系",
-    "chapter": "五行志第七中之下",
-    "para": "31"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "襄 与自己有敌对关系",
-    "chapter": "五行志第七中之下",
-    "para": "74"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "武臣 与自己有敌对关系",
-    "chapter": "张耳陈馀传第二",
-    "para": "1.9"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "王离 与自己有敌对关系",
-    "chapter": "张耳陈馀传第二",
-    "para": "1.17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "豹 与自己有敌对关系",
-    "chapter": "魏豹田儋韩王信传第三",
-    "para": "1.3"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "荣 与自己有敌对关系",
-    "chapter": "魏豹田儋韩王信传第三",
-    "para": "1.12"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "魏豹田儋韩王信传第三",
-    "para": "1.27"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "嫣 与自己有敌对关系",
-    "chapter": "魏豹田儋韩王信传第三",
-    "para": "1.32"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "信 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.3"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "信 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.3"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "豹 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.14"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "信 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.21"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "信 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.32"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "项王 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.38"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "+末 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.43"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "越 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.51"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "越 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.55"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.62"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.63"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.73"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "赫 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.79"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.85"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "布 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.86"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "豨 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.92"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "豨 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.92"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "豨 与自己有敌对关系",
-    "chapter": "韩彭英卢吴传第四",
-    "para": "1.93"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "定国 与自己有敌对关系",
-    "chapter": "荆燕吴传第五",
-    "para": "1.10"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "盎 与自己有敌对关系",
-    "chapter": "荆燕吴传第五",
-    "para": "1.37"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "卬 与自己有敌对关系",
-    "chapter": "荆燕吴传第五",
-    "para": "1.54"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "丁公 与自己有敌对关系",
-    "chapter": "季布栾布田叔传第七",
-    "para": "1.10"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "仁 与自己有敌对关系",
-    "chapter": "季布栾布田叔传第七",
-    "para": "1.22"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "路中大夫 与自己有敌对关系",
-    "chapter": "高五王传第八",
-    "para": "1.34"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "路中大夫 与自己有敌对关系",
-    "chapter": "高五王传第八",
-    "para": "1.35"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "路中大夫 与自己有敌对关系",
-    "chapter": "高五王传第八",
-    "para": "1.35"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "偃 与自己有敌对关系",
-    "chapter": "高五王传第八",
-    "para": "1.42"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "李由 与自己有敌对关系",
-    "chapter": "萧何曹参传第九",
-    "para": "1.26"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "李由 与自己有敌对关系",
-    "chapter": "萧何曹参传第九",
-    "para": "1.26"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "李由 与自己有敌对关系",
-    "chapter": "萧何曹参传第九",
-    "para": "1.26"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "赵贲 与自己有敌对关系",
-    "chapter": "萧何曹参传第九",
-    "para": "1.27"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "赵贲 与自己有敌对关系",
-    "chapter": "萧何曹参传第九",
-    "para": "1.27"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "赵贲 与自己有敌对关系",
-    "chapter": "萧何曹参传第九",
-    "para": "1.27"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "戚公 与自己有敌对关系",
-    "chapter": "萧何曹参传第九",
-    "para": "1.32"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "项王 与自己有敌对关系",
-    "chapter": "张陈王周传第十",
-    "para": "1.45"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "韩信 与自己有敌对关系",
-    "chapter": "张陈王周传第十",
-    "para": "1.83"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "韩信 与自己有敌对关系",
-    "chapter": "张陈王周传第十",
-    "para": "1.83"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "韩信 与自己有敌对关系",
-    "chapter": "张陈王周传第十",
-    "para": "1.83"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "豨 与自己有敌对关系",
-    "chapter": "张陈王周传第十",
-    "para": "1.85"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "豨 与自己有敌对关系",
-    "chapter": "张陈王周传第十",
-    "para": "1.85"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "吴王 与自己有敌对关系",
-    "chapter": "张陈王周传第十",
-    "para": "1.104"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "项籍 与自己有敌对关系",
-    "chapter": "樊郦滕灌傅靳周传第十一",
-    "para": "1.9"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "高后 与自己有敌对关系",
-    "chapter": "樊郦滕灌傅靳周传第十一",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "高后 与自己有敌对关系",
-    "chapter": "樊郦滕灌傅靳周传第十一",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "苛 与自己有敌对关系",
-    "chapter": "张周赵任申屠传第十二",
-    "para": "1.5"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "嘉 与自己有敌对关系",
-    "chapter": "张周赵任申屠传第十二",
-    "para": "1.25"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "贾 与自己有敌对关系",
-    "chapter": "郦陆朱刘叔孙传第十三",
-    "para": "1.28"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "建 与自己有敌对关系",
-    "chapter": "郦陆朱刘叔孙传第十三",
-    "para": "1.32"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "犴反 与自己有敌对关系",
-    "chapter": "文三王传第十七",
-    "para": "1.19"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "胡亥 与自己有敌对关系",
-    "chapter": "贾谊传第十八",
-    "para": "1.62"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "盎 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "盎 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "盎 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.18"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "错 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.81"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "错 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.83"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "错 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.86"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "错 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.87"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "错 与自己有敌对关系",
-    "chapter": "爰盎晁错传第十九",
-    "para": "1.88"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "章邯 与自己有敌对关系",
-    "chapter": "贾邹枚路传第二十一",
-    "para": "1.35"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "孝王 与自己有敌对关系",
-    "chapter": "贾邹枚路传第二十一",
-    "para": "1.36"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "错 与自己有敌对关系",
-    "chapter": "贾邹枚路传第二十一",
-    "para": "1.73"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "错 与自己有敌对关系",
-    "chapter": "贾邹枚路传第二十一",
-    "para": "1.73"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "甫 与自己有敌对关系",
-    "chapter": "窦田灌韩传第二十二",
-    "para": "1.18"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "恢 与自己有敌对关系",
-    "chapter": "窦田灌韩传第二十二",
-    "para": "1.68"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "恢 与自己有敌对关系",
-    "chapter": "窦田灌韩传第二十二",
-    "para": "1.69"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "恢 与自己有敌对关系",
-    "chapter": "窦田灌韩传第二十二",
-    "para": "1.69"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "元 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.6"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "非 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.11"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "建 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "建 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.21"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "端 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.22"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "端 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.22"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "端 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.22"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "勃 与自己有敌对关系",
-    "chapter": "景十三王传第二十三",
-    "para": "1.62"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.3"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.4"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.9"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.9"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.10"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.12"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.14"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.15"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "陵 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.35"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "陵 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.36"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "陵 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.38"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "陵 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.38"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "陵 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.43"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "陵 与自己有敌对关系",
-    "chapter": "李广苏建传第二十四",
-    "para": "1.73"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "卫青霍去病传第二十五",
-    "para": "1.25"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "破奴 与自己有敌对关系",
-    "chapter": "卫青霍去病传第二十五",
-    "para": "1.57"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "弘 与自己有敌对关系",
-    "chapter": "公孙弘卜式儿宽传第二十八",
-    "para": "1.34"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "山 与自己有敌对关系",
-    "chapter": "张汤传第二十九",
-    "para": "1.12"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "放 与自己有敌对关系",
-    "chapter": "张汤传第二十九",
-    "para": "1.46"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "骞 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.9"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "骞 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.11"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "难兜靡 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.11"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "昆莫 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.13"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "昆莫 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.13"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "毋寡 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.34"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "毋寡 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.36"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "申生 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.38"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "申生 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.38"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "申生 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.38"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "桀 与自己有敌对关系",
-    "chapter": "张骞李广利传第三十一",
-    "para": "1.38"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "太子 与自己有敌对关系",
-    "chapter": "武五子传第三十三",
-    "para": "1.3"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "太子 与自己有敌对关系",
-    "chapter": "武五子传第三十三",
-    "para": "1.14"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "太子 与自己有敌对关系",
-    "chapter": "武五子传第三十三",
-    "para": "1.15"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "延寿 与自己有敌对关系",
-    "chapter": "武五子传第三十三",
-    "para": "1.51"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "胥 与自己有敌对关系",
-    "chapter": "武五子传第三十三",
-    "para": "1.53"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "胥 与自己有敌对关系",
-    "chapter": "武五子传第三十三",
-    "para": "1.53"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "如侯 与自己有敌对关系",
-    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
-    "para": "1.12"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "䜣 与自己有敌对关系",
-    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
-    "para": "1.29"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "君侯 与自己有敌对关系",
-    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
-    "para": "1.33"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "恽 与自己有敌对关系",
-    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
-    "para": "1.35"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "恽 与自己有敌对关系",
-    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
-    "para": "1.43"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "显 与自己有敌对关系",
-    "chapter": "公孙刘田王杨蔡陈郑传第三十六",
-    "para": "1.62"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "光 与自己有敌对关系",
-    "chapter": "霍光金日磾传第三十八",
-    "para": "1.71"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "日磾 与自己有敌对关系",
-    "chapter": "霍光金日磾传第三十八",
-    "para": "1.76"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "日磾 与自己有敌对关系",
-    "chapter": "霍光金日磾传第三十八",
-    "para": "1.76"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "介子 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.2"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "介子 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.2"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "吉 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.15"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "汤 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.61"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "会宗 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.63"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "末振将 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.87"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "番丘 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.88"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "会宗 与自己有敌对关系",
-    "chapter": "傅常郑甘陈段传第四十",
-    "para": "1.89"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广汉 与自己有敌对关系",
-    "chapter": "赵尹韩张两王传第四十六",
-    "para": "1.5"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "尊 与自己有敌对关系",
-    "chapter": "赵尹韩张两王传第四十六",
-    "para": "1.83"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "解 与自己有敌对关系",
-    "chapter": "游侠传第六十二",
-    "para": "1.13"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "解 与自己有敌对关系",
-    "chapter": "游侠传第六十二",
-    "para": "1.18"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "解 与自己有敌对关系",
-    "chapter": "游侠传第六十二",
-    "para": "1.19"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "涉 与自己有敌对关系",
-    "chapter": "游侠传第六十二",
-    "para": "1.45"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "涉 与自己有敌对关系",
-    "chapter": "游侠传第六十二",
-    "para": "1.52"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "涉 与自己有敌对关系",
-    "chapter": "游侠传第六十二",
-    "para": "1.54"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "建 与自己有敌对关系",
-    "chapter": "游侠传第六十二",
-    "para": "1.59"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "酺 与自己有敌对关系",
-    "chapter": "佞幸传第六十三",
-    "para": "1.31"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "头曼 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.18"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.19"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.20"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.20"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "冒顿 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.29"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "恢 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.64"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "安国 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.67"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.75"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "广 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.75"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "路充国 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.90"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "陵 与自己有敌对关系",
-    "chapter": "匈奴传第六十四上",
-    "para": "1.100"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "郅支 与自己有敌对关系",
-    "chapter": "匈奴传第六十四下",
-    "para": "1.7"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "郅支 与自己有敌对关系",
-    "chapter": "匈奴传第六十四下",
-    "para": "1.7"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "郅支 与自己有敌对关系",
-    "chapter": "匈奴传第六十四下",
-    "para": "1.17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "郅支 与自己有敌对关系",
-    "chapter": "匈奴传第六十四下",
-    "para": "1.17"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "郅支 与自己有敌对关系",
-    "chapter": "匈奴传第六十四下",
-    "para": "1.25"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "辟胡 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "亡波 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "亡波 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.16"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "兴 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.21"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "立 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.22"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "立 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.24"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "立 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.24"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "邯 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.25"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "嘉 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.51"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "嘉 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.52"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "嘉 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.52"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "馀善 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.68"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "何 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.76"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "何 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.76"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "何 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.76"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "右渠 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.78"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "山 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.79"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "山 与自己有敌对关系",
-    "chapter": "西南夷两粤朝鲜传第六十五",
-    "para": "1.79"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "破奴 与自己有敌对关系",
-    "chapter": "西域传第六十六上",
-    "para": "1.14"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "介子 与自己有敌对关系",
-    "chapter": "西域传第六十六上",
-    "para": "1.20"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "乌头劳 与自己有敌对关系",
-    "chapter": "西域传第六十六上",
-    "para": "1.39"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "阴末赴 与自己有敌对关系",
-    "chapter": "西域传第六十六上",
-    "para": "1.40"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "阴末赴 与自己有敌对关系",
-    "chapter": "西域传第六十六上",
-    "para": "1.40"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "昧蔡 与自己有敌对关系",
-    "chapter": "西域传第六十六上",
-    "para": "1.65"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "赖丹 与自己有敌对关系",
-    "chapter": "西域传第六十六下",
-    "para": "1.49"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "苏犹 与自己有敌对关系",
-    "chapter": "西域传第六十六下",
-    "para": "1.70"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "苏犹 与自己有敌对关系",
-    "chapter": "西域传第六十六下",
-    "para": "1.70"
-  },
-  {
-    "type": "自环关系",
-    "severity": "warning",
-    "description": "尤 与自己有敌对关系",
-    "chapter": "王莽传第六十九中",
-    "para": "1.90"
-  },
-  {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00025: 沛公 攻 沛公（主宾相同）",
+    "description": "事实 f00015 主语或宾语为空",
     "chapter": "卷001_高帝纪第一上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00054: 章邯 破 章邯（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00016 主语或宾语为空",
     "chapter": "卷001_高帝纪第一上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00088: 杨熊 破 杨熊（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00048 主语或宾语为空",
     "chapter": "卷001_高帝纪第一上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00095: 沛公 击 沛公（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00072 主语或宾语为空",
     "chapter": "卷001_高帝纪第一上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00173: 羽 击 羽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00108 主语或宾语为空",
     "chapter": "卷001_高帝纪第一上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00221: 咎 击 咎（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00170 主语或宾语为空",
     "chapter": "卷001_高帝纪第一上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00258: 羽 围 羽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00202 主语或宾语为空",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00214 主语或宾语为空",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00226 主语或宾语为空",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00241 主语或宾语为空",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00249 主语或宾语为空",
+    "chapter": "卷001_高帝纪第一上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00270 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00284: 横 赦 横（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00280 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00285: 横 诛 横（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00281 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00290: 利几 击 利几（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00288 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00291: 利几 破 利几（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00290 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00350: 布 破 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00292 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00351: 布 走 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00297 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00352: 布 追 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00302 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00354: 布 击 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00314 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00355: 布 破 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00321 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00356: 布 追 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00322 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00357: 布 斩 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00332 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00367: 郦商 族 郦商（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00340 主语或宾语为空",
     "chapter": "卷001b_高帝纪第一下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00394: 产 击 产（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00341 主语或宾语为空",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00342 主语或宾语为空",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00346 主语或宾语为空",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00359 主语或宾语为空",
+    "chapter": "卷001b_高帝纪第一下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00379 主语或宾语为空",
+    "chapter": "卷002_惠帝纪第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00383 主语或宾语为空",
     "chapter": "卷003_高后纪第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00395: 产 走 产（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00387 主语或宾语为空",
     "chapter": "卷003_高后纪第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00396: 产 斗 产（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00391 主语或宾语为空",
     "chapter": "卷003_高后纪第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00397: 产 逐 产（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00393 主语或宾语为空",
     "chapter": "卷003_高后纪第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00467: 濞 赦 濞（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00394 主语或宾语为空",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00395 主语或宾语为空",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00401 主语或宾语为空",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00402 主语或宾语为空",
+    "chapter": "卷003_高后纪第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00407 主语或宾语为空",
+    "chapter": "卷004_文帝纪第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00443 主语或宾语为空",
+    "chapter": "卷004_文帝纪第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00445 主语或宾语为空",
+    "chapter": "卷004_文帝纪第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00446 主语或宾语为空",
+    "chapter": "卷004_文帝纪第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00448 主语或宾语为空",
     "chapter": "卷005_景帝纪第五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00666: 宣帝 立 宣帝（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00451 主语或宾语为空",
+    "chapter": "卷005_景帝纪第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00456 主语或宾语为空",
+    "chapter": "卷005_景帝纪第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00475 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00481 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00482 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00486 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00491 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00497 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00517 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00518 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00524 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00545 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00551 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00557 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00558 主语或宾语为空",
+    "chapter": "卷006_武帝纪第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00565 主语或宾语为空",
+    "chapter": "卷007_昭帝纪第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00574 主语或宾语为空",
+    "chapter": "卷007_昭帝纪第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00576 主语或宾语为空",
+    "chapter": "卷007_昭帝纪第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00577 主语或宾语为空",
+    "chapter": "卷007_昭帝纪第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00583 主语或宾语为空",
+    "chapter": "卷007_昭帝纪第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00591 主语或宾语为空",
+    "chapter": "卷007_昭帝纪第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00603 主语或宾语为空",
+    "chapter": "卷007_昭帝纪第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00607 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00614 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00615 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00616 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00625 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00631 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00634 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00635 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00639 主语或宾语为空",
+    "chapter": "卷008_宣帝纪第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00653 主语或宾语为空",
     "chapter": "卷009_元帝纪第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00760: 宇 诛 宇（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00655 主语或宾语为空",
+    "chapter": "卷009_元帝纪第九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00667 主语或宾语为空",
+    "chapter": "卷010_成帝纪第十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00689 主语或宾语为空",
+    "chapter": "卷010_成帝纪第十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00691 主语或宾语为空",
+    "chapter": "卷011_哀帝纪第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00696 主语或宾语为空",
+    "chapter": "卷011_哀帝纪第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00697 主语或宾语为空",
+    "chapter": "卷011_哀帝纪第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00706 主语或宾语为空",
+    "chapter": "卷011_哀帝纪第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00714 主语或宾语为空",
     "chapter": "卷012_平帝纪第十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00777: 武王 克 武王（主宾相同）",
-    "chapter": "卷021b_律历志第一下"
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00715 主语或宾语为空",
+    "chapter": "卷012_平帝纪第十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00781: 平 诛夷 平（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00721 主语或宾语为空",
+    "chapter": "卷012_平帝纪第十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00722 主语或宾语为空",
+    "chapter": "卷012_平帝纪第十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00734 主语或宾语为空",
+    "chapter": "卷021_律历志第一上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00735 主语或宾语为空",
+    "chapter": "卷021_律历志第一上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00742 主语或宾语为空",
     "chapter": "卷025_郊祀志第五上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00802: 昭公 诛 昭公（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00753 主语或宾语为空",
     "chapter": "卷027_五行志第七上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00803: 赵王 杀 赵王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00754 主语或宾语为空",
     "chapter": "卷027_五行志第七上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00831: 凤 徙 凤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00755 主语或宾语为空",
     "chapter": "卷027_五行志第七上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00889: 子赤 赂 子赤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00769 主语或宾语为空",
     "chapter": "卷027_五行志第七上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00946: 石显 伏辜 石显（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00779 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00786 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00789 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00790 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00795 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00801 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00803 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00810 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00811 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00816 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00817 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00824 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00826 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00828 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00829 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00837 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00838 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00839 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00840 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00843 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00846 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00847 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00850 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00853 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00854 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00856 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00857 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00862 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00873 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00874 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00875 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00876 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00879 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00883 主语或宾语为空",
+    "chapter": "卷027_五行志第七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00888 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00957: 凤 颛 凤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00893 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00971: 贤 赏赐 贤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00896 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00977: 文侯 立 文侯（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00897 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00978: 文侯 封 文侯（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00898 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00990: 鱼石 伐 鱼石（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00901 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00991: 鱼石 取 鱼石（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00903 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f00992: 鱼石 封 鱼石（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00905 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01094: 良 格击 良（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00921 主语或宾语为空",
     "chapter": "卷027b_五行志第七中之上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01228: 始皇 毒惧诛作乱 始皇（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00932 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00942 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00947 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00962 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00967 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00974 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00978 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f00986 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01003 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01010 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01016 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01019 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01020 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01031 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01039 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01045 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01051 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01057 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01061 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01062 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01078 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01089 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01091 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01093 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01098 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01106 主语或宾语为空",
+    "chapter": "卷027b_五行志第七中之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01110 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01229: 始皇 诛 始皇（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01111 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01230: 始皇 斩 始皇（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01114 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01240: 桓 杀 桓（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01117 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01314: 昭公 大雨雹 昭公（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01127 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01315: 昭公 胁君之象见 昭公（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01128 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01331: 博 凶恶亟疾之怒 博（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01142 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01358: 襄 杀 襄（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01143 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01359: 襄 伤足丧屦 襄（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01152 主语或宾语为空",
     "chapter": "卷027c_五行志第七中之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01504: 蔡侯 出 蔡侯（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01159 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01181 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01189 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01194 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01201 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01204 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01205 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01206 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01214 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01215 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01216 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01217 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01218 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01219 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01221 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01222 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01228 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01229 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01230 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01231 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01239 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01246 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01248 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01249 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01250 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01255 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01256 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01262 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01263 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01264 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01265 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01266 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01268 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01269 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01271 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01276 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01277 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01278 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01279 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01290 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01291 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01298 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01299 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01300 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01301 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01309 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01310 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01316 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01327 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01328 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01330 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01336 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01341 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01342 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01343 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01344 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01345 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01349 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01350 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01351 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01352 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01359 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01368 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01369 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01378 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01379 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01380 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01381 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01382 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01383 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01389 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01391 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01392 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01395 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01396 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01397 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01398 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01405 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01406 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01413 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01416 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01418 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01422 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01426 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01433 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01434 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01445 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01446 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01448 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01450 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01451 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01452 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01453 主语或宾语为空",
+    "chapter": "卷027c_五行志第七中之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01459 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01460 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01461 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01464 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01477 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01478 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01487 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01497 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01501 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01506 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01507 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01511 主语或宾语为空",
+    "chapter": "卷027d_五行志第七下之上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01512 主语或宾语为空",
     "chapter": "卷027e_五行志第七下之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01505: 蔡侯 奔 蔡侯（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01513 主语或宾语为空",
     "chapter": "卷027e_五行志第七下之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01545: 京房 出 京房（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01514 主语或宾语为空",
     "chapter": "卷027e_五行志第七下之下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01647: 馀 走 馀（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01515 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01517 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01519 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01530 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01531 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01540 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01553 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01562 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01563 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01565 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01571 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01579 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01582 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01591 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01592 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01599 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01600 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01601 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01602 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01608 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01614 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01615 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01616 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01618 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01634 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01645 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01648 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01654 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01665 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01669 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01671 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01675 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01677 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01681 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01687 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01688 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01691 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01693 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01694 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01695 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01696 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01697 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01704 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01710 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01711 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01712 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01727 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01739 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01740 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01741 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01748 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01750 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01751 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01755 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01758 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01774 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01778 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01784 主语或宾语为空",
+    "chapter": "卷027e_五行志第七下之下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01788 主语或宾语为空",
+    "chapter": "卷029_沟洫志第九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01794 主语或宾语为空",
     "chapter": "卷032_张耳陈馀传第二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01651: 王离 攻 王离（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01811 主语或宾语为空",
     "chapter": "卷032_张耳陈馀传第二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01693: 咎 自杀 咎（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01812 主语或宾语为空",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01813 主语或宾语为空",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01821 主语或宾语为空",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01845 主语或宾语为空",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01847 主语或宾语为空",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01848 主语或宾语为空",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01856 主语或宾语为空",
+    "chapter": "卷032_张耳陈馀传第二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01873 主语或宾语为空",
     "chapter": "卷033_魏豹田儋韩王信传第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01736: 荣 杀 荣（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01911 主语或宾语为空",
     "chapter": "卷033_魏豹田儋韩王信传第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01737: 荣 烧 荣（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01920 主语或宾语为空",
     "chapter": "卷033_魏豹田儋韩王信传第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01738: 荣 夷 荣（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01938 主语或宾语为空",
     "chapter": "卷033_魏豹田儋韩王信传第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01767: 高帝 自刭 高帝（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01939 主语或宾语为空",
     "chapter": "卷033_魏豹田儋韩王信传第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01778: 信 徙 信（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01940 主语或宾语为空",
     "chapter": "卷033_魏豹田儋韩王信传第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01780: 信 救 信（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01941 主语或宾语为空",
     "chapter": "卷033_魏豹田儋韩王信传第三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01832: 信 拔 信（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01942 主语或宾语为空",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01948 主语或宾语为空",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01960 主语或宾语为空",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01961 主语或宾语为空",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01975 主语或宾语为空",
+    "chapter": "卷033_魏豹田儋韩王信传第三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01984 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01873: +末 击 +末（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01987 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01874: 信 刭 信（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f01988 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01890: 越 斩 越（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02005 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01925: 布 破 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02011 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01950: 赫 族 赫（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02016 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01961: 布 破 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02018 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01962: 布 杀 布（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02020 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01977: 豨 破 豨（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02039 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f01980: 豨 灭 豨（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02044 主语或宾语为空",
     "chapter": "卷034_韩彭英卢吴传第四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02018: 定国 自杀 定国（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02050 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02056 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02064 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02066 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02067 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02068 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02069 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02087 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02111 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02128 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02140 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02154 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02160 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02164 主语或宾语为空",
+    "chapter": "卷034_韩彭英卢吴传第四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02189 主语或宾语为空",
     "chapter": "卷035_荆燕吴传第五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02019: 定国 立 定国（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02191 主语或宾语为空",
     "chapter": "卷035_荆燕吴传第五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02031: 盎 杀 盎（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02197 主语或宾语为空",
     "chapter": "卷035_荆燕吴传第五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02081: 更生 立 更生（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02201 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02205 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02211 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02212 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02213 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02215 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02216 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02217 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02222 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02223 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02224 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02226 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02228 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02229 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02230 主语或宾语为空",
+    "chapter": "卷035_荆燕吴传第五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02244 主语或宾语为空",
     "chapter": "卷036_楚元王传第六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02107: 丁公 灭 丁公（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02253 主语或宾语为空",
+    "chapter": "卷036_楚元王传第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02265 主语或宾语为空",
+    "chapter": "卷036_楚元王传第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02279 主语或宾语为空",
+    "chapter": "卷036_楚元王传第六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02284 主语或宾语为空",
     "chapter": "卷037_季布栾布田叔传第七"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02205: 路中大夫 围 路中大夫（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02285 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02293 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02294 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02296 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02297 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02298 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02300 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02304 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02306 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02309 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02312 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02316 主语或宾语为空",
+    "chapter": "卷037_季布栾布田叔传第七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02318 主语或宾语为空",
     "chapter": "卷038_高五王传第八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02217: 偃 诛 偃（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02320 主语或宾语为空",
     "chapter": "卷038_高五王传第八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02235: 何 封 何（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02323 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02338 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02339 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02341 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02347 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02355 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02359 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02365 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02372 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02387 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02399 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02405 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02411 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02416 主语或宾语为空",
+    "chapter": "卷038_高五王传第八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02422 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02236: 何 封 何（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02427 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02265: 李由 救 李由（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02429 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02266: 李由 击 李由（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02431 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02267: 李由 破 李由（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02438 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02268: 李由 杀 李由（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02461 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02274: 赵贲 击 赵贲（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02495 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02275: 赵贲 围 赵贲（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02498 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02276: 赵贲 击 赵贲（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02499 主语或宾语为空",
     "chapter": "卷039_萧何曹参传第九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02278: 齮 虏 齮（主宾相同）",
-    "chapter": "卷039_萧何曹参传第九"
-  },
-  {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02321: 秦皇帝 狙击 秦皇帝（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02511 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02350: 雍齿 封 雍齿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02528 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02360: 项王 诛 项王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02534 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02416: 韩信 攻 韩信（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02536 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02417: 韩信 击 韩信（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02544 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02418: 韩信 击 韩信（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02562 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02424: 豨 击 豨（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02566 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02445: 吴王 斩 吴王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02609 主语或宾语为空",
     "chapter": "卷040_张陈王周传第十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02472: 陈平 执 陈平（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02614 主语或宾语为空",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02625 主语或宾语为空",
+    "chapter": "卷040_张陈王周传第十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02648 主语或宾语为空",
     "chapter": "卷041_樊郦滕灌傅靳周传第十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02493: 高祖 掠笞 高祖（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02654 主语或宾语为空",
     "chapter": "卷041_樊郦滕灌傅靳周传第十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02530: 苛 破 苛（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02666 主语或宾语为空",
+    "chapter": "卷041_樊郦滕灌傅靳周传第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02667 主语或宾语为空",
+    "chapter": "卷041_樊郦滕灌傅靳周传第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02668 主语或宾语为空",
+    "chapter": "卷041_樊郦滕灌傅靳周传第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02669 主语或宾语为空",
+    "chapter": "卷041_樊郦滕灌傅靳周传第十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02705 主语或宾语为空",
     "chapter": "卷042_张周赵任申屠传第十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02556: 嘉 诛 嘉（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02717 主语或宾语为空",
     "chapter": "卷042_张周赵任申屠传第十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02572: 贾 诛 贾（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02727 主语或宾语为空",
+    "chapter": "卷042_张周赵任申屠传第十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02729 主语或宾语为空",
+    "chapter": "卷042_张周赵任申屠传第十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02732 主语或宾语为空",
     "chapter": "卷043_郦陆朱刘叔孙传第十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02585: 高帝 赦 高帝（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02734 主语或宾语为空",
     "chapter": "卷043_郦陆朱刘叔孙传第十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02626: 徐来 刑 徐来（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02739 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02742 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02744 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02750 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02751 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02752 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02756 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02760 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02761 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02762 主语或宾语为空",
+    "chapter": "卷043_郦陆朱刘叔孙传第十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02779 主语或宾语为空",
     "chapter": "卷044_淮南衡山济北王传第十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02629: 孝 告 孝（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02780 主语或宾语为空",
     "chapter": "卷044_淮南衡山济北王传第十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02643: 蒯通 亨 蒯通（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02782 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02783 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02784 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02786 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02794 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02802 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02803 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02804 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02806 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02811 主语或宾语为空",
+    "chapter": "卷044_淮南衡山济北王传第十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02813 主语或宾语为空",
     "chapter": "卷045_蒯伍江息夫传第十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02729: 管子 灭亡 管子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02815 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02819 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02827 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02828 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02829 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02834 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02835 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02836 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02837 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02838 主语或宾语为空",
+    "chapter": "卷045_蒯伍江息夫传第十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02870 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02874 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02877 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02883 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02887 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02896 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02898 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02902 主语或宾语为空",
+    "chapter": "卷047_文三王传第十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02903 主语或宾语为空",
     "chapter": "卷048_贾谊传第十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02733: 胡亥 杀 胡亥（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02904 主语或宾语为空",
     "chapter": "卷048_贾谊传第十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02741: 丝 刺 丝（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02905 主语或宾语为空",
+    "chapter": "卷048_贾谊传第十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02906 主语或宾语为空",
+    "chapter": "卷048_贾谊传第十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02907 主语或宾语为空",
+    "chapter": "卷048_贾谊传第十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02909 主语或宾语为空",
+    "chapter": "卷048_贾谊传第十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02910 主语或宾语为空",
+    "chapter": "卷048_贾谊传第十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02921 主语或宾语为空",
     "chapter": "卷049_爰盎晁错传第十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02744: 盎 斩 盎（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02922 主语或宾语为空",
     "chapter": "卷049_爰盎晁错传第十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02760: 错 诛 错（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02927 主语或宾语为空",
     "chapter": "卷049_爰盎晁错传第十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02762: 错 斩 错（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02928 主语或宾语为空",
     "chapter": "卷049_爰盎晁错传第十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02763: 错 赦 错（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02931 主语或宾语为空",
     "chapter": "卷049_爰盎晁错传第十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02766: 错 要 错（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02932 主语或宾语为空",
     "chapter": "卷049_爰盎晁错传第十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02767: 错 斩 错（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02939 主语或宾语为空",
     "chapter": "卷049_爰盎晁错传第十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02797: 章邯 攻 章邯（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02940 主语或宾语为空",
+    "chapter": "卷049_爰盎晁错传第十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02956 主语或宾语为空",
+    "chapter": "卷050_张冯汲郑传第二十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02968 主语或宾语为空",
+    "chapter": "卷050_张冯汲郑传第二十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02974 主语或宾语为空",
     "chapter": "卷051_贾邹枚路传第二十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02799: 孝王 杀 孝王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02978 主语或宾语为空",
     "chapter": "卷051_贾邹枚路传第二十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02809: 孝王 立 孝王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02983 主语或宾语为空",
     "chapter": "卷051_贾邹枚路传第二十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02864: 恢 诛 恢（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02987 主语或宾语为空",
+    "chapter": "卷051_贾邹枚路传第二十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f02988 主语或宾语为空",
+    "chapter": "卷051_贾邹枚路传第二十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03005 主语或宾语为空",
+    "chapter": "卷051_贾邹枚路传第二十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03006 主语或宾语为空",
+    "chapter": "卷051_贾邹枚路传第二十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03007 主语或宾语为空",
     "chapter": "卷052_窦田灌韩传第二十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02865: 恢 自杀 恢（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03016 主语或宾语为空",
     "chapter": "卷052_窦田灌韩传第二十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02874: 元 诛 元（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03017 主语或宾语为空",
+    "chapter": "卷052_窦田灌韩传第二十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03034 主语或宾语为空",
+    "chapter": "卷052_窦田灌韩传第二十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03038 主语或宾语为空",
+    "chapter": "卷052_窦田灌韩传第二十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03039 主语或宾语为空",
+    "chapter": "卷052_窦田灌韩传第二十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03050 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02885: 非 击 非（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03052 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02886: 建 嗣 建（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03055 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02891: 建 杀 建（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03062 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02902: 端 诛 端（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03070 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02939: 距 禽 距（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03071 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02953: 望卿 灼 望卿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03084 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02954: 望卿 椓杙 望卿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03087 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02961: 爱 笞 爱（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03095 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f02997: 棁 立 棁（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03101 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03001: 勃 掠 勃（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03102 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03002: 勃 诛 勃（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03106 主语或宾语为空",
     "chapter": "卷053_景十三王传第二十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03024: 广 射 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03111 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03124 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03126 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03129 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03131 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03132 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03133 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03134 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03135 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03136 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03138 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03139 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03141 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03142 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03143 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03144 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03145 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03147 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03150 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03152 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03153 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03154 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03155 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03156 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03157 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03161 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03162 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03171 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03180 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03183 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03184 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03187 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03195 主语或宾语为空",
+    "chapter": "卷053_景十三王传第二十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03206 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03025: 广 杀 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03207 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03026: 广 射 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03208 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03027: 广 杀 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03209 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03036: 广 射 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03210 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03037: 广 杀 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03211 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03038: 广 赎 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03212 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03061: 禹 刺 禹（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03213 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03080: 陵 伤 陵（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03224 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03084: 陵 斩 陵（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03229 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03104: 陵 族 陵（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03231 主语或宾语为空",
     "chapter": "卷054_李广苏建传第二十四"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03141: 青 封 青（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03255 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03258 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03263 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03269 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03274 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03276 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03277 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03290 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03297 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03299 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03300 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03302 主语或宾语为空",
+    "chapter": "卷054_李广苏建传第二十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03318 主语或宾语为空",
     "chapter": "卷055_卫青霍去病传第二十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03144: 青 封 青（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03323 主语或宾语为空",
     "chapter": "卷055_卫青霍去病传第二十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03175: 去病 封 去病（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03338 主语或宾语为空",
     "chapter": "卷055_卫青霍去病传第二十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03179: 广 战 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03339 主语或宾语为空",
     "chapter": "卷055_卫青霍去病传第二十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03180: 广 杀 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03354 主语或宾语为空",
     "chapter": "卷055_卫青霍去病传第二十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03197: 去病 渡 去病（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03360 主语或宾语为空",
     "chapter": "卷055_卫青霍去病传第二十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03291: 山 斩 山（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03361 主语或宾语为空",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03362 主语或宾语为空",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03380 主语或宾语为空",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03400 主语或宾语为空",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03434 主语或宾语为空",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03456 主语或宾语为空",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03470 主语或宾语为空",
+    "chapter": "卷055_卫青霍去病传第二十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03471 主语或宾语为空",
+    "chapter": "卷056_董仲舒传第二十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03472 主语或宾语为空",
+    "chapter": "卷056_董仲舒传第二十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03481 主语或宾语为空",
+    "chapter": "卷058_公孙弘卜式儿宽传第二十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03485 主语或宾语为空",
+    "chapter": "卷058_公孙弘卜式儿宽传第二十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03490 主语或宾语为空",
     "chapter": "卷059_张汤传第二十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03294: 汤 自杀 汤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03491 主语或宾语为空",
     "chapter": "卷059_张汤传第二十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03311: 放 射 放（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03494 主语或宾语为空",
     "chapter": "卷059_张汤传第二十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03315: 放 杀 放（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03496 主语或宾语为空",
     "chapter": "卷059_张汤传第二十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03347: 难兜靡 攻 难兜靡（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03504 主语或宾语为空",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03511 主语或宾语为空",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03513 主语或宾语为空",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03517 主语或宾语为空",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03518 主语或宾语为空",
+    "chapter": "卷059_张汤传第二十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03526 主语或宾语为空",
+    "chapter": "卷060_杜周传第三十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03530 主语或宾语为空",
+    "chapter": "卷060_杜周传第三十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03570 主语或宾语为空",
     "chapter": "卷061_张骞李广利传第三十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03372: 毋寡 诛 毋寡（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03571 主语或宾语为空",
     "chapter": "卷061_张骞李广利传第三十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03375: 申生 攻 申生（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03581 主语或宾语为空",
     "chapter": "卷061_张骞李广利传第三十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03400: 卬 伐 卬（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03596 主语或宾语为空",
+    "chapter": "卷061_张骞李广利传第三十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03613 主语或宾语为空",
+    "chapter": "卷061_张骞李广利传第三十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03625 主语或宾语为空",
     "chapter": "卷062_司马迁传第三十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03413: 太子 诛 太子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03631 主语或宾语为空",
+    "chapter": "卷062_司马迁传第三十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03632 主语或宾语为空",
+    "chapter": "卷062_司马迁传第三十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03633 主语或宾语为空",
+    "chapter": "卷062_司马迁传第三十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03634 主语或宾语为空",
+    "chapter": "卷062_司马迁传第三十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03636 主语或宾语为空",
+    "chapter": "卷062_司马迁传第三十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03641 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03422: 太子 围 太子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03646 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03423: 太子 捕 太子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03650 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03424: 太子 经 太子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03654 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03449: 刘泽 侵陵 刘泽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03660 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03468: 延寿 诛 延寿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03675 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03469: 胥 立 胥（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03679 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03471: 胥 杀 胥（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03696 主语或宾语为空",
     "chapter": "卷063_武五子传第三十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03497: 朔 榜 朔（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03697 主语或宾语为空",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03705 主语或宾语为空",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03714 主语或宾语为空",
+    "chapter": "卷063_武五子传第三十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03717 主语或宾语为空",
     "chapter": "卷065_东方朔传第三十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03502: 主 伏诛 主（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03719 主语或宾语为空",
     "chapter": "卷065_东方朔传第三十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03512: 贺 拜 贺（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03720 主语或宾语为空",
+    "chapter": "卷065_东方朔传第三十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03723 主语或宾语为空",
+    "chapter": "卷065_东方朔传第三十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03725 主语或宾语为空",
+    "chapter": "卷065_东方朔传第三十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03728 主语或宾语为空",
+    "chapter": "卷065_东方朔传第三十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03734 主语或宾语为空",
     "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03549: 䜣 斩 䜣（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03740 主语或宾语为空",
     "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03564: 恽 诛 恽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03750 主语或宾语为空",
     "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03572: 恽 籴 恽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03757 主语或宾语为空",
     "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03605: 忽 封 忽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03758 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03766 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03768 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03769 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03770 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03772 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03779 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03788 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03792 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03793 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03795 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03796 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03797 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03800 主语或宾语为空",
+    "chapter": "卷066_公孙刘田王杨蔡陈郑传第三十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03803 主语或宾语为空",
+    "chapter": "卷067_杨胡朱梅云传第三十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03804 主语或宾语为空",
+    "chapter": "卷067_杨胡朱梅云传第三十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03807 主语或宾语为空",
+    "chapter": "卷067_杨胡朱梅云传第三十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03813 主语或宾语为空",
+    "chapter": "卷067_杨胡朱梅云传第三十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03817 主语或宾语为空",
+    "chapter": "卷067_杨胡朱梅云传第三十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03823 主语或宾语为空",
     "chapter": "卷068_霍光金日磾传第三十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03655: 福 诛灭 福（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03825 主语或宾语为空",
     "chapter": "卷068_霍光金日磾传第三十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03656: 光 诛 光（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03839 主语或宾语为空",
     "chapter": "卷068_霍光金日磾传第三十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03661: 日磾 杀 日磾（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03840 主语或宾语为空",
     "chapter": "卷068_霍光金日磾传第三十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03662: 日磾 杀 日磾（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03842 主语或宾语为空",
     "chapter": "卷068_霍光金日磾传第三十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03747: 介子 诛 介子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03845 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03846 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03849 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03855 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03856 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03860 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03861 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03862 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03872 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03873 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03875 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03879 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03881 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03885 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03886 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03887 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03888 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03890 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03899 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03901 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03909 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03912 主语或宾语为空",
+    "chapter": "卷068_霍光金日磾传第三十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03913 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03914 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03923 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03931 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03934 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03936 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03937 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03943 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03944 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03945 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03946 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03947 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03948 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03949 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03954 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03955 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03956 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03966 主语或宾语为空",
+    "chapter": "卷069_赵充国辛庆忌传第三十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03981 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03748: 介子 斩 介子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f03987 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03814: 郅支单于 臣 郅支单于（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04038 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03850: 汤 盗 汤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04048 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03853: 郅支 兴师 郅支（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04052 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03860: 汤 击 汤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04054 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03861: 会宗 围 会宗（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04066 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03882: 番丘 诛 番丘（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04067 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03883: 番丘 击杀 番丘（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04068 主语或宾语为空",
     "chapter": "卷070_傅常郑甘陈段传第四十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03898: 广 卖 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04074 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04075 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04078 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04083 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04084 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04089 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04090 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04094 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04095 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04100 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04120 主语或宾语为空",
+    "chapter": "卷070_傅常郑甘陈段传第四十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04134 主语或宾语为空",
     "chapter": "卷071_隽疏于薛平彭传第四十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03899: 广 买 广（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04135 主语或宾语为空",
     "chapter": "卷071_隽疏于薛平彭传第四十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03911: 永 嗣 永（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04143 主语或宾语为空",
     "chapter": "卷071_隽疏于薛平彭传第四十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f03949: 莽 封侯 莽（主宾相同）",
-    "chapter": "卷072_王贡两龚鲍传第四十二"
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04144 主语或宾语为空",
+    "chapter": "卷071_隽疏于薛平彭传第四十一"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04011: 延寿 弃市 延寿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04145 主语或宾语为空",
+    "chapter": "卷071_隽疏于薛平彭传第四十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04149 主语或宾语为空",
+    "chapter": "卷071_隽疏于薛平彭传第四十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04189 主语或宾语为空",
+    "chapter": "卷073_韦贤传第四十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04223 主语或宾语为空",
     "chapter": "卷076_赵尹韩张两王传第四十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04027: 尊 收捕 尊（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04225 主语或宾语为空",
     "chapter": "卷076_赵尹韩张两王传第四十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04284: 贤 赐 贤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04226 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04232 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04238 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04240 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04241 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04248 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04249 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04250 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04251 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04252 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04254 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04256 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04258 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04259 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04260 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04264 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04267 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04270 主语或宾语为空",
+    "chapter": "卷076_赵尹韩张两王传第四十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04278 主语或宾语为空",
+    "chapter": "卷077_盖诸葛刘郑孙毋将何传第四十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04282 主语或宾语为空",
+    "chapter": "卷077_盖诸葛刘郑孙毋将何传第四十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04283 主语或宾语为空",
+    "chapter": "卷077_盖诸葛刘郑孙毋将何传第四十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04285 主语或宾语为空",
+    "chapter": "卷077_盖诸葛刘郑孙毋将何传第四十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04292 主语或宾语为空",
+    "chapter": "卷077_盖诸葛刘郑孙毋将何传第四十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04298 主语或宾语为空",
+    "chapter": "卷077_盖诸葛刘郑孙毋将何传第四十七"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04329 主语或宾语为空",
+    "chapter": "卷078_萧望之传第四十八"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04343 主语或宾语为空",
+    "chapter": "卷079_冯奉世传第四十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04348 主语或宾语为空",
+    "chapter": "卷079_冯奉世传第四十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04358 主语或宾语为空",
+    "chapter": "卷079_冯奉世传第四十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04370 主语或宾语为空",
+    "chapter": "卷080_宣元六王传第五十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04379 主语或宾语为空",
+    "chapter": "卷080_宣元六王传第五十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04393 主语或宾语为空",
+    "chapter": "卷081_匡张孔马传第五十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04395 主语或宾语为空",
+    "chapter": "卷081_匡张孔马传第五十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04396 主语或宾语为空",
+    "chapter": "卷081_匡张孔马传第五十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04400 主语或宾语为空",
+    "chapter": "卷081_匡张孔马传第五十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04407 主语或宾语为空",
+    "chapter": "卷081_匡张孔马传第五十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04425 主语或宾语为空",
+    "chapter": "卷081_匡张孔马传第五十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04434 主语或宾语为空",
+    "chapter": "卷081_匡张孔马传第五十一"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04435 主语或宾语为空",
+    "chapter": "卷082_王商史丹傅喜传第五十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04439 主语或宾语为空",
+    "chapter": "卷082_王商史丹傅喜传第五十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04456 主语或宾语为空",
+    "chapter": "卷083_薛宣朱博传第五十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04458 主语或宾语为空",
+    "chapter": "卷083_薛宣朱博传第五十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04460 主语或宾语为空",
+    "chapter": "卷083_薛宣朱博传第五十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04461 主语或宾语为空",
+    "chapter": "卷083_薛宣朱博传第五十三"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04473 主语或宾语为空",
+    "chapter": "卷084_翟方进传第五十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04474 主语或宾语为空",
+    "chapter": "卷084_翟方进传第五十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04482 主语或宾语为空",
+    "chapter": "卷084_翟方进传第五十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04483 主语或宾语为空",
+    "chapter": "卷084_翟方进传第五十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04486 主语或宾语为空",
+    "chapter": "卷084_翟方进传第五十四"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04506 主语或宾语为空",
     "chapter": "卷086_何武王嘉师丹传第五十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04307: 丹 免 丹（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04509 主语或宾语为空",
     "chapter": "卷086_何武王嘉师丹传第五十六"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04333: 戊 立 戊（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04515 主语或宾语为空",
+    "chapter": "卷086_何武王嘉师丹传第五十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04516 主语或宾语为空",
+    "chapter": "卷086_何武王嘉师丹传第五十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04518 主语或宾语为空",
+    "chapter": "卷086_何武王嘉师丹传第五十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04530 主语或宾语为空",
+    "chapter": "卷086_何武王嘉师丹传第五十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04536 主语或宾语为空",
+    "chapter": "卷086_何武王嘉师丹传第五十六"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04544 主语或宾语为空",
+    "chapter": "卷087b_扬雄传第五十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04578 主语或宾语为空",
     "chapter": "卷088_儒林传第五十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04369: 邑 赐 邑（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04579 主语或宾语为空",
     "chapter": "卷089_循吏传第五十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04376: 王 废 王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04582 主语或宾语为空",
     "chapter": "卷089_循吏传第五十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04386: 信臣 罢 信臣（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04590 主语或宾语为空",
     "chapter": "卷089_循吏传第五十九"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04476: 延年 废 延年（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04593 主语或宾语为空",
+    "chapter": "卷089_循吏传第五十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04604 主语或宾语为空",
+    "chapter": "卷089_循吏传第五十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04614 主语或宾语为空",
+    "chapter": "卷089_循吏传第五十九"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04619 主语或宾语为空",
     "chapter": "卷090_酷吏传第六十"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04486: 解 报仇 解（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04625 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04632 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04637 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04638 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04642 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04655 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04669 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04670 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04671 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04674 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04675 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04685 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04688 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04702 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04704 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04706 主语或宾语为空",
+    "chapter": "卷090_酷吏传第六十"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04719 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04487: 解 刺杀 解（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04720 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04488: 解 杀 解（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04727 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04489: 解 徙 解（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04728 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04494: 解 杀 解（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04745 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04495: 解 族 解（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04753 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04520: 涉 杀 涉（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04757 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04525: 涉 杀 涉（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04758 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04535: 建 诛 建（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04759 主语或宾语为空",
     "chapter": "卷092_游侠传第六十二"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04539: 嫣 即位 嫣（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04762 主语或宾语为空",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04763 主语或宾语为空",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04764 主语或宾语为空",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04773 主语或宾语为空",
+    "chapter": "卷092_游侠传第六十二"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04785 主语或宾语为空",
     "chapter": "卷093_佞幸传第六十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04556: 显 徙 显（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04786 主语或宾语为空",
     "chapter": "卷093_佞幸传第六十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04571: 酺 杀 酺（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04787 主语或宾语为空",
     "chapter": "卷093_佞幸传第六十三"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04596: 襄王 伐 襄王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04825 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04605: 惠王 拔 惠王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04827 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04606: 惠王 伐 惠王（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04861 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04614: 头曼 畔 头曼（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04886 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04619: 冒顿 斩 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04893 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04620: 冒顿 斩 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04898 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04621: 冒顿 斩 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04904 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04623: 头曼 射杀 头曼（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04906 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04624: 头曼 诛 头曼（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04909 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04626: 冒顿 杀 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04921 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04627: 冒顿 自立 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04922 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04629: 冒顿 斩 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04936 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04630: 冒顿 斩 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04939 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04631: 冒顿 袭击 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04942 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04641: 冒顿 击 冒顿（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04944 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04664: 恢 诛 恢（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04945 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04670: 安国 败 安国（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04946 主语或宾语为空",
     "chapter": "卷094_匈奴传第六十四上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04671: 安国 围 安国（主宾相同）",
-    "chapter": "卷094_匈奴传第六十四上"
-  },
-  {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04742: 郅支 击 郅支（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04968 主语或宾语为空",
     "chapter": "卷094b_匈奴传第六十四下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04743: 郅支 破 郅支（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04982 主语或宾语为空",
     "chapter": "卷094b_匈奴传第六十四下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04754: 郅支 击 郅支（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f04997 主语或宾语为空",
     "chapter": "卷094b_匈奴传第六十四下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04798: 咸 拜 咸（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05002 主语或宾语为空",
     "chapter": "卷094b_匈奴传第六十四下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04848: 立 攻 立（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05017 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05032 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05033 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05034 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05038 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05042 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05048 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05050 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05062 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05068 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05073 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05074 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05075 主语或宾语为空",
+    "chapter": "卷094b_匈奴传第六十四下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05084 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04849: 立 斩 立（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05095 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04855: 邯 击 邯（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05100 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04883: 兴 立 兴（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05107 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04886: 嘉 诛 嘉（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05116 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04887: 嘉 诛 嘉（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05132 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04888: 嘉 诛 嘉（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05135 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04933: 何 杀 何（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05136 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04939: 右渠 杀 右渠（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05139 主语或宾语为空",
     "chapter": "卷095_西南夷两粤朝鲜传第六十五"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04961: 破奴 破 破奴（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05140 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05141 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05142 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05150 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05154 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05157 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05159 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05161 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05167 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05171 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05172 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05173 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05175 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05181 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05182 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05183 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05187 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05189 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05193 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05196 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05199 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05200 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05203 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05205 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05207 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05208 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05212 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05217 主语或宾语为空",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05223 主语或宾语为空",
     "chapter": "卷096_西域传第六十六上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04966: 介子 刺杀 介子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05224 主语或宾语为空",
     "chapter": "卷096_西域传第六十六上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04968: 介子 斩 介子（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05225 主语或宾语为空",
     "chapter": "卷096_西域传第六十六上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04970: 乌头劳 杀 乌头劳（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05227 主语或宾语为空",
     "chapter": "卷096_西域传第六十六上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04975: 阴末赴 杀 阴末赴（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05228 主语或宾语为空",
     "chapter": "卷096_西域传第六十六上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04986: 昧蔡 杀 昧蔡（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05229 主语或宾语为空",
     "chapter": "卷096_西域传第六十六上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f04987: 昧蔡 立 昧蔡（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05231 主语或宾语为空",
     "chapter": "卷096_西域传第六十六上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05020: 赖丹 杀 赖丹（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05234 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05235 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05241 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05245 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05246 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05248 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05250 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05251 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05260 主语或宾语为空",
+    "chapter": "卷096_西域传第六十六上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05262 主语或宾语为空",
     "chapter": "卷096b_西域传第六十六下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05032: 苏犹 降 苏犹（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05264 主语或宾语为空",
     "chapter": "卷096b_西域传第六十六下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05033: 苏犹 击 苏犹（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05266 主语或宾语为空",
     "chapter": "卷096b_西域传第六十六下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05159: 奉光 死 奉光（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05268 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05275 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05279 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05285 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05286 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05289 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05290 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05292 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05294 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05295 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05298 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05299 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05300 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05301 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05302 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05304 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05306 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05308 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05309 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05310 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05311 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05321 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05323 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05326 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05327 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05330 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05332 主语或宾语为空",
+    "chapter": "卷096b_西域传第六十六下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05342 主语或宾语为空",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05225: 丁姬 焚 丁姬（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05347 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05353 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05359 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05362 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05380 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05382 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05391 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05402 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05404 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05409 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05423 主语或宾语为空",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05450 主语或宾语为空",
     "chapter": "卷097b_外戚传第六十七下"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05270: 凤 死 凤（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05454 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05455 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05459 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05472 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05482 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05484 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05485 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05496 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05506 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05514 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05515 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05517 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05519 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05521 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05522 主语或宾语为空",
+    "chapter": "卷097b_外戚传第六十七下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05523 主语或宾语为空",
     "chapter": "卷098_元后传第六十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05288: 莽 立 莽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05549 主语或宾语为空",
     "chapter": "卷098_元后传第六十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05291: 莽 即位 莽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05557 主语或宾语为空",
     "chapter": "卷098_元后传第六十八"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05337: 寻 自杀 寻（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05574 主语或宾语为空",
     "chapter": "卷099b_王莽传第六十九中"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05363: 元帝 立庙 元帝（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05593 主语或宾语为空",
     "chapter": "卷099b_王莽传第六十九中"
   },
   {
-    "type": "自指事实",
-    "severity": "info",
-    "description": "事实 f05408: 莽 铸作 莽（主宾相同）",
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05597 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05606 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05607 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05619 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05624 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05631 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05634 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05644 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05665 主语或宾语为空",
+    "chapter": "卷099b_王莽传第六十九中"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05673 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05679 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05685 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05692 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05693 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05698 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05706 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05713 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05714 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05720 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05730 主语或宾语为空",
+    "chapter": "卷099c_王莽传第六十九下"
+  },
+  {
+    "type": "空值事实",
+    "severity": "warning",
+    "description": "事实 f05739 主语或宾语为空",
     "chapter": "卷099c_王莽传第六十九下"
   },
   {
@@ -3178,31 +6152,19 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 赵昭仪 用'崩'（通常帝王专用）",
+    "description": "非帝王 成帝 用'崩'（通常帝王专用）",
     "chapter": "卷027e_五行志第七下之下"
   },
   {
     "type": "用词异常",
     "severity": "info",
+    "description": "非帝王 灶 用'崩'（通常帝王专用）",
+    "chapter": "卷095_西南夷两粤朝鲜传第六十五"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
     "description": "非帝王 吕公 用'崩'（通常帝王专用）",
-    "chapter": "卷097_外戚传第六十七上"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 周勃 用'崩'（通常帝王专用）",
-    "chapter": "卷097_外戚传第六十七上"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 惠帝 用'崩'（通常帝王专用）",
-    "chapter": "卷097_外戚传第六十七上"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 吕禄 用'崩'（通常帝王专用）",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
@@ -3214,13 +6176,25 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 薄昭 用'崩'（通常帝王专用）",
+    "description": "非帝王 吕公 用'崩'（通常帝王专用）",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 吕后 用'崩'（通常帝王专用）",
+    "description": "非帝王 惠帝 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 吕太后 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
+    "description": "非帝王 薄昭 用'崩'（通常帝王专用）",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
@@ -3232,13 +6206,19 @@
   {
     "type": "用词异常",
     "severity": "info",
+    "description": "非帝王 薄太后 用'崩'（通常帝王专用）",
+    "chapter": "卷097_外戚传第六十七上"
+  },
+  {
+    "type": "用词异常",
+    "severity": "info",
     "description": "非帝王 王夫人 用'崩'（通常帝王专用）",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 孝武陈皇后 用'崩'（通常帝王专用）",
+    "description": "非帝王 儿姁 用'崩'（通常帝王专用）",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
@@ -3256,13 +6236,7 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 王贺 用'崩'（通常帝王专用）",
-    "chapter": "卷097_外戚传第六十七上"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 卫太子 用'崩'（通常帝王专用）",
+    "description": "非帝王 光 用'崩'（通常帝王专用）",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
@@ -3274,7 +6248,7 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 衍 用'崩'（通常帝王专用）",
+    "description": "非帝王 许后 用'崩'（通常帝王专用）",
     "chapter": "卷097_外戚传第六十七上"
   },
   {
@@ -3292,13 +6266,13 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 孝成赵皇后 用'崩'（通常帝王专用）",
+    "description": "非帝王 定陶王 用'崩'（通常帝王专用）",
     "chapter": "卷097b_外戚传第六十七下"
   },
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 赵皇后 用'崩'（通常帝王专用）",
+    "description": "非帝王 孔光 用'崩'（通常帝王专用）",
     "chapter": "卷097b_外戚传第六十七下"
   },
   {
@@ -3310,25 +6284,13 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 业 用'崩'（通常帝王专用）",
+    "description": "非帝王 董昭仪 用'崩'（通常帝王专用）",
     "chapter": "卷097b_外戚传第六十七下"
   },
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 赵昭仪 用'崩'（通常帝王专用）",
-    "chapter": "卷097b_外戚传第六十七下"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 王太后 用'崩'（通常帝王专用）",
-    "chapter": "卷097b_外戚传第六十七下"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 孝元傅皇后 用'崩'（通常帝王专用）",
+    "description": "非帝王 冯太后 用'崩'（通常帝王专用）",
     "chapter": "卷097b_外戚传第六十七下"
   },
   {
@@ -3346,13 +6308,7 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 王莽 用'崩'（通常帝王专用）",
-    "chapter": "卷097b_外戚传第六十七下"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 冯婕妤 用'崩'（通常帝王专用）",
+    "description": "非帝王 婕妤 用'崩'（通常帝王专用）",
     "chapter": "卷097b_外戚传第六十七下"
   },
   {
@@ -3370,13 +6326,7 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 莽 用'崩'（通常帝王专用）",
-    "chapter": "卷097b_外戚传第六十七下"
-  },
-  {
-    "type": "用词异常",
-    "severity": "info",
-    "description": "非帝王 骜 用'崩'（通常帝王专用）",
+    "description": "非帝王 宣帝 用'崩'（通常帝王专用）",
     "chapter": "卷098_元后传第六十八"
   },
   {
@@ -3394,7 +6344,7 @@
   {
     "type": "用词异常",
     "severity": "info",
-    "description": "非帝王 根 用'崩'（通常帝王专用）",
+    "description": "非帝王 哀帝 用'崩'（通常帝王专用）",
     "chapter": "卷098_元后传第六十八"
   },
   {

@@ -50,8 +50,10 @@ def anomaly_detection():
                 'para': r.get('para', ''),
             })
     
-    # 3. 事实中主语或宾语为空
+    # 3. 事实中主语或宾语为空（不及物动词留空属正常，只报及物缺宾语）
     for fact in facts:
+        if fact.get('intransitive'):
+            continue
         if not fact.get('s') or not fact.get('o'):
             anomalies.append({
                 'type': '空值事实',

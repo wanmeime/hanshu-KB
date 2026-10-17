@@ -151,6 +151,14 @@ def extract_relations_from_para(text, para, juan_short, juan_title, ruler_aliase
         for m in re.finditer(pattern, text):
             p1 = m.group(g1).split('|')[0].strip()
             p2 = m.group(g2).split('|')[0].strip()
+            full = m.group(0)
+            # 误配守卫：
+            # a) "X…子…Y"且Y后紧跟"男" → Y是母（"王夫人男"=王夫人之子），X父Y不成立
+            if rel_type == '父子' and text[m.end():m.end() + 1] == '男':
+                continue
+            # b) "X…妻…"且妻后紧跟病/死/困等 → "X之妻生病/去世"，Y与夫妻关系无关
+            if re.search(r'妻[病死困疾卒丧]', full):
+                continue
             if p1 and p2 and p1 != p2 and valid_person(p1) and valid_person(p2):
                 relations.append({
                     'type': rel_type, 'p1': p1, 'p2': p2,
