@@ -52,6 +52,28 @@ def cn_to_int(s):
 SYM_CHARS = '@=;&%~•!?+◆{:[$#○◈◉◇]'
 
 
+# 同指别名合并（标注定名分裂 → 正名页）
+NAME_MERGE = {
+    '骞': '张骞', '凤': '王凤', '王太后': '王政君', '许后': '许皇后',
+    '郅支': '郅支单于',
+}
+
+
+def ruler_canonical(person):
+    """残留帝王谥号简称/泛称 → reign 君主正名（高帝/高皇帝/孝文皇帝 等）。"""
+    if re.match(r'^孝?(高帝|高皇帝)$', person):
+        return '汉高祖'
+    m = re.match(r'^孝?(惠|文|景|武|昭|宣|元|成|哀|平)(帝|皇帝)$', person)
+    if m:
+        return f"汉{m.group(1)}帝"
+    return None
+
+# 泛指/虚称停用（不建页）：非具体人物或跨多代君主
+GENERIC_STOP = {'先帝', '君王', '长公主', '五帝', '文王', '武王', '周公',
+                '燕王', '淮南王', '昌邑王', '齐王', '楚王', '赵王', '梁王',
+                '定陶共王'}
+
+
 def strip_markers(text):
     text = re.sub(r'〖([^〗]*?)〗', lambda m: m.group(1).split('|')[0].lstrip(SYM_CHARS), text)
     text = re.sub(r'⟦([^⟧]*?)⟧', lambda m: m.group(1).split('|')[0].strip('⟦⟧○◈◉◇' + SYM_CHARS), text)
@@ -176,6 +198,13 @@ def main():
     for r in flat:
         person = r['person']
         person = resolver.ruler_by_alias.get(person, person)
+        rc = ruler_canonical(person)
+        if rc:
+            person = rc
+        if person in NAME_MERGE:
+            person = NAME_MERGE[person]
+        if person in GENERIC_STOP:
+            continue
         key = (person, r['id'])
         if key in seen_pe:
             continue

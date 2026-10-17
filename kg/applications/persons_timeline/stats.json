@@ -1,9 +1,9 @@
 {
   "spec": "SKILL_W10y_时间线页建设",
   "trigger": "events>=3 and years>=3",
-  "persons_total_in_events": 3596,
-  "persons_qualified": 195,
-  "events_total": 12562,
+  "persons_total_in_events": 3565,
+  "persons_qualified": 173,
+  "events_total": 12123,
   "lifespan_annotated": 23,
   "time_unresolved_tokens": {
     "春秋": 246,
@@ -37,5 +37,5 @@
     "四时": 56,
     "初元中": 55
   },
-  "files": 196
+  "files": 174
 }
