@@ -61,7 +61,7 @@ codebuddy -p --model custom-local:Deepseek-v4-flash --permission-mode bypassPerm
 - [x] **M4 事件关系构建**：词表(31698实体) + 年号映射(15帝王41年号) + 事件(11107) + 关系(24787) + 事实(5482) + 家谱(14帝王) + 结构(9681段)
 - [x] **M5 知识库成型**：本体TTL(18类型31698实例) + 分类树(8944人物) + 生卒年(43已知+399推断) + 反常推理(529异常) + 置信度/覆盖度评估
 - [x] **M6 应用构造**：语法高亮(120卷HTML) + 语义搜索(31698实体) + 历史地图(5387地名92坐标) + 可视化(时间线+网络图)
-- [x] **M6 补：人物一生轨迹**（对标 SKILL_W10y 时间线页规范）：173位人物（≥3事件跨≥3年，含帝王泛称合并与停用表过滤），节奏为"年代→事件表"，含生卒年与章节溯源，脚本 `scripts/build_persons_timeline.py`
+- [x] **M6 补：人物一生轨迹**（对标 SKILL_W10y 时间线页规范）：565位人物（事件定年率62.6%；≥3事件跨≥3年，含帝王泛称合并与停用表过滤），节奏为"年代→事件表"，含生卒年与章节溯源，脚本 `scripts/build_persons_timeline.py`
 
 ### 🔄 进行中
 - 无
@@ -82,12 +82,12 @@ codebuddy -p --model custom-local:Deepseek-v4-flash --permission-mode bypassPerm
 - 本体：`kg/ontology/hanshu_ontology.ttl`（OWL/RDF）
 - 分类树：`kg/taxonomy/`（person.ttl + person_taxonomy.md）
 - 评估：`kg/evaluation/`（反常推理 + 置信度 + 覆盖度 + 正确性）
-- 应用：`kg/applications/`（语法高亮 + 语义搜索 + 历史地图 + 可视化 + 一生轨迹时间线173页）
+- 应用：`kg/applications/`（语法高亮 + 语义搜索 + 历史地图 + 可视化 + 一生轨迹时间线565页）
 - 校验脚本：`scripts/verify_annotation.py`
 - GitHub：https://github.com/wanmeime/hanshu-KB
 
 ## 更新记录
-- 2026-10-17b M6补全人物一生轨迹：对标 SKILL_W10y，173页时间线（王莽806/汉高祖504/汉宣帝482/项羽404事件），泛称合并+停用表过滤，脚本 scripts/build_persons_timeline.py；M6验收口径定为"A级标准=史记KB开源同等，轨迹动画属 map 项目"
+- 2026-10-17b M6补全人物一生轨迹：对标 SKILL_W10y，565页时间线（王莽623/汉高祖504/汉宣帝482/项羽404事件），事件定年率62.6%（同章继承+纪章连读+君主锚定+X时中点），泛称合并+停用表过滤，地理志"莽曰"噪声过滤，脚本 scripts/build_persons_timeline.py；M6验收口径定为"A级标准=史记KB开源同等，轨迹动画属 map 项目"
 - 2026-10-17 M4-M6 质量修复②：事实补"+类"宾语(斩蛇等)、不及物空宾语不再误报、关系正则加误配守卫(删3条伪关系)；异常1837→1059、error清零、置信度high 59.9%、原文校验100%（commit faca544）
 - 2026-10-16 M4-M6 全部完成并推送（origin + GitHub）：事件关系+知识库成型+应用构造
 - 2026-10-16 120/120卷标注全部PASS + 卷048修复 + GitHub发布

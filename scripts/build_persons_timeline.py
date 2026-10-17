@@ -110,39 +110,152 @@ class TimeResolver:
         self.han_start = -206
         self.unresolved = Counter()
 
-    def resolve(self, t):
+    def resolve(self, t, state):
+        """解析时间。state: {'ce': 最后成功解析的公元年, 'ruler': 最近君主/年号所属君主}
+        上下文继承规则（同章内）：
+        - 月份/季节/时令（九月、正月、夏、明年春）→ 继承当前 ce（明年 → +1）
+        - 裸纪年（三年/元年）→ 最近君主的 start_bce + n-1
+        - 年号简称（元始/元狩）→ 该年号元年
+        - 'X中'（元始中/元狩中）→ 该纪年区间中点
+        """
         t = t.strip()
         if not t:
             return None, None
+        # 连词数字归一：惟十有五年 → 十五年
+        t = t.replace('有', '').replace('惟', '')
+        # 景帝分区纪年：前元/中元/后元（reign_periods 缺失，按历史分期补）
+        m_jing = re.match(r'^孝?景(前|中|后)(元)?(元|[一二三四五六七八九十百]+|\d+)年', t)
+        if m_jing:
+            base = {'前': -157, '中': -149, '后': -144}[m_jing.group(1)]
+            num = cn_to_int(m_jing.group(3))
+            if num is not None:
+                return base + (num - 1), t
         if t in self.ymap:
             d = self.ymap[t]
+            state['ce'] = d['ce_year']
+            state['era'] = d.get('era')
+            state['ruler'] = d.get('ruler', state.get('ruler'))
             return d['ce_year'], t
-        m = re.match(r'^(.+?)(元|[一二三四五六七八九十百]+|[\d]+)年$', t)
-        if not m:
+        # 上下文类：明年 → 继承+1
+        if t.startswith('明年'):
+            if state.get('ce') is not None:
+                ce = state['ce'] + 1
+                state['ce'] = ce
+                return ce, f"{ce_year_label(ce)}·{t}"
+            self.unresolved['明年(无上文)' + t] += 1
+            return None, t
+        # 月份/季节/时令继承
+        if re.match(r'^(正月|[一二三四五六七八九十]{1,3}月|[春夏秋冬])([^春夏秋冬]{0,4})$', t):
+            if state.get('ce') is not None:
+                return state['ce'], f"{ce_year_label(state['ce'])}年·{t}"
             self.unresolved[t] += 1
             return None, t
-        token, num = m.group(1), cn_to_int(m.group(2))
-        if num is None:
+        # 'X中'：年号区间中点
+        m_mid = re.match(r'^(\S+?)(中|间|末|之初|之末|前后)$', t)
+        if m_mid:
+            token = m_mid.group(1)
+            if token in self.era_start:
+                start, ruler = self.era_start[token]
+                era_d = self.eras[token]
+                end = era_d.get('end_bce', start)
+                ce = (start + end) // 2
+                state['ce'] = ce
+                state['era'] = token
+                state['ruler'] = ruler
+                return ce, f"{ce_year_label(ce)}年·{t}"
+            if token in self.ruler_by_alias and state.get('ce') is None:
+                r = self.ruler_by_alias[token]
+                d = self.rulers[r]
+                return d['end_bce'], f"{ce_year_label(d['end_bce'])}年·{t}"
             self.unresolved[t] += 1
             return None, t
-        # 年号纪年：token 是年号名
-        if token in self.era_start:
-            start, _ = self.era_start[token]
-            return start + (num - 1), t
-        # 君主纪年：token 是君主/别名（汉/秦/新/后/中…均常见）
-        if token in self.ruler_by_alias:
-            r = self.ruler_by_alias[token]
-            d = self.rulers[r]
-            return d['start_bce'] + (num - 1), t
-        # 剥一层：token 尾部含 '帝/王/世' 前缀组合，如 秦二世
-        m2 = re.match(r'^(秦|新|汉)?(.*?(?:世|帝|公|王))?$', token)
-        base = self.ruler_by_alias.get(token)
-        if base:
-            d = self.rulers[base]
-            return d['start_bce'] + (num - 1), t
-        # token 为空（"即皇帝位元年"）或 汉朝默认纪年
-        if token in ('汉', '', '汉高帝', '高帝'):
-            return self.han_start + (num - 1), t
+        # 纯年号简称（元始/居摄/始建国…）与 'X帝时'（_state 无关，取纪年区间中点）
+        if t in self.era_start:
+            start, ruler = self.era_start[t]
+            ce = start
+            state['ce'] = ce
+            state['era'] = t
+            state['ruler'] = ruler
+            return ce, f"{ce_year_label(ce)}年·{t}"
+        # 叙事回指：是岁/其夏/其秋 → 当前年
+        if re.match(r'^(是岁|是年|其[春夏秋冬]|是月夏?)', t):
+            if state.get('ce') is not None:
+                return state['ce'], f"{ce_year_label(state['ce'])}年·{t}"
+            self.unresolved[t] += 1
+            return None, t
+        # 裸君主称（武帝/高后…）→ 该纪年区间中点
+        if re.match(r'^孝?[高惠文景武昭宣元成哀平]{1,2}(帝|皇帝)$|^(高后)$', t):
+            n = re.sub(r'^孝(惠|文|景|武|昭|宣|元|成|哀|平)$', r'汉\1帝', t)
+            n = re.sub(r'^孝?高(帝|皇帝)?$', '汉高祖', n)
+            ruler = self.ruler_by_alias.get(n) or self.ruler_by_alias.get(t)
+            if ruler:
+                rd = self.rulers[ruler]
+                mid = (rd['start_bce'] + rd['end_bce']) // 2
+                if state.get('ce') is None:
+                    state['ce'] = mid
+                    state['ruler'] = ruler
+                    return mid, f"{ce_year_label(mid)}年·{t}"
+                return state['ce'], f"{ce_year_label(state['ce'])}年·{t}"
+        m_shi = re.match(r'^(孝?[高惠文景武昭宣元成哀平]{1,2}帝?|高后)时', t)
+        if m_shi:
+            token = m_shi.group(1)
+            n = re.sub(r'^孝(惠|文|景|武|昭|宣|元|成|哀|平)$', r'汉\1帝', token)
+            n = re.sub(r'^孝?高(帝?)$', '汉高祖', n)
+            ruler = self.ruler_by_alias.get(n) or self.ruler_by_alias.get(token)
+            if ruler:
+                rd = self.rulers[ruler]
+                mid = (rd['start_bce'] + rd['end_bce']) // 2
+                state['ruler'] = ruler
+                if state.get('ce') is None:
+                    state['ce'] = mid
+                    return mid, f"{ce_year_label(mid)}年·{t}"
+                return state['ce'], f"{ce_year_label(state['ce'])}年·{t}"
+        m = re.match(r'^(.*?)(元|[一二三四五六七八九十百]+|[\d]+)年(\S{0,4})$', t)
+        if m:
+            token, num, suffix = m.group(1), cn_to_int(m.group(2)), m.group(3)
+            if num is None:
+                self.unresolved[t] += 1
+                return None, t
+            # 谥号纪年归一：孝文/孝文皇帝 → 汉文帝；高帝/高皇帝 → 汉高祖
+            if token not in self.era_start and token not in self.ruler_by_alias:
+                n = re.sub(r'^孝(惠|文|景|武|昭|宣|元|成|哀|平)(帝|皇帝)?$', r'汉\1帝', token)
+                n = re.sub(r'^孝?(高帝|高皇帝)$', '汉高祖', n)
+                if n in self.era_start or n in self.ruler_by_alias:
+                    token = n
+            if token in self.era_start:
+                start, ruler = self.era_start[token]
+                ce = start + (num - 1)
+                state['ce'] = ce
+                state['era'] = token
+                state['ruler'] = ruler
+                return ce, t
+            if token and token in self.ruler_by_alias:
+                r = self.ruler_by_alias[token]
+                d = self.rulers[r]
+                ce = d['start_bce'] + (num - 1)
+                state['ce'] = ce
+                state['ruler'] = r
+                return ce, t
+            # 裸纪年（三年/元年后）→ 最近era（继续递增）否则最近君主首个年号
+            if not token:
+                if state.get('era') and state['era'] in self.era_start:
+                    ce = self.era_start[state['era']][0] + (num - 1)
+                    state['ce'] = ce
+                    return ce, t
+                ruler = state.get('ruler')
+                if ruler and ruler in self.rulers:
+                    rd = self.rulers[ruler]
+                    base = rd.get('first_era')
+                    if base and base in self.era_start:
+                        ce = self.era_start[base][0] + (num - 1)
+                    else:
+                        ce = rd['start_bce'] + (num - 1)
+                    state['ce'] = ce
+                    return ce, t
+                self.unresolved['裸纪年无上文' + t] += 1
+                return None, t
+            self.unresolved[t] += 1
+            return None, t
         self.unresolved[t] += 1
         return None, t
 
@@ -166,15 +279,46 @@ def main():
     resolver = TimeResolver()
     title_of = {juan: d['title'] for juan, d in events_data.items()}
 
-    # 展开：事件扁平列表（卷来源、解析年份）
+    # 展开：事件扁平列表（卷来源、解析年份）；同章内维护纪年上下文
+    # 纪类章节（编年体）跨章连读传递状态；列传/志/表每章重置
+    DESC_TO_RULER = {
+        '高帝': '汉高祖', '高后': '高后', '惠帝': '汉惠帝', '文帝': '汉文帝',
+        '景帝': '汉景帝', '武昭宣': None, '武帝': '汉武帝', '昭帝': '汉昭帝',
+        '宣帝': '汉宣帝', '元帝': '汉元帝', '成帝': '汉成帝', '哀帝': '汉哀帝',
+        '平帝': '汉平帝',
+    }
+
+    def section_ruler(title):
+        m = re.match(r'^([高惠文景武昭宣元成哀平]{1,2}帝|高后)纪', title)
+        if m:
+            token = m.group(1)
+            if token in DESC_TO_RULER:
+                return DESC_TO_RULER[token]
+        return None
+
     flat = []
+    n_time_all = 0
+    n_time_resolved = 0
+    carry = None  # 上一纪类章节末尾的纪年状态
     for juan, j in events_data.items():
+        if '纪' in j['title']:
+            state = dict(carry) if carry else {'ce': None, 'ruler': None}
+            seed_r = section_ruler(j['title'])
+            if seed_r and seed_r in resolver.rulers:
+                state['ruler'] = seed_r
+        else:
+            state = {'ce': None, 'ruler': None}
         for ev in j['events']:
             t = ev.get('time', '').strip()
             if t:
-                ce, label = resolver.resolve(t)
+                ce, label = resolver.resolve(t, state)
+                n_time_all += 1
+                if ce is not None:
+                    n_time_resolved += 1
             else:
                 ce, label = None, '时间不详'
+            if '纪' in j['title']:
+                carry = state
             for p in ev.get('persons', []):
                 flat.append({
                     'person': canon.get(p, p),
@@ -204,6 +348,9 @@ def main():
         if person in NAME_MERGE:
             person = NAME_MERGE[person]
         if person in GENERIC_STOP:
+            continue
+        # 《地理志》"莽曰X"是改名标注，非王莽生平事件（原文为〖@莽〗曰，须去标记后判）
+        if person == '王莽' and '地理志' in r['title'] and '莽曰' in strip_markers(r['text']):
             continue
         key = (person, r['id'])
         if key in seen_pe:
@@ -321,6 +468,8 @@ def main():
     stats = {
         'spec': 'SKILL_W10y_时间线页建设',
         'trigger': f'events>={MIN_EVENTS} and years>={MIN_YEARS}',
+        'time_resolved': f'{n_time_resolved}/{n_time_all} = {n_time_resolved/max(n_time_all,1)*100:.1f}%',
+        'time_inference': '同章纪年状态继承 + 纪类章节连读 + 章节标题锚定君主 + 谥号纪年归一 + era优先裸纪年',
         'persons_total_in_events': len(by_person),
         'persons_qualified': len(pages),
         'events_total': sum(p['events'] for p in pages),
