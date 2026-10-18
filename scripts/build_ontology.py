@@ -9,6 +9,7 @@ from collections import defaultdict, Counter
 BASE = Path(os.environ.get("HSKB_BASE", "/home/jiaoduan/shared/project/hanshu-KB"))
 ONT_DIR = BASE / "kg" / "ontology"
 TAX_DIR = BASE / "kg" / "taxonomy"
+KG_DIR = BASE / "kg"
 CHRON_DIR = BASE / "kg" / "chronology" / "data"
 ENT_DIR = BASE / "kg" / "entities"
 ANN_DIR = ENT_DIR / "标注"
@@ -136,12 +137,12 @@ def build_ontology_tll(entity_index):
         lines.append(f"    rdfs:range {rng} .")
         lines.append("")
     
-    # 实例声明（取每类前200个高频实体）
-    lines.append("# === 实例（高频实体）===")
+    # 实例声明（全量实体，31698）
+    lines.append("# === 实例（全量）===")
     for rdf_type, entities in sorted(type_entities.items()):
         sorted_entities = sorted(entities)
         lines.append(f"# {TYPE_LABELS.get(rdf_type, rdf_type)} ({len(sorted_entities)} 个)")
-        for entity in sorted_entities[:200]:
+        for entity in sorted_entities:
             # 转义特殊字符
             safe_name = re.sub(r'[^\w\u4e00-\u9fff]', '_', entity)
             if not safe_name:
@@ -186,14 +187,29 @@ def build_taxonomy(entity_index):
         "hs:ForeignLeader rdfs:subClassOf hs:Person ; rdfs:label \"外族首领\" .",
         "hs:OtherPerson rdfs:subClassOf hs:Person ; rdfs:label \"其他人物\" .",
         "",
-        "# 人物实例（前500个高频人物）",
+        "# 人物实例（全量，含出现次数；14 位君主归 hs:Emperor）",
     ]
-    
-    for name, count in persons[:500]:
+
+    # 君主名与别名集合（reign_periods）
+    emperor_alias = set()
+    EMPEROR = {'汉高祖','汉惠帝','高后','汉文帝','汉景帝','汉武帝','汉昭帝','汉宣帝',
+               '汉元帝','汉成帝','汉哀帝','汉平帝','孺子婴','王莽','更始帝'}
+    try:
+        rp = json.loads((KG_DIR / "chronology" / "data" / "reign_periods.json").read_text('utf-8'))
+        for r, d in rp['rulers'].items():
+            if r in EMPEROR:
+                emperor_alias.add(r)
+                emperor_alias.update(d.get('alias', []))
+    except Exception:
+        pass
+
+    persons.sort(key=lambda x: -x[1])
+    for name, count in persons:
         safe_name = re.sub(r'[^\w\u4e00-\u9fff]', '_', name)
         if not safe_name:
             continue
-        lines.append(f"hs:Person_{safe_name} a hs:Person ;")
+        sub = 'hs:Emperor' if name in emperor_alias else 'hs:Person'
+        lines.append(f"hs:Person_{safe_name} a {sub} ;")
         lines.append(f'    rdfs:label "{name}" ;')
         lines.append(f'    hs:occurrenceCount {count} .')
     
